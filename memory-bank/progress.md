@@ -30,11 +30,11 @@
 - [X] Outliers identificados y documentados
 
 ### Lección 3 — Correlación
-- [ ] Scatterplots entre variables clave
-- [ ] Matriz de correlación construida (heatmap)
-- [ ] Coeficiente de Pearson calculado
-- [ ] Correlaciones espurias identificadas y justificadas
-- [ ] Asociaciones documentadas estadística y visualmente
+- [X] Scatterplots entre variables clave
+- [X] Matriz de correlación construida (heatmap)
+- [X] Coeficiente de Pearson calculado
+- [X] Correlaciones espurias identificadas y justificadas
+- [X] Asociaciones documentadas estadística y visualmente
 
 ### Lección 4 — Regresión Lineal
 - [ ] Regresión simple aplicada con statsmodels
