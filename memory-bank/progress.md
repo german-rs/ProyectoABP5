@@ -37,12 +37,12 @@
 - [X] Asociaciones documentadas estadística y visualmente
 
 ### Lección 4 — Regresión Lineal
-- [ ] Regresión simple aplicada con statsmodels
-- [ ] Regresión múltiple aplicada con statsmodels
-- [ ] R², MSE, MAE calculados e interpretados
-- [ ] Significancia de predictores evaluada (p-value)
-- [ ] Coeficientes interpretados
-- [ ] Regresión visualizada con Seaborn
+- [X] Regresión simple aplicada con statsmodels
+- [X] Regresión múltiple aplicada con statsmodels
+- [X] R², MSE, MAE calculados e interpretados
+- [X] Significancia de predictores evaluada (p-value)
+- [X] Coeficientes interpretados
+- [X] Regresión visualizada con Seaborn
 
 ### Lección 5 — Análisis Visual (Seaborn)
 - [ ] pairplot generado
