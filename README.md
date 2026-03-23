@@ -24,12 +24,12 @@ comercioya-eda/
 │   └── processed/               ← Dataset limpio y transformado
 │
 ├── src/
-│   ├── 01_ida.ipynb             ← Lección 1: EDA inicial e IDA
-│   ├── 02_estadistica.ipynb     ← Lección 2: Estadística descriptiva
-│   ├── 03_correlacion.ipynb     ← Lección 3: Correlación
-│   ├── 04_regresion.ipynb       ← Lección 4: Regresión lineal
-│   ├── 05_seaborn.ipynb         ← Lección 5: Visualización con Seaborn
-│   └── 06_matplotlib.ipynb      ← Lección 6: Visualización con Matplotlib
+│   ├── 01_ida.py             ← Lección 1: EDA inicial e IDA
+│   ├── 02_estadistica.py     ← Lección 2: Estadística descriptiva
+│   ├── 03_correlacion.py     ← Lección 3: Correlación
+│   ├── 04_regresion.py       ← Lección 4: Regresión lineal
+│   ├── 05_seaborn.py         ← Lección 5: Visualización con Seaborn
+│   └── 06_matplotlib.py      ← Lección 6: Visualización con Matplotlib
 │
 └── outputs/
     ├── graphs/                  ← Gráficos exportados en PNG

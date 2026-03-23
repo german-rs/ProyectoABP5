@@ -15,11 +15,11 @@
 ## Progreso por lección
 
 ### Lección 1 — EDA / IDA
-- [ ] Dataset generado o cargado
-- [ ] Variables clasificadas (cuantitativas / categóricas)
-- [ ] Nulos detectados y documentados
-- [ ] Duplicados identificados
-- [ ] Primeros hallazgos escritos en Markdown
+- [X] Dataset generado o cargado
+- [X] Variables clasificadas (cuantitativas / categóricas)
+- [X] Nulos detectados y documentados
+- [X] Duplicados identificados
+- [X] Primeros hallazgos escritos en Markdown
 
 ### Lección 2 — Estadística Descriptiva
 - [ ] Media, mediana, moda calculadas

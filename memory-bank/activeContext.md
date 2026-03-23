@@ -3,28 +3,32 @@
 > ⚠️ **Este archivo debe actualizarse al inicio y al final de cada sesión de trabajo.**
 
 ## Lección en curso
-**Lección 1 — ANÁLISIS EXPLORATORIO DE DATOS (IDA)**
+**Lección 2 — CONCEPTOS BÁSICOS DE ESTADÍSTICA DESCRIPTIVA**
 
 ## Tarea actual
-- [ ] Generar o cargar el dataset de ComercioYA
-- [ ] Explorar tipos de variables (cuantitativas vs categóricas)
-- [ ] Detectar nulos, duplicados e inconsistencias
-- [ ] Documentar primeros hallazgos con comentarios Markdown
+- [ ] Calcular media, mediana, moda, varianza y desviación estándar
+- [ ] Determinar cuartiles y percentiles
+- [ ] Generar histogramas y boxplots
+- [ ] Identificar valores atípicos y documentar su impacto
 
 ## Decisiones tomadas recientemente
-_(Completar a medida que se avance)_
-- Ejemplo: "Se decidió generar el dataset sintéticamente con NumPy porque no se proveyó uno real"
-- Ejemplo: "Se usó IQR en lugar de Z-score para outliers porque la distribución de montos no es normal"
+- Se usó el dataset real `E-ShopNow (Proyecto ABP M2).csv` ubicado en `data/raw/` (no se generó dataset sintético)
+- Se usará IQR en lugar de Z-score para detección de outliers, porque no se puede asumir distribución normal en variables como `precio_unitario`
+- `descuento_pct` nulo se interpretará como 0 (sin descuento aplicado) y se imputará con 0 en la limpieza
+- `edad_cliente` nula se imputará con la mediana (distribución no garantizada como normal)
+- Los duplicados (20 filas, 1.96%) serán eliminados en el paso de limpieza
+- `region_cliente` requiere unificación: 'RM', 'Metropolitana' y 'Región Metropolitana' representan la misma categoría
+- `fecha_venta` debe convertirse de string a datetime antes del análisis temporal
 
 ## Bloqueos o dudas pendientes
-_(Registrar aquí para consultar en clases sincrónicas)_
-- Ejemplo: "¿Cómo tratar variables categóricas ordinales en la matriz de correlación?"
+- ¿Cómo tratar los nulos críticos de `region_cliente` (38.7%) y `categoria_producto` (38.1%)? ¿Eliminar filas o imputar con una categoría 'Sin información'?
+- ¿El campo `genero_cliente` con valores 'Hombre'/'Mujer' es correcto o hay registros mal asignados (ej: nombre femenino con género 'Hombre')?
 
 ## Últimos archivos modificados
-_(Actualizar manualmente)_
-- `src/01_ida.ipynb`
-- `data/processed/dataset_limpio.csv`
+- `src/01_ida.py`
 
 ## Próxima sesión
 - Iniciar Lección 2: calcular media, mediana, moda, varianza, percentiles
 - Generar histogramas y boxplots de las variables numéricas clave
+- Aplicar limpieza básica del dataset antes de calcular estadísticas
+- Guardar dataset limpio en `data/processed/datos_limpios.csv`

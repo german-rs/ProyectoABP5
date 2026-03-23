@@ -1,0 +1,1021 @@
+id_venta;fecha_venta;id_empleado;antiguedad_vendedor;id_cliente;nombre_cliente;email_cliente;genero_cliente;edad_cliente;ciudad_cliente;region_cliente;canal_venta;producto;categoria_producto;precio_unitario;cantidad;descuento_pct
+1;02/01/2023;50;0;254;María González Alfaro;cliente254@mail.cl;Hombre;50.0;Temuco;La Araucanía;Web;Maquillaje;Belleza;15000;3;0.0
+2;03/01/2023;13;0;102;Vania Evelyn Leyton García;cliente102@mail.cl;Hombre;32.0;Talcahuano;Biobío;App;Lavadora;Electrohogar;700000;2;0.05
+3;04/01/2023;68;2;196;Darwin Ramón Saavedra Pino;cliente196@mail.cl;Hombre;42.0;Santiago;;App;Lavadora;;700000;2;0.05
+4;05/01/2023;60;1;65;Manuel Rodríguez;cliente65@mail.cl;Hombre;47.0;Valparaíso;Valparaíso;Tienda;Perfume;Belleza;35000;2;
+5;06/01/2023;11;0;218;Francisco Raúl Guerrero-Romero Sánchez;cliente218@mail.cl;Mujer;35.0;Antofagasta;Antofagasta;Tienda;Maquillaje;Belleza;15000;1;0.1
+6;07/01/2023;14;0;202;Héctor Ramírez;cliente202@mail.cl;Mujer;44.0;Santiago;;Web;Notebook;;750000;3;0.1
+7;08/01/2023;17;0;160;Mónica Araya Álvarez;cliente160@mail.cl;Mujer;45.0;Santiago;;Web;Refrigerador;;800000;2;0.1
+8;09/01/2023;57;3;242;Camila Florencia Parra Muñoz;cliente242@mail.cl;Mujer;36.0;Concepción;Biobío;Web;Notebook;Tecnología;750000;1;0.05
+9;10/01/2023;60;1;255;Ximena Susana Medina Duarte;cliente255@mail.cl;Hombre;19.0;Valparaíso;Valparaíso;App;Pantalón;Vestuario;25000;2;0.1
+10;11/01/2023;6;2;35;Melania Jessica Urrutia Palacios;cliente35@mail.cl;Mujer;47.0;Concepción;Biobío;Tienda;Perfume;;35000;3;0.0
+11;12/01/2023;57;3;136;Maritza Thiare Mora Miranda;cliente136@mail.cl;Mujer;56.0;Concepción;;Web;TV;Electrohogar;650000;2;
+12;13/01/2023;43;0;50;Jorge Joaquín Sánchez Leiva;cliente50@mail.cl;Hombre;18.0;Santiago;RM;Web;Notebook;Tecnología;750000;3;0.1
+13;14/01/2023;11;0;81;Joaquín Jaime Segura Parra;cliente81@mail.cl;Mujer;35.0;Antofagasta;;Web;Lavadora;;700000;2;0.1
+14;15/01/2023;19;5;189;Gloria Lidia García Toledo;cliente189@mail.cl;Mujer;27.0;Temuco;;Web;Smartphone;;450000;1;0.1
+15;16/01/2023;49;1;67;Francisca Valenzuela Pavez;cliente67@mail.cl;Hombre;37.0;Antofagasta;;Tienda;TV;;650000;3;0.05
+16;17/01/2023;18;1;269;José Patricio Valenzuela Estay;cliente269@mail.cl;Mujer;32.0;Talcahuano;Biobío;Web;Smartphone;Tecnología;450000;3;
+17;18/01/2023;21;5;207;Eduardo René Valenzuela Venegas;cliente207@mail.cl;Mujer;44.0;Puerto Montt;Los Lagos;Web;Lavadora;;700000;2;0.0
+18;19/01/2023;54;9;234;Sebastián Hormazábal Sepúlveda;cliente234@mail.cl;Mujer;30.0;Talcahuano;Biobío;Tienda;TV;Electrohogar;650000;2;0.0
+19;20/01/2023;6;2;39;Pablo Franco Saldías Ruiz;cliente39@mail.cl;Hombre;22.0;Concepción;;App;Notebook;Tecnología;750000;1;0.1
+20;21/01/2023;46;5;224;Lorenza Ramírez Espinoza;cliente224@mail.cl;Hombre;18.0;La Serena;Coquimbo;Tienda;Perfume;;35000;3;0.1
+21;22/01/2023;18;1;172;Manuel Candia Garrido;cliente172@mail.cl;Hombre;28.0;Talcahuano;;Web;Maquillaje;;15000;1;
+22;23/01/2023;4;3;40;Elizabeth Meléndez Pacheco;cliente40@mail.cl;Hombre;40.0;Concepción;Biobío;Tienda;Perfume;Belleza;35000;3;0.0
+23;24/01/2023;16;3;232;Miguel Araya Segura;cliente232@mail.cl;Hombre;40.0;Temuco;La Araucanía;Tienda;Maquillaje;;15000;1;0.05
+24;25/01/2023;4;3;23;Brayan Amaro Araya Valenzuela;cliente23@mail.cl;Mujer;38.0;Concepción;Biobío;Tienda;Perfume;Belleza;35000;3;0.05
+25;26/01/2023;52;0;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Talcahuano;;App;Pantalón;;25000;3;0.0
+26;27/01/2023;49;1;114;Anahí Araya;cliente114@mail.cl;Mujer;67.0;Antofagasta;Antofagasta;Tienda;Zapatillas;;55000;1;0.1
+27;28/01/2023;36;4;252;Mauricio Astorga;cliente252@mail.cl;Mujer;49.0;Rancagua;;App;Polera;Vestuario;12000;1;0.0
+28;29/01/2023;70;6;220;Génesis Macarena Venegas Sepúlveda;cliente220@mail.cl;Hombre;38.0;Talcahuano;Biobío;Tienda;Notebook;;750000;2;0.0
+29;30/01/2023;62;4;110;Flavia Estela Cruz Castro;cliente110@mail.cl;Mujer;37.0;Puerto Montt;;App;Polera;;12000;2;0.0
+30;31/01/2023;63;5;122;Carlos Aranda-Ortiz;cliente122@mail.cl;Mujer;27.0;Rancagua;O'Higgins;App;Perfume;Belleza;35000;3;0.0
+31;01/02/2023;45;2;162;Francisco Ramírez Faúndez;cliente162@mail.cl;Mujer;47.0;Talcahuano;Biobío;Web;TV;Electrohogar;650000;1;0.1
+32;02/02/2023;65;0;43;Cristóbal Pastén Leal;cliente43@mail.cl;Hombre;36.0;Rancagua;O'Higgins;Web;TV;;650000;2;
+33;03/02/2023;12;0;2;Rosa Gaete Castro;cliente2@mail.cl;Hombre;36.0;Viña del Mar;Valparaíso;Tienda;Smartphone;Tecnología;450000;2;0.0
+34;04/02/2023;18;1;127;Roberto Moreno Jorquera;cliente127@mail.cl;Mujer;26.0;Talcahuano;;Tienda;Perfume;;35000;1;0.1
+35;05/02/2023;19;5;246;Josefa Segura Verdugo;cliente246@mail.cl;Hombre;33.0;Temuco;La Araucanía;Web;Lavadora;Electrohogar;700000;2;
+36;06/02/2023;43;0;45;Miguel Roberto Villagrán Iturra;cliente45@mail.cl;Hombre;20.0;Santiago;Región Metropolitana;Tienda;Lavadora;Electrohogar;700000;1;0.0
+37;07/02/2023;17;0;50;Jorge Joaquín Sánchez Leiva;cliente50@mail.cl;Hombre;18.0;Santiago;;App;Refrigerador;Electrohogar;800000;1;
+38;08/02/2023;24;3;212;Jairo Ian Villanueva Orellana;cliente212@mail.cl;Hombre;51.0;La Serena;Coquimbo;App;Notebook;;750000;3;0.0
+39;09/02/2023;20;0;178;Emiliano Hernández Castillo;cliente178@mail.cl;Mujer;55.0;Temuco;La Araucanía;Web;Notebook;Tecnología;750000;2;0.05
+40;10/02/2023;10;7;271;Ana Varela López;cliente271@mail.cl;Mujer;55.0;Valparaíso;;Tienda;TV;Electrohogar;650000;1;
+41;11/02/2023;25;3;238;Manuel Rodríguez Pérez;cliente238@mail.cl;Hombre;40.0;Puerto Montt;Los Lagos;Tienda;Perfume;;35000;1;0.0
+42;12/02/2023;23;0;102;Vania Evelyn Leyton García;cliente102@mail.cl;Hombre;32.0;Concepción;Biobío;Tienda;Lavadora;Electrohogar;700000;3;0.0
+43;13/02/2023;32;5;254;María González Alfaro;cliente254@mail.cl;Hombre;50.0;Puerto Montt;;Web;Smartphone;Tecnología;450000;2;0.0
+44;14/02/2023;10;7;41;Romina Cruz;cliente41@mail.cl;Mujer;46.0;Valparaíso;Valparaíso;App;Zapatillas;;55000;3;0.05
+45;15/02/2023;42;4;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Talcahuano;Biobío;Web;Polera;;12000;1;0.1
+46;16/02/2023;64;4;68;Laura Peñaloza Díaz;cliente68@mail.cl;Hombre;50.0;Temuco;;Tienda;Refrigerador;Electrohogar;800000;3;0.05
+47;17/02/2023;25;3;268;Jaime Toloza Díaz;cliente268@mail.cl;Hombre;20.0;Puerto Montt;Los Lagos;App;Smartphone;Tecnología;450000;3;0.0
+48;18/02/2023;37;1;204;Camila Natalia Pérez Arroyo;cliente204@mail.cl;Hombre;50.0;Viña del Mar;Valparaíso;Tienda;Lavadora;Electrohogar;700000;2;0.0
+49;19/02/2023;51;7;239;Lidia Tapia;cliente239@mail.cl;Mujer;30.0;Rancagua;;Tienda;Polera;Vestuario;12000;2;0.1
+50;20/02/2023;10;7;30;Tatiana Claudia Jara Herrera;cliente30@mail.cl;Hombre;34.0;Valparaíso;;Web;Maquillaje;;15000;3;
+51;21/02/2023;17;0;221;Juan Héctor Castro Silva;cliente221@mail.cl;Mujer;65.0;Santiago;Región Metropolitana;Web;Perfume;;35000;3;0.05
+52;22/02/2023;20;0;255;Ximena Susana Medina Duarte;cliente255@mail.cl;Hombre;19.0;Temuco;La Araucanía;Web;Smartphone;;450000;2;0.1
+53;23/02/2023;5;1;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Talcahuano;Biobío;Tienda;Notebook;Tecnología;750000;1;0.0
+54;24/02/2023;48;6;99;María Lorena Bórquez Rodríguez;cliente99@mail.cl;Hombre;38.0;Valparaíso;;Tienda;Polera;Vestuario;12000;3;0.0
+55;25/02/2023;60;1;117;Rubén Castillo;cliente117@mail.cl;Mujer;;Valparaíso;Valparaíso;Tienda;Zapatillas;Calzado;55000;3;
+56;26/02/2023;16;3;186;Laura Mary Sánchez Quintanilla;cliente186@mail.cl;Mujer;46.0;Temuco;;App;Smartphone;Tecnología;450000;1;0.1
+57;27/02/2023;42;4;261;Carlos Fuentes Vargas;cliente261@mail.cl;Hombre;26.0;Talcahuano;;Tienda;Smartphone;Tecnología;450000;3;
+58;28/02/2023;20;0;167;Matilda Denisse Gatica Gutiérrez;cliente167@mail.cl;Mujer;47.0;Temuco;La Araucanía;Web;Refrigerador;;800000;2;0.0
+59;01/03/2023;2;2;123;Paulino Vargas Farías;cliente123@mail.cl;Hombre;54.0;Rancagua;;Web;Maquillaje;Belleza;15000;1;0.1
+60;02/03/2023;61;3;195;Isaac Gutiérrez;cliente195@mail.cl;Mujer;40.0;Concepción;;App;Zapatillas;;55000;3;
+61;03/03/2023;22;1;196;Darwin Ramón Saavedra Pino;cliente196@mail.cl;Hombre;42.0;Viña del Mar;;Tienda;Polera;Vestuario;12000;1;0.1
+62;04/03/2023;38;8;249;María Sofía Morales Arellano;cliente249@mail.cl;Mujer;59.0;Concepción;;Web;Perfume;Belleza;35000;2;0.0
+63;05/03/2023;41;4;184;Jacqueline Amanda Martínez Osorio;cliente184@mail.cl;Hombre;43.0;Antofagasta;Antofagasta;App;TV;Electrohogar;650000;3;
+64;06/03/2023;30;0;263;Carolina González Ruiz;cliente263@mail.cl;Mujer;18.0;Valparaíso;Valparaíso;Tienda;Lavadora;Electrohogar;700000;2;0.0
+65;07/03/2023;43;0;193;Florinda Josefa Cortés Morales;cliente193@mail.cl;Hombre;40.0;Santiago;;Web;Smartphone;Tecnología;450000;2;0.1
+66;08/03/2023;56;2;176;Arturo Ángel Corvalán Salazar;cliente176@mail.cl;Mujer;47.0;Talcahuano;Biobío;Web;Perfume;;35000;2;
+67;09/03/2023;40;1;222;Amanda Gutiérrez;cliente222@mail.cl;Mujer;18.0;Talcahuano;;App;Refrigerador;Electrohogar;800000;3;0.1
+68;10/03/2023;42;4;260;Carlos Wladimir Lara Muñoz;cliente260@mail.cl;Mujer;47.0;Talcahuano;;Tienda;Pantalón;;25000;3;0.0
+69;11/03/2023;30;0;148;Víctor Alejandro Ramírez Soto;cliente148@mail.cl;Hombre;22.0;Valparaíso;Valparaíso;App;Refrigerador;Electrohogar;800000;2;0.1
+70;12/03/2023;41;4;103;Raquel Guadalupe Canales Maturana;cliente103@mail.cl;Hombre;33.0;Antofagasta;;App;Polera;;12000;1;0.05
+71;13/03/2023;14;0;44;Humberto José Rivera Leiva;cliente44@mail.cl;Hombre;34.0;Santiago;;Tienda;Lavadora;Electrohogar;700000;3;
+72;14/03/2023;35;1;165;Clara Rosa Aros Guerrero;cliente165@mail.cl;Mujer;49.0;Antofagasta;Antofagasta;Tienda;TV;Electrohogar;650000;2;0.1
+73;15/03/2023;68;2;144;Rolando Patricio Muñoz Barría;cliente144@mail.cl;Mujer;40.0;Santiago;RM;Tienda;Notebook;Tecnología;750000;2;0.0
+74;16/03/2023;33;13;26;Felipe Daniel González Salinas;cliente26@mail.cl;Mujer;39.0;Rancagua;O'Higgins;Tienda;Notebook;;750000;2;0.0
+75;17/03/2023;43;0;69;Raquel Silva Méndez;cliente69@mail.cl;Mujer;42.0;Santiago;;App;Maquillaje;Belleza;15000;1;
+76;18/03/2023;3;1;137;José Juan Vargas Vega;cliente137@mail.cl;Hombre;28.0;Valparaíso;Valparaíso;App;TV;Electrohogar;650000;3;0.0
+77;19/03/2023;15;0;162;Francisco Ramírez Faúndez;cliente162@mail.cl;Mujer;47.0;Santiago;Región Metropolitana;App;TV;;650000;3;
+78;20/03/2023;65;0;110;Flavia Estela Cruz Castro;cliente110@mail.cl;Mujer;37.0;Rancagua;;Web;Refrigerador;;800000;1;0.1
+79;21/03/2023;16;3;226;Carol Adelina Maldonado Saavedra;cliente226@mail.cl;Hombre;51.0;Temuco;La Araucanía;Web;Perfume;;35000;1;
+80;22/03/2023;39;6;121;Constanza Osorio;cliente121@mail.cl;Hombre;47.0;Antofagasta;Antofagasta;Tienda;TV;Electrohogar;650000;2;0.1
+81;23/03/2023;23;0;221;Juan Héctor Castro Silva;cliente221@mail.cl;Mujer;65.0;Concepción;;App;Zapatillas;Calzado;55000;3;0.0
+82;24/03/2023;54;9;145;Gaspar Oscar Concha Torres;cliente145@mail.cl;Hombre;41.0;Talcahuano;;App;Notebook;;750000;3;
+83;25/03/2023;26;6;80;Pedro Ramón Serrano Ibáñez;cliente80@mail.cl;Mujer;18.0;Rancagua;;App;Zapatillas;Calzado;55000;3;0.05
+84;26/03/2023;39;6;68;Laura Peñaloza Díaz;cliente68@mail.cl;Hombre;50.0;Antofagasta;;Tienda;Notebook;Tecnología;750000;2;0.1
+85;27/03/2023;47;1;38;Christian Francisco Rojas Oyarzo;cliente38@mail.cl;Hombre;18.0;Viña del Mar;;Tienda;Smartphone;Tecnología;450000;1;0.1
+86;28/03/2023;67;0;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Talcahuano;;Web;Refrigerador;Electrohogar;800000;1;0.0
+87;29/03/2023;2;2;58;Rossana Flores;cliente58@mail.cl;Hombre;34.0;Rancagua;O'Higgins;Tienda;Smartphone;;450000;2;0.05
+88;30/03/2023;68;2;125;Martín Jorge Vergara Sáez;cliente125@mail.cl;Mujer;45.0;Santiago;;Tienda;Pantalón;Vestuario;25000;1;0.0
+89;31/03/2023;70;6;104;María Anahí Mella Carrasco;cliente104@mail.cl;Mujer;28.0;Talcahuano;Biobío;App;Zapatillas;;55000;3;0.0
+90;01/04/2023;31;4;205;Mauricio Paul Gajardo Córdova;cliente205@mail.cl;Hombre;21.0;Rancagua;O'Higgins;Tienda;Notebook;Tecnología;750000;3;
+91;02/04/2023;6;2;103;Raquel Guadalupe Canales Maturana;cliente103@mail.cl;Hombre;33.0;Concepción;;Tienda;Polera;Vestuario;12000;3;0.05
+92;03/04/2023;51;7;130;María Palacios;cliente130@mail.cl;Hombre;31.0;Rancagua;;Web;TV;;650000;3;0.05
+93;04/04/2023;16;3;86;Rudecindo Cares;cliente86@mail.cl;Hombre;31.0;Temuco;La Araucanía;Tienda;TV;Electrohogar;650000;2;0.05
+94;05/04/2023;62;4;95;Leonor Corvalán;cliente95@mail.cl;Mujer;33.0;Puerto Montt;;Tienda;Refrigerador;Electrohogar;800000;2;0.05
+95;06/04/2023;5;1;1;Ana Martinez García;cliente1@mail.cl;Hombre;43.0;Talcahuano;Biobío;Web;Notebook;Tecnología;750000;2;
+96;07/04/2023;34;1;167;Matilda Denisse Gatica Gutiérrez;cliente167@mail.cl;Mujer;47.0;Concepción;Biobío;Web;Zapatillas;Calzado;55000;2;0.05
+97;08/04/2023;51;7;4;César Carlos Espinoza Uribe;cliente4@mail.cl;Hombre;56.0;Rancagua;O'Higgins;Web;Pantalón;;25000;2;0.0
+98;09/04/2023;6;2;61;Ingrid María Velásquez Herrera;cliente61@mail.cl;Mujer;32.0;Concepción;Biobío;Web;TV;Electrohogar;650000;1;0.0
+99;10/04/2023;28;5;6;Yaritza Quiroga Martínez;cliente6@mail.cl;Mujer;35.0;Viña del Mar;;Tienda;Zapatillas;;55000;2;0.05
+100;11/04/2023;50;0;35;Melania Jessica Urrutia Palacios;cliente35@mail.cl;Mujer;47.0;Temuco;;Web;Smartphone;Tecnología;450000;2;0.1
+101;12/04/2023;39;6;274;Guillermo Oscar Cid Díaz;cliente274@mail.cl;Mujer;38.0;Antofagasta;Antofagasta;App;Maquillaje;;15000;2;0.05
+102;13/04/2023;54;9;105;Claudio Diego Cisterna Rojas;cliente105@mail.cl;Hombre;36.0;Talcahuano;Biobío;Tienda;Smartphone;;450000;1;0.1
+103;14/04/2023;55;9;169;Antonella Julia Urrutia Oyarzo;cliente169@mail.cl;Mujer;35.0;Antofagasta;Antofagasta;Tienda;Perfume;Belleza;35000;1;0.05
+104;15/04/2023;9;9;64;Arnoldo Anselmo Cubillos Veloso;cliente64@mail.cl;Hombre;23.0;Valparaíso;;Tienda;Maquillaje;Belleza;15000;3;0.05
+105;16/04/2023;47;1;53;Eduardo Manuel Morales Riffo;cliente53@mail.cl;Mujer;29.0;Viña del Mar;Valparaíso;Web;TV;;650000;1;0.0
+106;17/04/2023;21;5;228;Eladio Sandro Gaete Salazar;cliente228@mail.cl;Mujer;25.0;Puerto Montt;;Tienda;Zapatillas;;55000;3;
+107;18/04/2023;2;2;256;Ulises Bruno Gallardo Piña;cliente256@mail.cl;Hombre;32.0;Rancagua;O'Higgins;App;Perfume;;35000;1;0.0
+108;19/04/2023;58;1;75;Máximo Pablo Leal Romero;cliente75@mail.cl;Hombre;18.0;Puerto Montt;Los Lagos;App;Pantalón;Vestuario;25000;2;0.0
+109;20/04/2023;47;1;109;Lucas Miguel San Martín Catalán;cliente109@mail.cl;Hombre;41.0;Viña del Mar;Valparaíso;Web;Perfume;Belleza;35000;3;0.0
+110;21/04/2023;50;0;216;Víctor Raúl Ibarra Paredes;cliente216@mail.cl;Hombre;47.0;Temuco;La Araucanía;Tienda;Refrigerador;Electrohogar;800000;2;
+111;22/04/2023;68;2;97;Tatiana Catalina Gutiérrez Quiroz;cliente97@mail.cl;Mujer;41.0;Santiago;;Web;Maquillaje;Belleza;15000;3;0.0
+112;23/04/2023;25;3;67;Francisca Valenzuela Pavez;cliente67@mail.cl;Hombre;37.0;Puerto Montt;Los Lagos;Web;Refrigerador;;800000;3;0.0
+113;24/04/2023;56;2;225;Berta Huerta García;cliente225@mail.cl;Hombre;32.0;Talcahuano;Biobío;Web;Smartphone;;450000;2;0.1
+114;25/04/2023;38;8;37;Alejandro Rodrigo Toro Espinoza;cliente37@mail.cl;Hombre;40.0;Concepción;Biobío;App;Zapatillas;;55000;1;0.1
+115;26/04/2023;51;7;267;Angélica Reyes;cliente267@mail.cl;Mujer;57.0;Rancagua;O'Higgins;App;Pantalón;Vestuario;25000;3;0.1
+116;27/04/2023;63;5;278;Gloria Durán;cliente278@mail.cl;Hombre;30.0;Rancagua;;Tienda;Polera;Vestuario;12000;3;0.05
+117;28/04/2023;51;7;202;Héctor Ramírez;cliente202@mail.cl;Mujer;44.0;Rancagua;O'Higgins;Web;TV;Electrohogar;650000;1;0.05
+118;29/04/2023;51;7;45;Miguel Roberto Villagrán Iturra;cliente45@mail.cl;Hombre;20.0;Rancagua;O'Higgins;Web;Perfume;Belleza;35000;1;0.1
+119;30/04/2023;34;1;116;Daniel Alejandro Rivera Ibarra;cliente116@mail.cl;Mujer;41.0;Concepción;;Web;Pantalón;;25000;1;0.1
+120;01/05/2023;12;0;225;Berta Huerta García;cliente225@mail.cl;Hombre;32.0;Viña del Mar;Valparaíso;App;Zapatillas;Calzado;55000;3;
+121;02/05/2023;66;2;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Talcahuano;;Tienda;Zapatillas;Calzado;55000;2;0.1
+122;03/05/2023;22;1;224;Lorenza Ramírez Espinoza;cliente224@mail.cl;Hombre;18.0;Viña del Mar;Valparaíso;App;Maquillaje;;15000;1;0.1
+123;04/05/2023;28;5;206;Rodrigo Cornejo Aranda;cliente206@mail.cl;Mujer;26.0;Viña del Mar;Valparaíso;Tienda;Smartphone;Tecnología;450000;2;0.1
+124;05/05/2023;9;9;18;Vanessa Emilia Osorio Saavedra;cliente18@mail.cl;Mujer;41.0;Valparaíso;Valparaíso;Tienda;Polera;Vestuario;12000;3;0.1
+125;06/05/2023;19;5;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Temuco;La Araucanía;Tienda;Perfume;;35000;3;0.05
+126;07/05/2023;31;4;72;Luis Gabriel Barrera Castillo;cliente72@mail.cl;Hombre;56.0;Rancagua;;Web;Refrigerador;;800000;2;0.1
+127;08/05/2023;37;1;40;Elizabeth Meléndez Pacheco;cliente40@mail.cl;Hombre;40.0;Viña del Mar;Valparaíso;Tienda;Zapatillas;Calzado;55000;1;
+128;09/05/2023;27;4;88;Alexi Ignacio Azócar Chávez;cliente88@mail.cl;Hombre;41.0;Viña del Mar;Valparaíso;Tienda;Notebook;Tecnología;750000;2;
+129;10/05/2023;2;2;234;Sebastián Hormazábal Sepúlveda;cliente234@mail.cl;Mujer;30.0;Rancagua;O'Higgins;Tienda;Zapatillas;Calzado;55000;1;0.0
+130;11/05/2023;59;1;237;Carlos Pérez;cliente237@mail.cl;Hombre;18.0;Antofagasta;;Tienda;Smartphone;Tecnología;450000;3;0.05
+131;12/05/2023;47;1;147;Alfredo Vega;cliente147@mail.cl;Mujer;23.0;Viña del Mar;;Tienda;Maquillaje;Belleza;15000;2;0.0
+132;13/05/2023;53;1;195;Isaac Gutiérrez;cliente195@mail.cl;Mujer;40.0;Puerto Montt;;Web;Polera;Vestuario;12000;2;0.1
+133;14/05/2023;49;1;104;María Anahí Mella Carrasco;cliente104@mail.cl;Mujer;28.0;Antofagasta;Antofagasta;Web;Smartphone;;450000;1;
+134;15/05/2023;12;0;188;Felipe Cofré Molina;cliente188@mail.cl;Mujer;37.0;Viña del Mar;;Tienda;Notebook;Tecnología;750000;3;0.05
+135;16/05/2023;1;8;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Santiago;Metropolitana;Tienda;Refrigerador;;800000;1;0.0
+136;17/05/2023;18;1;234;Sebastián Hormazábal Sepúlveda;cliente234@mail.cl;Mujer;30.0;Talcahuano;Biobío;Web;Polera;;12000;3;0.0
+137;18/05/2023;22;1;13;Samuel Arias Gatica;cliente13@mail.cl;Mujer;40.0;Viña del Mar;Valparaíso;App;Zapatillas;Calzado;55000;1;0.1
+138;19/05/2023;56;2;178;Emiliano Hernández Castillo;cliente178@mail.cl;Mujer;55.0;Talcahuano;;App;TV;;650000;1;
+139;20/05/2023;25;3;160;Mónica Araya Álvarez;cliente160@mail.cl;Mujer;45.0;Puerto Montt;Los Lagos;Web;Polera;Vestuario;12000;1;0.1
+140;21/05/2023;8;1;69;Raquel Silva Méndez;cliente69@mail.cl;Mujer;42.0;Puerto Montt;Los Lagos;App;Notebook;Tecnología;750000;2;0.1
+141;22/05/2023;44;7;64;Arnoldo Anselmo Cubillos Veloso;cliente64@mail.cl;Hombre;23.0;Antofagasta;Antofagasta;Web;Polera;Vestuario;12000;3;0.05
+142;23/05/2023;33;13;248;Ian Dante Tapia Pereira;cliente248@mail.cl;Hombre;30.0;Rancagua;O'Higgins;App;Notebook;;750000;1;0.05
+143;24/05/2023;4;3;142;Hilda Javiera Cofré Lucero;cliente142@mail.cl;Hombre;53.0;Concepción;Biobío;Tienda;Pantalón;;25000;3;0.1
+144;25/05/2023;8;1;22;Laura Aguilera Orellana;cliente22@mail.cl;Hombre;35.0;Puerto Montt;Los Lagos;Tienda;TV;Electrohogar;650000;3;0.0
+145;26/05/2023;10;7;163;Carlos David Miranda Cifuentes;cliente163@mail.cl;Hombre;51.0;Valparaíso;;App;Perfume;Belleza;35000;3;
+146;27/05/2023;18;1;247;Emilia Consuelo González Vallejos;cliente247@mail.cl;Mujer;32.0;Talcahuano;Biobío;Web;Refrigerador;Electrohogar;800000;3;0.0
+147;28/05/2023;39;6;101;Andrea Josefina Galaz Ríos;cliente101@mail.cl;Mujer;21.0;Antofagasta;Antofagasta;Web;Polera;Vestuario;12000;2;
+148;29/05/2023;18;1;228;Eladio Sandro Gaete Salazar;cliente228@mail.cl;Mujer;25.0;Talcahuano;;App;Refrigerador;Electrohogar;800000;3;0.05
+149;30/05/2023;25;3;185;Yasna Colomba Olivares Prieto;cliente185@mail.cl;Hombre;35.0;Puerto Montt;Los Lagos;App;Polera;Vestuario;12000;1;0.0
+150;31/05/2023;64;4;157;Nelson Francisco Baeza Fuenzalida;cliente157@mail.cl;Mujer;60.0;Temuco;;Web;Refrigerador;;800000;2;0.05
+151;01/06/2023;32;5;120;Carolina Pinto;cliente120@mail.cl;Mujer;47.0;Puerto Montt;Los Lagos;Web;Notebook;Tecnología;750000;2;0.0
+152;02/06/2023;57;3;229;Elsa Llanos;cliente229@mail.cl;Hombre;29.0;Concepción;;Web;Zapatillas;Calzado;55000;2;0.05
+153;03/06/2023;12;0;201;Miguel Avendaño Soto;cliente201@mail.cl;Mujer;42.0;Viña del Mar;Valparaíso;Web;Zapatillas;;55000;3;0.05
+154;04/06/2023;27;4;178;Emiliano Hernández Castillo;cliente178@mail.cl;Mujer;55.0;Viña del Mar;Valparaíso;Tienda;Lavadora;;700000;3;0.1
+155;05/06/2023;43;0;241;Gloria Leyton;cliente241@mail.cl;Mujer;28.0;Santiago;;Tienda;Lavadora;Electrohogar;700000;3;0.1
+156;06/06/2023;63;5;9;Ana Mercado Araya;cliente9@mail.cl;Mujer;32.0;Rancagua;O'Higgins;Web;Pantalón;Vestuario;25000;3;0.0
+157;07/06/2023;64;4;125;Martín Jorge Vergara Sáez;cliente125@mail.cl;Mujer;45.0;Temuco;La Araucanía;Web;TV;Electrohogar;650000;3;0.1
+158;08/06/2023;41;4;34;Omar Maximiliano Molina Fuentes;cliente34@mail.cl;Mujer;25.0;Antofagasta;;Tienda;TV;Electrohogar;650000;2;0.1
+159;09/06/2023;40;1;174;Alfonso José Sáez Barrientos;cliente174@mail.cl;Mujer;42.0;Talcahuano;;Tienda;TV;;650000;2;
+160;10/06/2023;58;1;219;Víctor Matamala;cliente219@mail.cl;Mujer;32.0;Puerto Montt;Los Lagos;Web;TV;;650000;1;0.1
+161;11/06/2023;27;4;60;Bárbara Molina Aranda;cliente60@mail.cl;Hombre;49.0;Viña del Mar;Valparaíso;Web;Notebook;Tecnología;750000;2;0.05
+162;12/06/2023;47;1;227;Franklin Torres Pastén;cliente227@mail.cl;Mujer;38.0;Viña del Mar;Valparaíso;Tienda;Notebook;;750000;1;
+163;13/06/2023;28;5;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Viña del Mar;;App;Perfume;;35000;1;0.0
+164;14/06/2023;30;0;211;Patricio Gonzalo Toledo Arce;cliente211@mail.cl;Hombre;44.0;Valparaíso;Valparaíso;Tienda;Zapatillas;Calzado;55000;2;0.05
+165;15/06/2023;48;6;71;Juan Rivera;cliente71@mail.cl;Mujer;42.0;Valparaíso;Valparaíso;Tienda;Polera;Vestuario;12000;3;0.1
+166;16/06/2023;5;1;267;Angélica Reyes;cliente267@mail.cl;Mujer;57.0;Talcahuano;Biobío;Web;Pantalón;Vestuario;25000;3;
+167;17/06/2023;4;3;213;Germán Bustamante Valenzuela;cliente213@mail.cl;Mujer;49.0;Concepción;Biobío;Web;TV;Electrohogar;650000;1;
+168;18/06/2023;40;1;76;Benjamín Fernando Olea Retamal;cliente76@mail.cl;Hombre;47.0;Talcahuano;Biobío;App;Refrigerador;;800000;3;0.1
+169;19/06/2023;58;1;14;David Javier Muñoz González;cliente14@mail.cl;Hombre;18.0;Puerto Montt;;Web;Maquillaje;Belleza;15000;3;
+170;20/06/2023;1;8;93;Irma Espinoza Araya;cliente93@mail.cl;Mujer;29.0;Santiago;Región Metropolitana;Tienda;Zapatillas;Calzado;55000;2;0.1
+171;21/06/2023;40;1;269;José Patricio Valenzuela Estay;cliente269@mail.cl;Mujer;32.0;Talcahuano;;Tienda;Smartphone;Tecnología;450000;3;0.05
+172;22/06/2023;58;1;107;Fanny María Gómez Hernández;cliente107@mail.cl;Mujer;60.0;Puerto Montt;Los Lagos;Tienda;Notebook;;750000;3;
+173;23/06/2023;56;2;40;Elizabeth Meléndez Pacheco;cliente40@mail.cl;Hombre;40.0;Talcahuano;;Web;Refrigerador;Electrohogar;800000;3;0.0
+174;24/06/2023;13;0;163;Carlos David Miranda Cifuentes;cliente163@mail.cl;Hombre;51.0;Talcahuano;Biobío;Tienda;Polera;;12000;2;0.1
+175;25/06/2023;11;0;171;Alejandra Vega;cliente171@mail.cl;Hombre;27.0;Antofagasta;;Web;Polera;Vestuario;12000;3;0.0
+176;26/06/2023;3;1;243;Miguel Esteban Soto Silva;cliente243@mail.cl;Mujer;44.0;Valparaíso;;Tienda;Maquillaje;Belleza;15000;2;
+177;27/06/2023;50;0;62;Raimundo Mario Rubilar Flores;cliente62@mail.cl;Mujer;35.0;Temuco;La Araucanía;Tienda;Polera;Vestuario;12000;2;0.1
+178;28/06/2023;46;5;12;Agustina Rosa Rojas Pastén;cliente12@mail.cl;Mujer;32.0;La Serena;;Web;Polera;Vestuario;12000;2;0.1
+179;29/06/2023;19;5;32;Carol Antonia Sandoval Chávez;cliente32@mail.cl;Mujer;60.0;Temuco;La Araucanía;Tienda;Refrigerador;Electrohogar;800000;3;0.1
+180;30/06/2023;8;1;167;Matilda Denisse Gatica Gutiérrez;cliente167@mail.cl;Mujer;47.0;Puerto Montt;Los Lagos;Web;TV;;650000;3;0.0
+181;01/07/2023;54;9;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Talcahuano;Biobío;Tienda;Smartphone;Tecnología;450000;3;0.0
+182;02/07/2023;44;7;177;Benjamín Claudio Riffo Cid;cliente177@mail.cl;Mujer;38.0;Antofagasta;Antofagasta;Tienda;Lavadora;Electrohogar;700000;3;0.05
+183;03/07/2023;24;3;229;Elsa Llanos;cliente229@mail.cl;Hombre;29.0;La Serena;Coquimbo;App;Maquillaje;;15000;3;
+184;04/07/2023;14;0;92;Belén Gamboa Carvajal;cliente92@mail.cl;Mujer;49.0;Santiago;;App;Polera;Vestuario;12000;3;0.0
+185;05/07/2023;64;4;33;Jocelyn Gabriela López Guzmán;cliente33@mail.cl;Hombre;37.0;Temuco;;Tienda;Pantalón;;25000;1;
+186;06/07/2023;24;3;51;Milagros Marisol Tapia Rubio;cliente51@mail.cl;Hombre;;La Serena;Coquimbo;App;Pantalón;Vestuario;25000;2;0.0
+187;07/07/2023;21;5;70;Bárbara Torres;cliente70@mail.cl;Mujer;30.0;Puerto Montt;Los Lagos;Tienda;Polera;Vestuario;12000;3;
+188;08/07/2023;5;1;104;María Anahí Mella Carrasco;cliente104@mail.cl;Mujer;28.0;Talcahuano;;Web;Refrigerador;Electrohogar;800000;2;0.1
+189;09/07/2023;37;1;188;Felipe Cofré Molina;cliente188@mail.cl;Mujer;37.0;Viña del Mar;;Web;Refrigerador;Electrohogar;800000;3;0.1
+190;10/07/2023;24;3;166;Sergio Carlos Pavez Díaz;cliente166@mail.cl;Mujer;42.0;La Serena;Coquimbo;Web;Lavadora;Electrohogar;700000;2;0.1
+191;11/07/2023;29;1;144;Rolando Patricio Muñoz Barría;cliente144@mail.cl;Mujer;40.0;Viña del Mar;Valparaíso;Tienda;Pantalón;Vestuario;25000;2;0.05
+192;12/07/2023;27;4;231;Tomás Johan Vargas Leiva;cliente231@mail.cl;Hombre;29.0;Viña del Mar;;Tienda;TV;;650000;3;0.1
+193;13/07/2023;25;3;271;Ana Varela López;cliente271@mail.cl;Mujer;55.0;Puerto Montt;;Web;Zapatillas;Calzado;55000;2;
+194;14/07/2023;26;6;13;Samuel Arias Gatica;cliente13@mail.cl;Mujer;40.0;Rancagua;O'Higgins;Tienda;Notebook;Tecnología;750000;2;0.0
+195;15/07/2023;30;0;159;Patricio Luis Guzmán Herrera;cliente159@mail.cl;Mujer;;Valparaíso;Valparaíso;App;Zapatillas;;55000;2;0.1
+196;16/07/2023;31;4;176;Arturo Ángel Corvalán Salazar;cliente176@mail.cl;Mujer;47.0;Rancagua;;Web;TV;Electrohogar;650000;2;0.1
+197;17/07/2023;35;1;253;Luis Franco Barros Hermosilla;cliente253@mail.cl;Hombre;;Antofagasta;;Web;Polera;Vestuario;12000;1;0.05
+198;18/07/2023;68;2;26;Felipe Daniel González Salinas;cliente26@mail.cl;Mujer;39.0;Santiago;Región Metropolitana;Web;Maquillaje;Belleza;15000;1;0.0
+199;19/07/2023;16;3;211;Patricio Gonzalo Toledo Arce;cliente211@mail.cl;Hombre;44.0;Temuco;;Web;Smartphone;Tecnología;450000;3;0.05
+200;20/07/2023;68;2;195;Isaac Gutiérrez;cliente195@mail.cl;Mujer;40.0;Santiago;Región Metropolitana;App;Maquillaje;;15000;3;
+201;21/07/2023;3;1;231;Tomás Johan Vargas Leiva;cliente231@mail.cl;Hombre;29.0;Valparaíso;Valparaíso;Tienda;TV;Electrohogar;650000;2;0.1
+202;22/07/2023;37;1;213;Germán Bustamante Valenzuela;cliente213@mail.cl;Mujer;49.0;Viña del Mar;Valparaíso;App;Zapatillas;Calzado;55000;1;0.05
+203;23/07/2023;8;1;148;Víctor Alejandro Ramírez Soto;cliente148@mail.cl;Hombre;22.0;Puerto Montt;Los Lagos;Tienda;Refrigerador;Electrohogar;800000;1;0.05
+204;24/07/2023;40;1;36;Josefa Plaza;cliente36@mail.cl;Mujer;23.0;Talcahuano;Biobío;Web;Smartphone;;450000;1;
+205;25/07/2023;18;1;266;Claudio Fernando Morales Bravo;cliente266@mail.cl;Mujer;23.0;Talcahuano;;Tienda;TV;Electrohogar;650000;2;0.0
+206;26/07/2023;60;1;46;Leonor María Romero Fuentes;cliente46@mail.cl;Mujer;29.0;Valparaíso;;Tienda;Maquillaje;Belleza;15000;2;0.1
+207;27/07/2023;48;6;129;Alejandra Castro Torres;cliente129@mail.cl;Mujer;39.0;Valparaíso;Valparaíso;App;TV;Electrohogar;650000;2;0.05
+208;28/07/2023;39;6;58;Rossana Flores;cliente58@mail.cl;Hombre;34.0;Antofagasta;Antofagasta;Tienda;Refrigerador;;800000;1;0.1
+209;29/07/2023;45;2;182;Pedro Jorge Cartes Pérez;cliente182@mail.cl;Hombre;27.0;Talcahuano;Biobío;Web;Polera;Vestuario;12000;3;0.05
+210;30/07/2023;54;9;69;Raquel Silva Méndez;cliente69@mail.cl;Mujer;42.0;Talcahuano;Biobío;App;Maquillaje;Belleza;15000;3;0.05
+211;31/07/2023;57;3;273;Fernanda Pérez Calderón;cliente273@mail.cl;Mujer;51.0;Concepción;Biobío;Tienda;Polera;Vestuario;12000;2;
+212;01/08/2023;19;5;22;Laura Aguilera Orellana;cliente22@mail.cl;Hombre;35.0;Temuco;;Tienda;Refrigerador;Electrohogar;800000;1;0.05
+213;02/08/2023;13;0;63;Geraldine Irma Álvarez Díaz;cliente63@mail.cl;Mujer;24.0;Talcahuano;Biobío;Tienda;Polera;Vestuario;12000;1;0.1
+214;03/08/2023;18;1;51;Milagros Marisol Tapia Rubio;cliente51@mail.cl;Hombre;;Talcahuano;;Tienda;Smartphone;Tecnología;450000;2;0.1
+215;04/08/2023;65;0;25;Lissette Susan Mella Sánchez;cliente25@mail.cl;Mujer;31.0;Rancagua;O'Higgins;Tienda;Lavadora;;700000;3;0.1
+216;05/08/2023;64;4;46;Leonor María Romero Fuentes;cliente46@mail.cl;Mujer;29.0;Temuco;;App;Pantalón;;25000;2;0.05
+217;06/08/2023;31;4;147;Alfredo Vega;cliente147@mail.cl;Mujer;23.0;Rancagua;O'Higgins;Tienda;Smartphone;Tecnología;450000;3;0.1
+218;07/08/2023;28;5;164;Samuel Arias;cliente164@mail.cl;Mujer;28.0;Viña del Mar;Valparaíso;Web;Perfume;Belleza;35000;2;0.05
+219;08/08/2023;39;6;215;Vicente Juan Cáceres Castillo;cliente215@mail.cl;Hombre;34.0;Antofagasta;Antofagasta;Web;Pantalón;Vestuario;25000;2;0.1
+220;09/08/2023;35;1;41;Romina Cruz;cliente41@mail.cl;Mujer;46.0;Antofagasta;Antofagasta;Web;Smartphone;Tecnología;450000;3;0.05
+221;10/08/2023;33;13;50;Jorge Joaquín Sánchez Leiva;cliente50@mail.cl;Hombre;18.0;Rancagua;O'Higgins;Web;Pantalón;Vestuario;25000;1;
+222;11/08/2023;64;4;66;Samuel Aguilera;cliente66@mail.cl;Hombre;54.0;Temuco;La Araucanía;Web;Refrigerador;;800000;3;0.0
+223;12/08/2023;13;0;151;Cecilia Edith Muñoz Toro;cliente151@mail.cl;Hombre;41.0;Talcahuano;Biobío;Tienda;Maquillaje;Belleza;15000;1;0.05
+224;13/08/2023;44;7;169;Antonella Julia Urrutia Oyarzo;cliente169@mail.cl;Mujer;35.0;Antofagasta;;Tienda;Polera;Vestuario;12000;1;0.05
+225;14/08/2023;25;3;35;Melania Jessica Urrutia Palacios;cliente35@mail.cl;Mujer;47.0;Puerto Montt;Los Lagos;Web;Lavadora;Electrohogar;700000;2;0.0
+226;15/08/2023;63;5;12;Agustina Rosa Rojas Pastén;cliente12@mail.cl;Mujer;32.0;Rancagua;;Web;TV;Electrohogar;650000;3;0.0
+227;16/08/2023;49;1;187;Luis Guillermo Muñoz Cerda;cliente187@mail.cl;Mujer;43.0;Antofagasta;Antofagasta;Tienda;Refrigerador;Electrohogar;800000;3;0.0
+228;17/08/2023;4;3;72;Luis Gabriel Barrera Castillo;cliente72@mail.cl;Hombre;56.0;Concepción;;App;Smartphone;;450000;1;0.0
+229;18/08/2023;68;2;237;Carlos Pérez;cliente237@mail.cl;Hombre;18.0;Santiago;Región Metropolitana;Tienda;Maquillaje;Belleza;15000;1;0.0
+230;19/08/2023;6;2;155;Gonzalo Felipe Martínez Acevedo;cliente155@mail.cl;Mujer;41.0;Concepción;;Web;TV;Electrohogar;650000;1;
+231;20/08/2023;66;2;279;Osvaldo Víctor Rivera Palma;cliente279@mail.cl;Mujer;38.0;Talcahuano;Biobío;App;Notebook;;750000;2;
+232;21/08/2023;31;4;52;Susana María Soto Véliz;cliente52@mail.cl;Hombre;33.0;Rancagua;O'Higgins;Tienda;Perfume;Belleza;35000;3;0.05
+233;22/08/2023;43;0;44;Humberto José Rivera Leiva;cliente44@mail.cl;Hombre;34.0;Santiago;;Web;Notebook;;750000;1;0.0
+234;23/08/2023;25;3;131;Juan Rodríguez Acevedo;cliente131@mail.cl;Hombre;19.0;Puerto Montt;Los Lagos;App;Maquillaje;Belleza;15000;3;
+235;24/08/2023;17;0;209;Eduardo Castro Rivera;cliente209@mail.cl;Hombre;44.0;Santiago;;Tienda;Refrigerador;;800000;2;0.05
+236;25/08/2023;65;0;259;José Ángel Fuentes Gutiérrez;cliente259@mail.cl;Mujer;43.0;Rancagua;;Tienda;Perfume;Belleza;35000;3;0.0
+237;26/08/2023;42;4;176;Arturo Ángel Corvalán Salazar;cliente176@mail.cl;Mujer;47.0;Talcahuano;;Tienda;Pantalón;;25000;1;
+238;27/08/2023;1;8;239;Lidia Tapia;cliente239@mail.cl;Mujer;30.0;Santiago;Región Metropolitana;Web;Lavadora;;700000;1;
+239;28/08/2023;28;5;189;Gloria Lidia García Toledo;cliente189@mail.cl;Mujer;27.0;Viña del Mar;;Tienda;TV;;650000;1;0.05
+240;29/08/2023;52;0;16;Andrés Díaz Ortega;cliente16@mail.cl;Mujer;31.0;Talcahuano;Biobío;Tienda;Refrigerador;;800000;3;0.1
+241;30/08/2023;46;5;269;José Patricio Valenzuela Estay;cliente269@mail.cl;Mujer;32.0;La Serena;Coquimbo;Web;Lavadora;Electrohogar;700000;2;0.05
+242;31/08/2023;64;4;164;Samuel Arias;cliente164@mail.cl;Mujer;28.0;Temuco;La Araucanía;Web;Zapatillas;Calzado;55000;3;0.05
+243;01/09/2023;67;0;102;Vania Evelyn Leyton García;cliente102@mail.cl;Hombre;32.0;Talcahuano;;App;Smartphone;;450000;3;0.05
+244;02/09/2023;7;8;53;Eduardo Manuel Morales Riffo;cliente53@mail.cl;Mujer;29.0;Valparaíso;Valparaíso;Tienda;Smartphone;;450000;2;
+245;03/09/2023;65;0;17;Bastián Kevin Oñate Toledo;cliente17@mail.cl;Mujer;25.0;Rancagua;;Tienda;Refrigerador;Electrohogar;800000;1;0.1
+246;04/09/2023;60;1;142;Hilda Javiera Cofré Lucero;cliente142@mail.cl;Hombre;53.0;Valparaíso;;App;Smartphone;Tecnología;450000;1;0.05
+247;05/09/2023;61;3;8;Angelo Juan Vivanco Escobar;cliente8@mail.cl;Mujer;47.0;Concepción;Biobío;Tienda;Zapatillas;;55000;2;0.0
+248;06/09/2023;49;1;63;Geraldine Irma Álvarez Díaz;cliente63@mail.cl;Mujer;24.0;Antofagasta;Antofagasta;Web;Refrigerador;Electrohogar;800000;3;0.05
+249;07/09/2023;25;3;7;Daniela Francisca Palacios Allendes;cliente7@mail.cl;Hombre;56.0;Puerto Montt;;App;Smartphone;;450000;3;0.0
+250;08/09/2023;55;9;114;Anahí Araya;cliente114@mail.cl;Mujer;67.0;Antofagasta;Antofagasta;App;TV;;650000;3;0.05
+251;09/09/2023;58;1;258;Edith Uberlinda Jiménez Valenzuela;cliente258@mail.cl;Mujer;29.0;Puerto Montt;;Web;Maquillaje;Belleza;15000;3;0.0
+252;10/09/2023;43;0;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Santiago;Región Metropolitana;Tienda;Perfume;Belleza;35000;2;0.05
+253;11/09/2023;70;6;21;Alexis Juan Contreras Vega;cliente21@mail.cl;Hombre;55.0;Talcahuano;;Tienda;Notebook;Tecnología;750000;1;0.05
+254;12/09/2023;28;5;272;Alison Araya-Millán;cliente272@mail.cl;Hombre;20.0;Viña del Mar;Valparaíso;App;Perfume;Belleza;35000;1;0.05
+255;13/09/2023;60;1;122;Carlos Aranda-Ortiz;cliente122@mail.cl;Mujer;27.0;Valparaíso;Valparaíso;Tienda;Smartphone;Tecnología;450000;2;
+256;14/09/2023;6;2;38;Christian Francisco Rojas Oyarzo;cliente38@mail.cl;Hombre;18.0;Concepción;Biobío;App;TV;;650000;2;0.1
+257;15/09/2023;7;8;243;Miguel Esteban Soto Silva;cliente243@mail.cl;Mujer;44.0;Valparaíso;Valparaíso;Tienda;Refrigerador;Electrohogar;800000;3;
+258;16/09/2023;70;6;102;Vania Evelyn Leyton García;cliente102@mail.cl;Hombre;32.0;Talcahuano;Biobío;Web;Notebook;;750000;2;0.0
+259;17/09/2023;7;8;197;Constanza Seguel Morales;cliente197@mail.cl;Mujer;27.0;Valparaíso;Valparaíso;Web;Lavadora;Electrohogar;700000;1;0.1
+260;18/09/2023;28;5;91;María Ávalos Vergara;cliente91@mail.cl;Hombre;39.0;Viña del Mar;Valparaíso;Web;Refrigerador;Electrohogar;800000;2;0.1
+261;19/09/2023;3;1;108;Gonzalo Jorge Muñoz Reyes;cliente108@mail.cl;Hombre;40.0;Valparaíso;;Web;Polera;;12000;3;0.05
+262;20/09/2023;62;4;70;Bárbara Torres;cliente70@mail.cl;Mujer;30.0;Puerto Montt;Los Lagos;App;TV;Electrohogar;650000;2;0.1
+263;21/09/2023;67;0;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Talcahuano;Biobío;Web;TV;Electrohogar;650000;2;
+264;22/09/2023;40;1;192;Olga Agustina Rojas Rodríguez;cliente192@mail.cl;Mujer;;Talcahuano;Biobío;App;Polera;;12000;1;
+265;23/09/2023;19;5;192;Olga Agustina Rojas Rodríguez;cliente192@mail.cl;Mujer;;Temuco;La Araucanía;Tienda;Polera;Vestuario;12000;3;0.0
+266;24/09/2023;18;1;76;Benjamín Fernando Olea Retamal;cliente76@mail.cl;Hombre;47.0;Talcahuano;;Web;Refrigerador;Electrohogar;800000;3;0.0
+267;25/09/2023;66;2;139;Mario Fonseca;cliente139@mail.cl;Hombre;47.0;Talcahuano;Biobío;Tienda;Maquillaje;Belleza;15000;1;0.0
+268;26/09/2023;58;1;60;Bárbara Molina Aranda;cliente60@mail.cl;Hombre;49.0;Puerto Montt;;Tienda;Polera;Vestuario;12000;2;0.0
+269;27/09/2023;55;9;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Antofagasta;Antofagasta;App;Lavadora;Electrohogar;700000;2;
+270;28/09/2023;13;0;144;Rolando Patricio Muñoz Barría;cliente144@mail.cl;Mujer;40.0;Talcahuano;;Web;Maquillaje;Belleza;15000;1;0.0
+271;29/09/2023;30;0;74;Gloria Urra Ramos;cliente74@mail.cl;Hombre;56.0;Valparaíso;Valparaíso;App;Refrigerador;Electrohogar;800000;2;0.0
+272;30/09/2023;28;5;269;José Patricio Valenzuela Estay;cliente269@mail.cl;Mujer;32.0;Viña del Mar;Valparaíso;Web;Refrigerador;Electrohogar;800000;1;0.0
+273;01/10/2023;45;2;267;Angélica Reyes;cliente267@mail.cl;Mujer;57.0;Talcahuano;Biobío;Tienda;Perfume;;35000;3;0.1
+274;02/10/2023;34;1;269;José Patricio Valenzuela Estay;cliente269@mail.cl;Mujer;32.0;Concepción;;Tienda;Notebook;;750000;2;
+275;03/10/2023;24;3;119;Luis Víctor Garrido Cortés;cliente119@mail.cl;Hombre;51.0;La Serena;Coquimbo;Tienda;TV;Electrohogar;650000;1;0.1
+276;04/10/2023;23;0;67;Francisca Valenzuela Pavez;cliente67@mail.cl;Hombre;37.0;Concepción;Biobío;Tienda;Perfume;Belleza;35000;1;0.0
+277;05/10/2023;55;9;186;Laura Mary Sánchez Quintanilla;cliente186@mail.cl;Mujer;46.0;Antofagasta;;Tienda;Smartphone;Tecnología;450000;1;0.0
+278;06/10/2023;57;3;264;Alejandra Navarro;cliente264@mail.cl;Mujer;25.0;Concepción;;Tienda;Polera;Vestuario;12000;3;0.1
+279;07/10/2023;30;0;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Valparaíso;Valparaíso;Tienda;Lavadora;Electrohogar;700000;3;0.0
+280;08/10/2023;28;5;65;Manuel Rodríguez;cliente65@mail.cl;Hombre;47.0;Viña del Mar;;Tienda;Pantalón;Vestuario;25000;3;
+281;09/10/2023;54;9;241;Gloria Leyton;cliente241@mail.cl;Mujer;28.0;Talcahuano;;Web;Zapatillas;;55000;2;0.0
+282;10/10/2023;65;0;228;Eladio Sandro Gaete Salazar;cliente228@mail.cl;Mujer;25.0;Rancagua;O'Higgins;Tienda;Polera;;12000;1;0.05
+283;11/10/2023;41;4;138;John Alvarado Albornoz;cliente138@mail.cl;Mujer;34.0;Antofagasta;Antofagasta;Web;Smartphone;;450000;3;0.05
+284;12/10/2023;1;8;196;Darwin Ramón Saavedra Pino;cliente196@mail.cl;Hombre;42.0;Santiago;;Tienda;Lavadora;Electrohogar;700000;2;
+285;13/10/2023;60;1;135;Sergio Guerrero Salazar;cliente135@mail.cl;Mujer;26.0;Valparaíso;Valparaíso;Web;Polera;Vestuario;12000;1;0.1
+286;14/10/2023;24;3;128;María Soto Castillo;cliente128@mail.cl;Mujer;31.0;La Serena;;Tienda;Maquillaje;;15000;1;0.1
+287;15/10/2023;17;0;107;Fanny María Gómez Hernández;cliente107@mail.cl;Mujer;60.0;Santiago;Región Metropolitana;Tienda;Lavadora;;700000;2;0.0
+288;16/10/2023;50;0;73;María Bravo Vásquez;cliente73@mail.cl;Mujer;37.0;Temuco;La Araucanía;Web;Zapatillas;Calzado;55000;1;0.1
+289;17/10/2023;62;4;225;Berta Huerta García;cliente225@mail.cl;Hombre;32.0;Puerto Montt;Los Lagos;Web;Refrigerador;Electrohogar;800000;3;
+290;18/10/2023;58;1;213;Germán Bustamante Valenzuela;cliente213@mail.cl;Mujer;49.0;Puerto Montt;Los Lagos;App;Perfume;;35000;1;0.0
+291;19/10/2023;21;5;271;Ana Varela López;cliente271@mail.cl;Mujer;55.0;Puerto Montt;;App;Perfume;;35000;3;0.05
+292;20/10/2023;62;4;3;Fernanda Carmen Mora Guerrero;cliente3@mail.cl;Hombre;45.0;Puerto Montt;;Web;Smartphone;;450000;1;0.1
+293;21/10/2023;20;0;272;Alison Araya-Millán;cliente272@mail.cl;Hombre;20.0;Temuco;;Tienda;TV;;650000;1;0.0
+294;22/10/2023;36;4;237;Carlos Pérez;cliente237@mail.cl;Hombre;18.0;Rancagua;O'Higgins;Tienda;Polera;Vestuario;12000;3;
+295;23/10/2023;1;8;251;Luis Cisternas Apablaza;cliente251@mail.cl;Hombre;22.0;Santiago;Metropolitana;App;Perfume;Belleza;35000;2;
+296;24/10/2023;4;3;214;Carlos Valdés Muñoz;cliente214@mail.cl;Hombre;45.0;Concepción;;Tienda;Maquillaje;;15000;1;0.05
+297;25/10/2023;6;2;223;Cristian Marambio Reyes;cliente223@mail.cl;Hombre;46.0;Concepción;Biobío;Web;Lavadora;Electrohogar;700000;1;0.05
+298;26/10/2023;4;3;109;Lucas Miguel San Martín Catalán;cliente109@mail.cl;Hombre;41.0;Concepción;;Tienda;Zapatillas;Calzado;55000;1;0.05
+299;27/10/2023;5;1;17;Bastián Kevin Oñate Toledo;cliente17@mail.cl;Mujer;25.0;Talcahuano;;Tienda;Smartphone;;450000;1;0.1
+300;28/10/2023;58;1;75;Máximo Pablo Leal Romero;cliente75@mail.cl;Hombre;18.0;Puerto Montt;Los Lagos;Tienda;Zapatillas;Calzado;55000;2;0.05
+301;29/10/2023;62;4;5;Marina Carolina Palacios Araneda;cliente5@mail.cl;Hombre;35.0;Puerto Montt;;App;TV;;650000;2;0.1
+302;30/10/2023;61;3;138;John Alvarado Albornoz;cliente138@mail.cl;Mujer;34.0;Concepción;;Web;Lavadora;Electrohogar;700000;2;0.1
+303;31/10/2023;52;0;202;Héctor Ramírez;cliente202@mail.cl;Mujer;44.0;Talcahuano;Biobío;Web;Smartphone;Tecnología;450000;3;0.05
+304;01/11/2023;63;5;117;Rubén Castillo;cliente117@mail.cl;Mujer;;Rancagua;;Web;Zapatillas;Calzado;55000;1;
+305;02/11/2023;6;2;86;Rudecindo Cares;cliente86@mail.cl;Hombre;31.0;Concepción;;Web;Notebook;;750000;2;0.1
+306;03/11/2023;30;0;237;Carlos Pérez;cliente237@mail.cl;Hombre;18.0;Valparaíso;Valparaíso;Web;TV;Electrohogar;650000;2;
+307;04/11/2023;64;4;149;Olivia Pino Pizarro;cliente149@mail.cl;Mujer;44.0;Temuco;La Araucanía;App;Zapatillas;;55000;1;0.05
+308;05/11/2023;48;6;47;Javier Diego Navarrete Peña;cliente47@mail.cl;Hombre;32.0;Valparaíso;Valparaíso;Tienda;Lavadora;;700000;3;0.0
+309;06/11/2023;40;1;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Talcahuano;Biobío;Web;TV;;650000;2;0.0
+310;07/11/2023;62;4;69;Raquel Silva Méndez;cliente69@mail.cl;Mujer;42.0;Puerto Montt;Los Lagos;App;Smartphone;;450000;2;0.05
+311;08/11/2023;61;3;244;Amparo Javiera Rodríguez Contreras;cliente244@mail.cl;Hombre;48.0;Concepción;Biobío;Tienda;Zapatillas;Calzado;55000;2;0.0
+312;09/11/2023;53;1;168;Sergio Carlos Cerda-Reyes Toledo;cliente168@mail.cl;Hombre;60.0;Puerto Montt;Los Lagos;Web;TV;Electrohogar;650000;2;
+313;10/11/2023;34;1;82;Noelia Lizama;cliente82@mail.cl;Hombre;;Concepción;;Tienda;Refrigerador;Electrohogar;800000;3;0.0
+314;11/11/2023;2;2;180;Gisela Carol Ávila Suárez;cliente180@mail.cl;Hombre;70.0;Rancagua;O'Higgins;Tienda;Perfume;Belleza;35000;2;0.05
+315;12/11/2023;17;0;192;Olga Agustina Rojas Rodríguez;cliente192@mail.cl;Mujer;;Santiago;Región Metropolitana;Tienda;Lavadora;;700000;2;
+316;13/11/2023;35;1;106;Mariela Urzúa Moreno;cliente106@mail.cl;Hombre;42.0;Antofagasta;;App;Perfume;;35000;3;0.05
+317;14/11/2023;29;1;249;María Sofía Morales Arellano;cliente249@mail.cl;Mujer;59.0;Viña del Mar;;App;TV;Electrohogar;650000;3;0.05
+318;15/11/2023;43;0;219;Víctor Matamala;cliente219@mail.cl;Mujer;32.0;Santiago;Región Metropolitana;Tienda;Notebook;;750000;1;0.0
+319;16/11/2023;10;7;244;Amparo Javiera Rodríguez Contreras;cliente244@mail.cl;Hombre;48.0;Valparaíso;;Tienda;Polera;;12000;1;
+320;17/11/2023;20;0;138;John Alvarado Albornoz;cliente138@mail.cl;Mujer;34.0;Temuco;La Araucanía;App;Notebook;Tecnología;750000;3;
+321;18/11/2023;25;3;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Puerto Montt;;Tienda;Notebook;;750000;3;0.0
+322;19/11/2023;41;4;135;Sergio Guerrero Salazar;cliente135@mail.cl;Mujer;26.0;Antofagasta;Antofagasta;Tienda;Maquillaje;Belleza;15000;3;0.05
+323;20/11/2023;30;0;153;Esteban Cárdenas Silva;cliente153@mail.cl;Hombre;29.0;Valparaíso;Valparaíso;Tienda;Pantalón;Vestuario;25000;2;
+324;21/11/2023;17;0;61;Ingrid María Velásquez Herrera;cliente61@mail.cl;Mujer;32.0;Santiago;Metropolitana;App;TV;;650000;3;
+325;22/11/2023;22;1;86;Rudecindo Cares;cliente86@mail.cl;Hombre;31.0;Viña del Mar;;Web;Smartphone;Tecnología;450000;1;
+326;23/11/2023;54;9;44;Humberto José Rivera Leiva;cliente44@mail.cl;Hombre;34.0;Talcahuano;Biobío;App;Lavadora;;700000;1;0.05
+327;24/11/2023;46;5;228;Eladio Sandro Gaete Salazar;cliente228@mail.cl;Mujer;25.0;La Serena;Coquimbo;App;Zapatillas;Calzado;55000;1;0.0
+328;25/11/2023;2;2;259;José Ángel Fuentes Gutiérrez;cliente259@mail.cl;Mujer;43.0;Rancagua;;Tienda;Refrigerador;;800000;2;0.0
+329;26/11/2023;57;3;111;Hernán Benjamín Lira González;cliente111@mail.cl;Mujer;18.0;Concepción;Biobío;Tienda;Zapatillas;Calzado;55000;3;0.1
+330;27/11/2023;46;5;54;Franco Espinosa;cliente54@mail.cl;Mujer;45.0;La Serena;;App;Lavadora;;700000;1;0.1
+331;28/11/2023;62;4;179;Bárbara Valeria Vergara Solar;cliente179@mail.cl;Hombre;34.0;Puerto Montt;Los Lagos;Tienda;Notebook;Tecnología;750000;3;0.1
+332;29/11/2023;20;0;49;Belén Ruth Mansilla Caro;cliente49@mail.cl;Hombre;42.0;Temuco;La Araucanía;App;Lavadora;Electrohogar;700000;2;0.0
+333;30/11/2023;35;1;105;Claudio Diego Cisterna Rojas;cliente105@mail.cl;Hombre;36.0;Antofagasta;;Tienda;Pantalón;;25000;3;0.05
+334;01/12/2023;20;0;98;Lucas Álvaro Acevedo Agurto;cliente98@mail.cl;Hombre;41.0;Temuco;;Tienda;Refrigerador;Electrohogar;800000;3;
+335;02/12/2023;40;1;75;Máximo Pablo Leal Romero;cliente75@mail.cl;Hombre;18.0;Talcahuano;;Tienda;Smartphone;Tecnología;450000;3;0.05
+336;03/12/2023;37;1;122;Carlos Aranda-Ortiz;cliente122@mail.cl;Mujer;27.0;Viña del Mar;;Web;Refrigerador;;800000;1;0.1
+337;04/12/2023;26;6;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Rancagua;O'Higgins;Web;TV;Electrohogar;650000;1;
+338;05/12/2023;2;2;244;Amparo Javiera Rodríguez Contreras;cliente244@mail.cl;Hombre;48.0;Rancagua;;Web;Polera;;12000;3;
+339;06/12/2023;2;2;210;Mariana Patricia Allende Moya;cliente210@mail.cl;Hombre;75.0;Rancagua;O'Higgins;Web;Smartphone;Tecnología;450000;2;
+340;07/12/2023;38;8;62;Raimundo Mario Rubilar Flores;cliente62@mail.cl;Mujer;35.0;Concepción;;App;Polera;;12000;1;0.1
+341;08/12/2023;63;5;68;Laura Peñaloza Díaz;cliente68@mail.cl;Hombre;50.0;Rancagua;;App;Maquillaje;Belleza;15000;1;
+342;09/12/2023;53;1;270;Maite Díaz;cliente270@mail.cl;Hombre;39.0;Puerto Montt;Los Lagos;Tienda;Lavadora;Electrohogar;700000;3;0.0
+343;10/12/2023;41;4;158;Braulio Diego Mondaca Muñoz;cliente158@mail.cl;Hombre;43.0;Antofagasta;;Web;Lavadora;Electrohogar;700000;2;0.0
+344;11/12/2023;21;5;265;Pablo Arroyo López;cliente265@mail.cl;Mujer;34.0;Puerto Montt;Los Lagos;Tienda;TV;Electrohogar;650000;1;0.05
+345;12/12/2023;28;5;139;Mario Fonseca;cliente139@mail.cl;Hombre;47.0;Viña del Mar;Valparaíso;Tienda;Zapatillas;;55000;2;0.1
+346;13/12/2023;20;0;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Temuco;La Araucanía;Tienda;Perfume;Belleza;35000;1;0.05
+347;14/12/2023;1;8;36;Josefa Plaza;cliente36@mail.cl;Mujer;23.0;Santiago;Región Metropolitana;Web;Lavadora;Electrohogar;700000;2;0.05
+348;15/12/2023;52;0;250;Fernando Robles González;cliente250@mail.cl;Mujer;42.0;Talcahuano;;Tienda;Lavadora;;700000;1;0.0
+349;16/12/2023;63;5;188;Felipe Cofré Molina;cliente188@mail.cl;Mujer;37.0;Rancagua;;App;Lavadora;;700000;3;0.05
+350;17/12/2023;7;8;264;Alejandra Navarro;cliente264@mail.cl;Mujer;25.0;Valparaíso;Valparaíso;Web;Notebook;;750000;3;0.1
+351;18/12/2023;20;0;124;Teresa Claudia Tobar Moya;cliente124@mail.cl;Mujer;21.0;Temuco;La Araucanía;Tienda;Refrigerador;Electrohogar;800000;1;0.05
+352;19/12/2023;1;8;5;Marina Carolina Palacios Araneda;cliente5@mail.cl;Hombre;35.0;Santiago;Región Metropolitana;App;Smartphone;Tecnología;450000;1;0.05
+353;20/12/2023;48;6;218;Francisco Raúl Guerrero-Romero Sánchez;cliente218@mail.cl;Mujer;35.0;Valparaíso;;Tienda;Pantalón;;25000;1;
+354;21/12/2023;66;2;12;Agustina Rosa Rojas Pastén;cliente12@mail.cl;Mujer;32.0;Talcahuano;;Tienda;TV;Electrohogar;650000;3;
+355;22/12/2023;58;1;94;Jorge Enrique Vidal Castillo;cliente94@mail.cl;Hombre;34.0;Puerto Montt;Los Lagos;Web;Smartphone;Tecnología;450000;1;
+356;23/12/2023;23;0;91;María Ávalos Vergara;cliente91@mail.cl;Hombre;39.0;Concepción;Biobío;Web;Refrigerador;Electrohogar;800000;2;
+357;24/12/2023;43;0;113;Pedro Héctor Toro Soto;cliente113@mail.cl;Mujer;38.0;Santiago;RM;Web;TV;Electrohogar;650000;1;
+358;25/12/2023;25;3;277;Verónica Cartes Rebolledo;cliente277@mail.cl;Mujer;40.0;Puerto Montt;Los Lagos;Web;Notebook;Tecnología;750000;2;0.05
+359;26/12/2023;7;8;2;Rosa Gaete Castro;cliente2@mail.cl;Hombre;36.0;Valparaíso;Valparaíso;Web;Smartphone;Tecnología;450000;2;0.1
+360;27/12/2023;39;6;84;Andrea Ahumada Chávez;cliente84@mail.cl;Mujer;31.0;Antofagasta;Antofagasta;Tienda;Notebook;;750000;2;0.1
+361;28/12/2023;6;2;26;Felipe Daniel González Salinas;cliente26@mail.cl;Mujer;39.0;Concepción;;Tienda;Maquillaje;Belleza;15000;2;0.0
+362;29/12/2023;21;5;98;Lucas Álvaro Acevedo Agurto;cliente98@mail.cl;Hombre;41.0;Puerto Montt;Los Lagos;Web;Perfume;;35000;2;0.0
+363;30/12/2023;65;0;113;Pedro Héctor Toro Soto;cliente113@mail.cl;Mujer;38.0;Rancagua;;Tienda;Smartphone;Tecnología;450000;1;0.1
+364;31/12/2023;8;1;43;Cristóbal Pastén Leal;cliente43@mail.cl;Hombre;36.0;Puerto Montt;Los Lagos;Web;Polera;Vestuario;12000;1;0.1
+365;01/01/2024;50;0;240;María Evelyn Rodríguez Mardones;cliente240@mail.cl;Hombre;48.0;Temuco;;Web;Zapatillas;Calzado;55000;3;0.05
+366;02/01/2024;61;3;136;Maritza Thiare Mora Miranda;cliente136@mail.cl;Mujer;56.0;Concepción;;Tienda;Maquillaje;;15000;3;0.05
+367;03/01/2024;52;0;58;Rossana Flores;cliente58@mail.cl;Hombre;34.0;Talcahuano;Biobío;Tienda;Smartphone;Tecnología;450000;1;0.05
+368;04/01/2024;5;1;43;Cristóbal Pastén Leal;cliente43@mail.cl;Hombre;36.0;Talcahuano;;Tienda;TV;Electrohogar;650000;3;
+369;05/01/2024;22;1;238;Manuel Rodríguez Pérez;cliente238@mail.cl;Hombre;40.0;Viña del Mar;;Tienda;Maquillaje;;15000;1;
+370;06/01/2024;63;5;261;Carlos Fuentes Vargas;cliente261@mail.cl;Hombre;26.0;Rancagua;O'Higgins;Web;Polera;;12000;1;0.0
+371;07/01/2024;67;0;83;Vilma Leyla Escobar Fuentes;cliente83@mail.cl;Hombre;55.0;Talcahuano;;Web;Perfume;Belleza;35000;1;
+372;08/01/2024;14;0;160;Mónica Araya Álvarez;cliente160@mail.cl;Mujer;45.0;Santiago;Región Metropolitana;Web;Polera;;12000;3;0.0
+373;09/01/2024;30;0;166;Sergio Carlos Pavez Díaz;cliente166@mail.cl;Mujer;42.0;Valparaíso;Valparaíso;Tienda;Lavadora;Electrohogar;700000;3;0.05
+374;10/01/2024;32;5;229;Elsa Llanos;cliente229@mail.cl;Hombre;29.0;Puerto Montt;Los Lagos;Web;Polera;Vestuario;12000;2;0.05
+375;11/01/2024;40;1;20;Manuel Muñoz González;cliente20@mail.cl;Hombre;21.0;Talcahuano;Biobío;Web;Perfume;;35000;1;
+376;12/01/2024;15;0;85;Bárbara Tello;cliente85@mail.cl;Hombre;28.0;Santiago;;Tienda;Notebook;;750000;2;0.0
+377;13/01/2024;27;4;184;Jacqueline Amanda Martínez Osorio;cliente184@mail.cl;Hombre;43.0;Viña del Mar;Valparaíso;App;Pantalón;Vestuario;25000;3;0.1
+378;14/01/2024;58;1;142;Hilda Javiera Cofré Lucero;cliente142@mail.cl;Hombre;53.0;Puerto Montt;Los Lagos;Tienda;Maquillaje;Belleza;15000;2;0.05
+379;15/01/2024;13;0;96;Javier Aravena;cliente96@mail.cl;Hombre;20.0;Talcahuano;Biobío;Tienda;Refrigerador;;800000;2;0.1
+380;16/01/2024;68;2;270;Maite Díaz;cliente270@mail.cl;Hombre;39.0;Santiago;Región Metropolitana;Tienda;Maquillaje;;15000;2;0.0
+381;17/01/2024;35;1;230;Blanca Anahí González Retamal;cliente230@mail.cl;Hombre;46.0;Antofagasta;Antofagasta;Tienda;Pantalón;Vestuario;25000;3;0.0
+382;18/01/2024;47;1;22;Laura Aguilera Orellana;cliente22@mail.cl;Hombre;35.0;Viña del Mar;Valparaíso;Tienda;Notebook;;750000;3;
+383;19/01/2024;38;8;21;Alexis Juan Contreras Vega;cliente21@mail.cl;Hombre;55.0;Concepción;Biobío;Web;Notebook;;750000;2;0.0
+384;20/01/2024;14;0;112;Karin Elena Jaramillo Carrasco;cliente112@mail.cl;Hombre;37.0;Santiago;;Tienda;Maquillaje;;15000;1;
+385;21/01/2024;39;6;26;Felipe Daniel González Salinas;cliente26@mail.cl;Mujer;39.0;Antofagasta;;Web;Refrigerador;Electrohogar;800000;2;
+386;22/01/2024;45;2;141;Pedro Pablo Castro Ojeda;cliente141@mail.cl;Mujer;40.0;Talcahuano;;Tienda;Smartphone;Tecnología;450000;3;0.05
+387;23/01/2024;40;1;80;Pedro Ramón Serrano Ibáñez;cliente80@mail.cl;Mujer;18.0;Talcahuano;;Web;Zapatillas;;55000;1;0.05
+388;24/01/2024;7;8;9;Ana Mercado Araya;cliente9@mail.cl;Mujer;32.0;Valparaíso;;Tienda;Refrigerador;Electrohogar;800000;3;0.0
+389;25/01/2024;13;0;252;Mauricio Astorga;cliente252@mail.cl;Mujer;49.0;Talcahuano;Biobío;Tienda;Zapatillas;Calzado;55000;1;0.0
+390;26/01/2024;8;1;211;Patricio Gonzalo Toledo Arce;cliente211@mail.cl;Hombre;44.0;Puerto Montt;;App;Pantalón;Vestuario;25000;2;0.0
+391;27/01/2024;70;6;167;Matilda Denisse Gatica Gutiérrez;cliente167@mail.cl;Mujer;47.0;Talcahuano;Biobío;Web;Zapatillas;Calzado;55000;1;0.0
+392;28/01/2024;50;0;109;Lucas Miguel San Martín Catalán;cliente109@mail.cl;Hombre;41.0;Temuco;La Araucanía;App;Maquillaje;Belleza;15000;1;
+393;29/01/2024;13;0;137;José Juan Vargas Vega;cliente137@mail.cl;Hombre;28.0;Talcahuano;Biobío;Web;Notebook;Tecnología;750000;3;0.1
+394;30/01/2024;28;5;165;Clara Rosa Aros Guerrero;cliente165@mail.cl;Mujer;49.0;Viña del Mar;;App;Polera;Vestuario;12000;2;0.0
+395;31/01/2024;60;1;83;Vilma Leyla Escobar Fuentes;cliente83@mail.cl;Hombre;55.0;Valparaíso;;App;Maquillaje;Belleza;15000;3;0.0
+396;01/02/2024;21;5;238;Manuel Rodríguez Pérez;cliente238@mail.cl;Hombre;40.0;Puerto Montt;Los Lagos;Tienda;Zapatillas;Calzado;55000;1;
+397;02/02/2024;44;7;65;Manuel Rodríguez;cliente65@mail.cl;Hombre;47.0;Antofagasta;Antofagasta;Web;TV;;650000;3;0.05
+398;03/02/2024;64;4;180;Gisela Carol Ávila Suárez;cliente180@mail.cl;Hombre;70.0;Temuco;;Web;Notebook;Tecnología;750000;3;0.0
+399;04/02/2024;49;1;192;Olga Agustina Rojas Rodríguez;cliente192@mail.cl;Mujer;;Antofagasta;Antofagasta;Tienda;Pantalón;;25000;1;0.05
+400;05/02/2024;63;5;53;Eduardo Manuel Morales Riffo;cliente53@mail.cl;Mujer;29.0;Rancagua;O'Higgins;App;Maquillaje;;15000;1;0.05
+401;06/02/2024;36;4;126;Germán González Hermosilla;cliente126@mail.cl;Mujer;64.0;Rancagua;O'Higgins;Tienda;Maquillaje;Belleza;15000;3;
+402;07/02/2024;4;3;72;Luis Gabriel Barrera Castillo;cliente72@mail.cl;Hombre;56.0;Concepción;;Tienda;Pantalón;Vestuario;25000;3;0.1
+403;08/02/2024;21;5;19;Teresa María Alvarado Guerra;cliente19@mail.cl;Hombre;27.0;Puerto Montt;Los Lagos;Tienda;Zapatillas;Calzado;55000;1;0.0
+404;09/02/2024;3;1;69;Raquel Silva Méndez;cliente69@mail.cl;Mujer;42.0;Valparaíso;;Tienda;Polera;Vestuario;12000;1;
+405;10/02/2024;64;4;263;Carolina González Ruiz;cliente263@mail.cl;Mujer;18.0;Temuco;La Araucanía;Tienda;Perfume;Belleza;35000;2;0.1
+406;11/02/2024;23;0;217;Tamara Maritza Inostroza Márquez;cliente217@mail.cl;Hombre;28.0;Concepción;Biobío;Tienda;Perfume;;35000;1;0.1
+407;12/02/2024;49;1;62;Raimundo Mario Rubilar Flores;cliente62@mail.cl;Mujer;35.0;Antofagasta;Antofagasta;Web;Lavadora;Electrohogar;700000;1;
+408;13/02/2024;1;8;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Santiago;Región Metropolitana;Web;Notebook;Tecnología;750000;1;0.05
+409;14/02/2024;60;1;18;Vanessa Emilia Osorio Saavedra;cliente18@mail.cl;Mujer;41.0;Valparaíso;;Tienda;Polera;Vestuario;12000;1;0.1
+410;15/02/2024;10;7;178;Emiliano Hernández Castillo;cliente178@mail.cl;Mujer;55.0;Valparaíso;Valparaíso;App;Maquillaje;;15000;3;
+411;16/02/2024;10;7;106;Mariela Urzúa Moreno;cliente106@mail.cl;Hombre;42.0;Valparaíso;;App;Zapatillas;Calzado;55000;1;
+412;17/02/2024;59;1;71;Juan Rivera;cliente71@mail.cl;Mujer;42.0;Antofagasta;Antofagasta;Tienda;TV;Electrohogar;650000;1;0.1
+413;18/02/2024;58;1;33;Jocelyn Gabriela López Guzmán;cliente33@mail.cl;Hombre;37.0;Puerto Montt;;Tienda;Perfume;;35000;3;
+414;19/02/2024;69;1;99;María Lorena Bórquez Rodríguez;cliente99@mail.cl;Hombre;38.0;Puerto Montt;Los Lagos;Web;Notebook;Tecnología;750000;3;0.0
+415;20/02/2024;36;4;216;Víctor Raúl Ibarra Paredes;cliente216@mail.cl;Hombre;47.0;Rancagua;;App;Refrigerador;Electrohogar;800000;1;0.0
+416;21/02/2024;50;0;119;Luis Víctor Garrido Cortés;cliente119@mail.cl;Hombre;51.0;Temuco;La Araucanía;Tienda;Smartphone;;450000;2;0.1
+417;22/02/2024;27;4;270;Maite Díaz;cliente270@mail.cl;Hombre;39.0;Viña del Mar;Valparaíso;App;Notebook;;750000;3;0.1
+418;23/02/2024;57;3;202;Héctor Ramírez;cliente202@mail.cl;Mujer;44.0;Concepción;Biobío;Tienda;Notebook;;750000;1;0.05
+419;24/02/2024;25;3;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Puerto Montt;;Web;Lavadora;;700000;2;
+420;25/02/2024;9;9;203;Marisol Vera-León Riquelme;cliente203@mail.cl;Mujer;50.0;Valparaíso;Valparaíso;Tienda;Notebook;Tecnología;750000;1;
+421;26/02/2024;55;9;109;Lucas Miguel San Martín Catalán;cliente109@mail.cl;Hombre;41.0;Antofagasta;Antofagasta;Tienda;Zapatillas;Calzado;55000;1;0.05
+422;27/02/2024;52;0;116;Daniel Alejandro Rivera Ibarra;cliente116@mail.cl;Mujer;41.0;Talcahuano;Biobío;Tienda;Zapatillas;Calzado;55000;1;0.05
+423;28/02/2024;9;9;265;Pablo Arroyo López;cliente265@mail.cl;Mujer;34.0;Valparaíso;;App;Notebook;Tecnología;750000;2;
+424;29/02/2024;29;1;3;Fernanda Carmen Mora Guerrero;cliente3@mail.cl;Hombre;45.0;Viña del Mar;;Tienda;Refrigerador;;800000;1;0.0
+425;01/03/2024;4;3;126;Germán González Hermosilla;cliente126@mail.cl;Mujer;64.0;Concepción;Biobío;Tienda;Smartphone;Tecnología;450000;3;0.05
+426;02/03/2024;29;1;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Viña del Mar;Valparaíso;Tienda;Perfume;Belleza;35000;1;0.0
+427;03/03/2024;58;1;148;Víctor Alejandro Ramírez Soto;cliente148@mail.cl;Hombre;22.0;Puerto Montt;;Web;Maquillaje;Belleza;15000;1;0.05
+428;04/03/2024;39;6;143;Margarita Gladys Riquelme Mamani;cliente143@mail.cl;Mujer;18.0;Antofagasta;Antofagasta;Web;Pantalón;;25000;3;0.0
+429;05/03/2024;39;6;23;Brayan Amaro Araya Valenzuela;cliente23@mail.cl;Mujer;38.0;Antofagasta;Antofagasta;Tienda;Lavadora;Electrohogar;700000;1;0.0
+430;06/03/2024;52;0;31;María Fabiana Navarro Valencia;cliente31@mail.cl;Hombre;30.0;Talcahuano;;Tienda;Perfume;Belleza;35000;1;0.0
+431;07/03/2024;40;1;206;Rodrigo Cornejo Aranda;cliente206@mail.cl;Mujer;26.0;Talcahuano;;App;Notebook;Tecnología;750000;1;0.05
+432;08/03/2024;39;6;189;Gloria Lidia García Toledo;cliente189@mail.cl;Mujer;27.0;Antofagasta;Antofagasta;Tienda;Lavadora;Electrohogar;700000;2;0.0
+433;09/03/2024;67;0;225;Berta Huerta García;cliente225@mail.cl;Hombre;32.0;Talcahuano;Biobío;Tienda;Smartphone;;450000;1;0.05
+434;10/03/2024;61;3;221;Juan Héctor Castro Silva;cliente221@mail.cl;Mujer;65.0;Concepción;;Web;Zapatillas;Calzado;55000;1;0.05
+435;11/03/2024;66;2;208;Héctor Pérez Carrasco;cliente208@mail.cl;Mujer;44.0;Talcahuano;Biobío;App;Zapatillas;Calzado;55000;2;0.0
+436;12/03/2024;66;2;27;Ricardo Iván Zapata Riquelme;cliente27@mail.cl;Mujer;24.0;Talcahuano;;Tienda;Perfume;;35000;1;0.05
+437;13/03/2024;10;7;37;Alejandro Rodrigo Toro Espinoza;cliente37@mail.cl;Hombre;40.0;Valparaíso;Valparaíso;Tienda;Refrigerador;Electrohogar;800000;3;0.1
+438;14/03/2024;27;4;185;Yasna Colomba Olivares Prieto;cliente185@mail.cl;Hombre;35.0;Viña del Mar;Valparaíso;Tienda;TV;Electrohogar;650000;3;0.1
+439;15/03/2024;10;7;173;Josefa Berta Salazar Garrido;cliente173@mail.cl;Hombre;37.0;Valparaíso;;App;Smartphone;;450000;3;0.05
+440;16/03/2024;16;3;175;Carolina Villagrán Miranda;cliente175@mail.cl;Hombre;41.0;Temuco;La Araucanía;Tienda;Maquillaje;Belleza;15000;1;
+441;17/03/2024;41;4;1;Ana Martinez García;cliente1@mail.cl;Hombre;43.0;Antofagasta;;App;Refrigerador;Electrohogar;800000;1;0.05
+442;18/03/2024;57;3;75;Máximo Pablo Leal Romero;cliente75@mail.cl;Hombre;18.0;Concepción;;Tienda;Perfume;;35000;3;0.0
+443;19/03/2024;4;3;61;Ingrid María Velásquez Herrera;cliente61@mail.cl;Mujer;32.0;Concepción;Biobío;Web;Pantalón;Vestuario;25000;2;0.1
+444;20/03/2024;57;3;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Concepción;;Web;Polera;Vestuario;12000;3;0.1
+445;21/03/2024;46;5;139;Mario Fonseca;cliente139@mail.cl;Hombre;47.0;La Serena;;Tienda;Lavadora;Electrohogar;700000;3;0.05
+446;22/03/2024;54;9;232;Miguel Araya Segura;cliente232@mail.cl;Hombre;40.0;Talcahuano;Biobío;App;Lavadora;Electrohogar;700000;2;0.1
+447;23/03/2024;27;4;115;Juan Michel Maldonado Molina;cliente115@mail.cl;Mujer;35.0;Viña del Mar;Valparaíso;Web;Polera;;12000;1;0.05
+448;24/03/2024;42;4;215;Vicente Juan Cáceres Castillo;cliente215@mail.cl;Hombre;34.0;Talcahuano;Biobío;Tienda;Maquillaje;;15000;3;0.05
+449;25/03/2024;38;8;201;Miguel Avendaño Soto;cliente201@mail.cl;Mujer;42.0;Concepción;;Tienda;Polera;;12000;2;0.0
+450;26/03/2024;36;4;47;Javier Diego Navarrete Peña;cliente47@mail.cl;Hombre;32.0;Rancagua;;Web;Maquillaje;Belleza;15000;1;0.0
+451;27/03/2024;36;4;26;Felipe Daniel González Salinas;cliente26@mail.cl;Mujer;39.0;Rancagua;O'Higgins;App;Refrigerador;Electrohogar;800000;2;
+452;28/03/2024;62;4;18;Vanessa Emilia Osorio Saavedra;cliente18@mail.cl;Mujer;41.0;Puerto Montt;;Web;Lavadora;;700000;1;0.05
+453;29/03/2024;67;0;6;Yaritza Quiroga Martínez;cliente6@mail.cl;Mujer;35.0;Talcahuano;Biobío;Web;Smartphone;Tecnología;450000;3;0.1
+454;30/03/2024;20;0;36;Josefa Plaza;cliente36@mail.cl;Mujer;23.0;Temuco;La Araucanía;Web;Polera;Vestuario;12000;3;0.1
+455;31/03/2024;22;1;60;Bárbara Molina Aranda;cliente60@mail.cl;Hombre;49.0;Viña del Mar;Valparaíso;App;Pantalón;Vestuario;25000;2;0.1
+456;01/04/2024;12;0;79;Gloria Pereira González;cliente79@mail.cl;Mujer;39.0;Viña del Mar;;Web;Zapatillas;Calzado;55000;3;
+457;02/04/2024;34;1;145;Gaspar Oscar Concha Torres;cliente145@mail.cl;Hombre;41.0;Concepción;;Tienda;Lavadora;Electrohogar;700000;3;0.05
+458;03/04/2024;4;3;220;Génesis Macarena Venegas Sepúlveda;cliente220@mail.cl;Hombre;38.0;Concepción;;Web;Lavadora;Electrohogar;700000;2;0.0
+459;04/04/2024;24;3;189;Gloria Lidia García Toledo;cliente189@mail.cl;Mujer;27.0;La Serena;;Web;Pantalón;;25000;3;0.0
+460;05/04/2024;4;3;160;Mónica Araya Álvarez;cliente160@mail.cl;Mujer;45.0;Concepción;Biobío;Tienda;Notebook;;750000;1;0.0
+461;06/04/2024;42;4;177;Benjamín Claudio Riffo Cid;cliente177@mail.cl;Mujer;38.0;Talcahuano;;App;Notebook;;750000;1;0.0
+462;07/04/2024;40;1;221;Juan Héctor Castro Silva;cliente221@mail.cl;Mujer;65.0;Talcahuano;Biobío;Tienda;Smartphone;Tecnología;450000;1;
+463;08/04/2024;35;1;83;Vilma Leyla Escobar Fuentes;cliente83@mail.cl;Hombre;55.0;Antofagasta;Antofagasta;Tienda;TV;;650000;2;0.0
+464;09/04/2024;66;2;89;Juan Vergara Sandoval;cliente89@mail.cl;Hombre;31.0;Talcahuano;Biobío;Web;TV;Electrohogar;650000;3;0.05
+465;10/04/2024;32;5;244;Amparo Javiera Rodríguez Contreras;cliente244@mail.cl;Hombre;48.0;Puerto Montt;Los Lagos;Tienda;Polera;Vestuario;12000;1;0.1
+466;11/04/2024;60;1;239;Lidia Tapia;cliente239@mail.cl;Mujer;30.0;Valparaíso;;Web;Maquillaje;Belleza;15000;1;0.1
+467;12/04/2024;11;0;125;Martín Jorge Vergara Sáez;cliente125@mail.cl;Mujer;45.0;Antofagasta;Antofagasta;Tienda;Polera;;12000;1;0.0
+468;13/04/2024;57;3;259;José Ángel Fuentes Gutiérrez;cliente259@mail.cl;Mujer;43.0;Concepción;Biobío;Tienda;Notebook;Tecnología;750000;2;0.0
+469;14/04/2024;7;8;234;Sebastián Hormazábal Sepúlveda;cliente234@mail.cl;Mujer;30.0;Valparaíso;Valparaíso;App;Smartphone;;450000;2;0.05
+470;15/04/2024;28;5;250;Fernando Robles González;cliente250@mail.cl;Mujer;42.0;Viña del Mar;;Tienda;Maquillaje;;15000;1;
+471;16/04/2024;11;0;123;Paulino Vargas Farías;cliente123@mail.cl;Hombre;54.0;Antofagasta;Antofagasta;App;Refrigerador;Electrohogar;800000;2;0.1
+472;17/04/2024;19;5;11;Francisca Carla Muñoz Huerta;cliente11@mail.cl;Hombre;32.0;Temuco;;Tienda;Zapatillas;;55000;3;
+473;18/04/2024;58;1;135;Sergio Guerrero Salazar;cliente135@mail.cl;Mujer;26.0;Puerto Montt;;Tienda;Polera;;12000;1;0.1
+474;19/04/2024;50;0;15;Carmen Fuenzalida López;cliente15@mail.cl;Hombre;18.0;Temuco;La Araucanía;App;Lavadora;;700000;1;0.05
+475;20/04/2024;27;4;5;Marina Carolina Palacios Araneda;cliente5@mail.cl;Hombre;35.0;Viña del Mar;Valparaíso;Tienda;Zapatillas;Calzado;55000;1;0.1
+476;21/04/2024;24;3;102;Vania Evelyn Leyton García;cliente102@mail.cl;Hombre;32.0;La Serena;Coquimbo;Tienda;Smartphone;Tecnología;450000;2;0.0
+477;22/04/2024;63;5;149;Olivia Pino Pizarro;cliente149@mail.cl;Mujer;44.0;Rancagua;;Web;Refrigerador;;800000;2;0.1
+478;23/04/2024;19;5;165;Clara Rosa Aros Guerrero;cliente165@mail.cl;Mujer;49.0;Temuco;La Araucanía;Web;Polera;;12000;2;0.1
+479;24/04/2024;39;6;44;Humberto José Rivera Leiva;cliente44@mail.cl;Hombre;34.0;Antofagasta;Antofagasta;App;Pantalón;Vestuario;25000;1;0.0
+480;25/04/2024;55;9;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Antofagasta;Antofagasta;Web;Perfume;Belleza;35000;2;0.05
+481;26/04/2024;68;2;20;Manuel Muñoz González;cliente20@mail.cl;Hombre;21.0;Santiago;Metropolitana;Tienda;Refrigerador;Electrohogar;800000;3;
+482;27/04/2024;59;1;197;Constanza Seguel Morales;cliente197@mail.cl;Mujer;27.0;Antofagasta;Antofagasta;Web;Lavadora;Electrohogar;700000;1;
+483;28/04/2024;7;8;71;Juan Rivera;cliente71@mail.cl;Mujer;42.0;Valparaíso;Valparaíso;Tienda;Maquillaje;Belleza;15000;3;0.05
+484;29/04/2024;42;4;35;Melania Jessica Urrutia Palacios;cliente35@mail.cl;Mujer;47.0;Talcahuano;Biobío;Tienda;Perfume;Belleza;35000;1;0.05
+485;30/04/2024;68;2;11;Francisca Carla Muñoz Huerta;cliente11@mail.cl;Hombre;32.0;Santiago;;Tienda;Pantalón;Vestuario;25000;1;0.05
+486;01/05/2024;65;0;37;Alejandro Rodrigo Toro Espinoza;cliente37@mail.cl;Hombre;40.0;Rancagua;;Tienda;Lavadora;Electrohogar;700000;1;0.0
+487;02/05/2024;21;5;247;Emilia Consuelo González Vallejos;cliente247@mail.cl;Mujer;32.0;Puerto Montt;Los Lagos;Tienda;Smartphone;Tecnología;450000;2;
+488;03/05/2024;44;7;170;Benjamín Abarca;cliente170@mail.cl;Hombre;28.0;Antofagasta;Antofagasta;Web;Maquillaje;Belleza;15000;3;
+489;04/05/2024;56;2;276;Valeska Godoy Riquelme;cliente276@mail.cl;Hombre;43.0;Talcahuano;Biobío;Web;Perfume;;35000;3;0.0
+490;05/05/2024;17;0;175;Carolina Villagrán Miranda;cliente175@mail.cl;Hombre;41.0;Santiago;;Web;Perfume;;35000;3;0.1
+491;06/05/2024;41;4;66;Samuel Aguilera;cliente66@mail.cl;Hombre;54.0;Antofagasta;;Tienda;Smartphone;Tecnología;450000;3;
+492;07/05/2024;55;9;94;Jorge Enrique Vidal Castillo;cliente94@mail.cl;Hombre;34.0;Antofagasta;;Tienda;Maquillaje;Belleza;15000;3;
+493;08/05/2024;28;5;181;Alexandra Fuentes Lara;cliente181@mail.cl;Hombre;45.0;Viña del Mar;;App;Maquillaje;Belleza;15000;3;0.05
+494;09/05/2024;45;2;159;Patricio Luis Guzmán Herrera;cliente159@mail.cl;Mujer;;Talcahuano;Biobío;Web;Maquillaje;Belleza;15000;2;0.0
+495;10/05/2024;12;0;234;Sebastián Hormazábal Sepúlveda;cliente234@mail.cl;Mujer;30.0;Viña del Mar;Valparaíso;Tienda;Notebook;;750000;2;
+496;11/05/2024;19;5;128;María Soto Castillo;cliente128@mail.cl;Mujer;31.0;Temuco;La Araucanía;Tienda;Perfume;;35000;2;
+497;12/05/2024;44;7;175;Carolina Villagrán Miranda;cliente175@mail.cl;Hombre;41.0;Antofagasta;;Tienda;Notebook;Tecnología;750000;3;0.0
+498;13/05/2024;29;1;279;Osvaldo Víctor Rivera Palma;cliente279@mail.cl;Mujer;38.0;Viña del Mar;Valparaíso;App;Pantalón;Vestuario;25000;2;
+499;14/05/2024;56;2;126;Germán González Hermosilla;cliente126@mail.cl;Mujer;64.0;Talcahuano;Biobío;Tienda;Refrigerador;Electrohogar;800000;3;0.05
+500;15/05/2024;47;1;106;Mariela Urzúa Moreno;cliente106@mail.cl;Hombre;42.0;Viña del Mar;;Tienda;Perfume;Belleza;35000;1;0.0
+501;16/05/2024;65;0;173;Josefa Berta Salazar Garrido;cliente173@mail.cl;Hombre;37.0;Rancagua;;Tienda;Polera;Vestuario;12000;1;0.05
+502;17/05/2024;13;0;204;Camila Natalia Pérez Arroyo;cliente204@mail.cl;Hombre;50.0;Talcahuano;Biobío;App;Maquillaje;Belleza;15000;3;0.05
+503;18/05/2024;11;0;46;Leonor María Romero Fuentes;cliente46@mail.cl;Mujer;29.0;Antofagasta;;App;Zapatillas;Calzado;55000;2;0.0
+504;19/05/2024;24;3;170;Benjamín Abarca;cliente170@mail.cl;Hombre;28.0;La Serena;;Tienda;Maquillaje;Belleza;15000;2;0.05
+505;20/05/2024;46;5;146;María Josefina Flores Manríquez;cliente146@mail.cl;Mujer;47.0;La Serena;Coquimbo;Tienda;TV;;650000;1;0.1
+506;21/05/2024;70;6;173;Josefa Berta Salazar Garrido;cliente173@mail.cl;Hombre;37.0;Talcahuano;;Web;Perfume;;35000;1;0.05
+507;22/05/2024;3;1;251;Luis Cisternas Apablaza;cliente251@mail.cl;Hombre;22.0;Valparaíso;Valparaíso;Tienda;Pantalón;Vestuario;25000;2;
+508;23/05/2024;33;13;210;Mariana Patricia Allende Moya;cliente210@mail.cl;Hombre;75.0;Rancagua;;Tienda;Refrigerador;Electrohogar;800000;3;0.0
+509;24/05/2024;33;13;255;Ximena Susana Medina Duarte;cliente255@mail.cl;Hombre;19.0;Rancagua;O'Higgins;Tienda;TV;Electrohogar;650000;3;0.0
+510;25/05/2024;13;0;178;Emiliano Hernández Castillo;cliente178@mail.cl;Mujer;55.0;Talcahuano;;Tienda;Pantalón;Vestuario;25000;2;0.1
+511;26/05/2024;15;0;182;Pedro Jorge Cartes Pérez;cliente182@mail.cl;Hombre;27.0;Santiago;Región Metropolitana;Tienda;Smartphone;Tecnología;450000;1;
+512;27/05/2024;48;6;8;Angelo Juan Vivanco Escobar;cliente8@mail.cl;Mujer;47.0;Valparaíso;Valparaíso;Tienda;Zapatillas;Calzado;55000;2;0.0
+513;28/05/2024;21;5;148;Víctor Alejandro Ramírez Soto;cliente148@mail.cl;Hombre;22.0;Puerto Montt;Los Lagos;App;Maquillaje;Belleza;15000;2;0.1
+514;29/05/2024;44;7;204;Camila Natalia Pérez Arroyo;cliente204@mail.cl;Hombre;50.0;Antofagasta;Antofagasta;Web;Zapatillas;Calzado;55000;2;0.1
+515;30/05/2024;7;8;177;Benjamín Claudio Riffo Cid;cliente177@mail.cl;Mujer;38.0;Valparaíso;Valparaíso;Web;Notebook;;750000;3;0.1
+516;31/05/2024;46;5;248;Ian Dante Tapia Pereira;cliente248@mail.cl;Hombre;30.0;La Serena;;Tienda;Pantalón;Vestuario;25000;1;
+517;01/06/2024;6;2;59;Eduardo Escobar Castro;cliente59@mail.cl;Hombre;41.0;Concepción;Biobío;Tienda;Notebook;Tecnología;750000;3;
+518;02/06/2024;2;2;272;Alison Araya-Millán;cliente272@mail.cl;Hombre;20.0;Rancagua;;Web;Zapatillas;Calzado;55000;2;0.0
+519;03/06/2024;28;5;168;Sergio Carlos Cerda-Reyes Toledo;cliente168@mail.cl;Hombre;60.0;Viña del Mar;Valparaíso;App;Lavadora;Electrohogar;700000;1;0.1
+520;04/06/2024;64;4;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Temuco;La Araucanía;Web;Pantalón;Vestuario;25000;2;0.1
+521;05/06/2024;7;8;57;Mario Daniel Hernández Álvarez;cliente57@mail.cl;Mujer;27.0;Valparaíso;;Tienda;Refrigerador;;800000;3;0.05
+522;06/06/2024;16;3;74;Gloria Urra Ramos;cliente74@mail.cl;Hombre;56.0;Temuco;;App;Zapatillas;;55000;2;0.05
+523;07/06/2024;9;9;152;Cristian Daniel Muñoz Morales;cliente152@mail.cl;Mujer;42.0;Valparaíso;Valparaíso;Web;Notebook;;750000;1;0.1
+524;08/06/2024;57;3;82;Noelia Lizama;cliente82@mail.cl;Hombre;;Concepción;Biobío;Web;Smartphone;;450000;2;0.1
+525;09/06/2024;42;4;113;Pedro Héctor Toro Soto;cliente113@mail.cl;Mujer;38.0;Talcahuano;Biobío;Tienda;TV;Electrohogar;650000;3;0.0
+526;10/06/2024;40;1;279;Osvaldo Víctor Rivera Palma;cliente279@mail.cl;Mujer;38.0;Talcahuano;Biobío;Tienda;TV;Electrohogar;650000;3;
+527;11/06/2024;27;4;114;Anahí Araya;cliente114@mail.cl;Mujer;67.0;Viña del Mar;;Tienda;Refrigerador;;800000;1;0.05
+528;12/06/2024;57;3;86;Rudecindo Cares;cliente86@mail.cl;Hombre;31.0;Concepción;;Web;Pantalón;Vestuario;25000;2;0.05
+529;13/06/2024;37;1;76;Benjamín Fernando Olea Retamal;cliente76@mail.cl;Hombre;47.0;Viña del Mar;Valparaíso;App;Notebook;;750000;1;
+530;14/06/2024;33;13;240;María Evelyn Rodríguez Mardones;cliente240@mail.cl;Hombre;48.0;Rancagua;O'Higgins;App;Notebook;;750000;3;0.0
+531;15/06/2024;7;8;186;Laura Mary Sánchez Quintanilla;cliente186@mail.cl;Mujer;46.0;Valparaíso;Valparaíso;Tienda;Maquillaje;;15000;1;0.05
+532;16/06/2024;1;8;210;Mariana Patricia Allende Moya;cliente210@mail.cl;Hombre;75.0;Santiago;Región Metropolitana;Tienda;TV;;650000;2;
+533;17/06/2024;44;7;61;Ingrid María Velásquez Herrera;cliente61@mail.cl;Mujer;32.0;Antofagasta;Antofagasta;App;Smartphone;Tecnología;450000;1;0.0
+534;18/06/2024;48;6;263;Carolina González Ruiz;cliente263@mail.cl;Mujer;18.0;Valparaíso;;Web;Refrigerador;;800000;1;0.1
+535;19/06/2024;10;7;175;Carolina Villagrán Miranda;cliente175@mail.cl;Hombre;41.0;Valparaíso;;Tienda;Refrigerador;Electrohogar;800000;3;0.05
+536;20/06/2024;27;4;262;Nicolás Soto Aguilera;cliente262@mail.cl;Mujer;37.0;Viña del Mar;Valparaíso;Tienda;Pantalón;;25000;1;0.0
+537;21/06/2024;11;0;196;Darwin Ramón Saavedra Pino;cliente196@mail.cl;Hombre;42.0;Antofagasta;Antofagasta;App;Smartphone;;450000;1;0.0
+538;22/06/2024;30;0;121;Constanza Osorio;cliente121@mail.cl;Hombre;47.0;Valparaíso;Valparaíso;App;Zapatillas;Calzado;55000;3;0.1
+539;23/06/2024;66;2;70;Bárbara Torres;cliente70@mail.cl;Mujer;30.0;Talcahuano;Biobío;Web;Smartphone;Tecnología;450000;2;
+540;24/06/2024;58;1;159;Patricio Luis Guzmán Herrera;cliente159@mail.cl;Mujer;;Puerto Montt;Los Lagos;App;Notebook;;750000;2;0.0
+541;25/06/2024;10;7;29;Jorge Giovanny Valencia Ramírez;cliente29@mail.cl;Hombre;30.0;Valparaíso;;Tienda;Pantalón;Vestuario;25000;1;0.0
+542;26/06/2024;36;4;270;Maite Díaz;cliente270@mail.cl;Hombre;39.0;Rancagua;O'Higgins;Web;Lavadora;;700000;3;0.0
+543;27/06/2024;41;4;106;Mariela Urzúa Moreno;cliente106@mail.cl;Hombre;42.0;Antofagasta;Antofagasta;Web;Smartphone;;450000;3;0.0
+544;28/06/2024;27;4;252;Mauricio Astorga;cliente252@mail.cl;Mujer;49.0;Viña del Mar;Valparaíso;Web;Lavadora;Electrohogar;700000;3;0.0
+545;29/06/2024;31;4;43;Cristóbal Pastén Leal;cliente43@mail.cl;Hombre;36.0;Rancagua;O'Higgins;Tienda;Maquillaje;Belleza;15000;2;0.0
+546;30/06/2024;53;1;162;Francisco Ramírez Faúndez;cliente162@mail.cl;Mujer;47.0;Puerto Montt;;Tienda;Refrigerador;Electrohogar;800000;1;0.0
+547;01/07/2024;11;0;51;Milagros Marisol Tapia Rubio;cliente51@mail.cl;Hombre;;Antofagasta;Antofagasta;App;Zapatillas;;55000;3;0.1
+548;02/07/2024;9;9;11;Francisca Carla Muñoz Huerta;cliente11@mail.cl;Hombre;32.0;Valparaíso;Valparaíso;Tienda;Lavadora;;700000;1;0.0
+549;03/07/2024;18;1;208;Héctor Pérez Carrasco;cliente208@mail.cl;Mujer;44.0;Talcahuano;;App;Zapatillas;;55000;1;0.05
+550;04/07/2024;19;5;161;Luis Carvajal;cliente161@mail.cl;Hombre;26.0;Temuco;La Araucanía;Web;Zapatillas;Calzado;55000;2;
+551;05/07/2024;56;2;166;Sergio Carlos Pavez Díaz;cliente166@mail.cl;Mujer;42.0;Talcahuano;;Tienda;Zapatillas;Calzado;55000;1;
+552;06/07/2024;39;6;228;Eladio Sandro Gaete Salazar;cliente228@mail.cl;Mujer;25.0;Antofagasta;;Tienda;Notebook;;750000;1;0.0
+553;07/07/2024;14;0;67;Francisca Valenzuela Pavez;cliente67@mail.cl;Hombre;37.0;Santiago;;Tienda;Lavadora;;700000;3;0.0
+554;08/07/2024;29;1;138;John Alvarado Albornoz;cliente138@mail.cl;Mujer;34.0;Viña del Mar;Valparaíso;Tienda;Perfume;Belleza;35000;2;0.1
+555;09/07/2024;59;1;19;Teresa María Alvarado Guerra;cliente19@mail.cl;Hombre;27.0;Antofagasta;Antofagasta;Web;Zapatillas;;55000;1;0.0
+556;10/07/2024;69;1;269;José Patricio Valenzuela Estay;cliente269@mail.cl;Mujer;32.0;Puerto Montt;;Tienda;Zapatillas;Calzado;55000;2;0.0
+557;11/07/2024;32;5;274;Guillermo Oscar Cid Díaz;cliente274@mail.cl;Mujer;38.0;Puerto Montt;Los Lagos;Web;Perfume;Belleza;35000;1;0.05
+558;12/07/2024;32;5;27;Ricardo Iván Zapata Riquelme;cliente27@mail.cl;Mujer;24.0;Puerto Montt;;Web;Polera;Vestuario;12000;3;0.1
+559;13/07/2024;10;7;148;Víctor Alejandro Ramírez Soto;cliente148@mail.cl;Hombre;22.0;Valparaíso;;Web;Perfume;;35000;1;
+560;14/07/2024;50;0;102;Vania Evelyn Leyton García;cliente102@mail.cl;Hombre;32.0;Temuco;La Araucanía;Tienda;Smartphone;;450000;2;
+561;15/07/2024;6;2;221;Juan Héctor Castro Silva;cliente221@mail.cl;Mujer;65.0;Concepción;Biobío;App;Smartphone;Tecnología;450000;1;0.05
+562;16/07/2024;70;6;203;Marisol Vera-León Riquelme;cliente203@mail.cl;Mujer;50.0;Talcahuano;Biobío;App;Maquillaje;Belleza;15000;1;
+563;17/07/2024;60;1;240;María Evelyn Rodríguez Mardones;cliente240@mail.cl;Hombre;48.0;Valparaíso;Valparaíso;Tienda;Lavadora;Electrohogar;700000;2;0.05
+564;18/07/2024;65;0;236;María Silvia Parra Espinosa;cliente236@mail.cl;Mujer;45.0;Rancagua;;Tienda;Lavadora;;700000;1;0.05
+565;19/07/2024;44;7;209;Eduardo Castro Rivera;cliente209@mail.cl;Hombre;44.0;Antofagasta;Antofagasta;Tienda;TV;;650000;2;
+566;20/07/2024;3;1;99;María Lorena Bórquez Rodríguez;cliente99@mail.cl;Hombre;38.0;Valparaíso;;Web;Maquillaje;Belleza;15000;1;0.05
+567;21/07/2024;56;2;95;Leonor Corvalán;cliente95@mail.cl;Mujer;33.0;Talcahuano;Biobío;Tienda;Notebook;Tecnología;750000;3;0.0
+568;22/07/2024;69;1;220;Génesis Macarena Venegas Sepúlveda;cliente220@mail.cl;Hombre;38.0;Puerto Montt;Los Lagos;App;Smartphone;;450000;2;
+569;23/07/2024;9;9;231;Tomás Johan Vargas Leiva;cliente231@mail.cl;Hombre;29.0;Valparaíso;Valparaíso;Tienda;Polera;Vestuario;12000;3;0.0
+570;24/07/2024;40;1;177;Benjamín Claudio Riffo Cid;cliente177@mail.cl;Mujer;38.0;Talcahuano;Biobío;Tienda;Maquillaje;;15000;2;
+571;25/07/2024;42;4;136;Maritza Thiare Mora Miranda;cliente136@mail.cl;Mujer;56.0;Talcahuano;;Web;Polera;Vestuario;12000;1;0.1
+572;26/07/2024;31;4;94;Jorge Enrique Vidal Castillo;cliente94@mail.cl;Hombre;34.0;Rancagua;;App;Zapatillas;;55000;3;
+573;27/07/2024;60;1;151;Cecilia Edith Muñoz Toro;cliente151@mail.cl;Hombre;41.0;Valparaíso;Valparaíso;App;Smartphone;;450000;2;
+574;28/07/2024;5;1;194;José Alejandro Araya Barros;cliente194@mail.cl;Mujer;23.0;Talcahuano;Biobío;Web;Perfume;Belleza;35000;1;
+575;29/07/2024;66;2;31;María Fabiana Navarro Valencia;cliente31@mail.cl;Hombre;30.0;Talcahuano;;Web;Maquillaje;Belleza;15000;3;0.0
+576;30/07/2024;39;6;57;Mario Daniel Hernández Álvarez;cliente57@mail.cl;Mujer;27.0;Antofagasta;Antofagasta;Web;Perfume;Belleza;35000;3;0.1
+577;31/07/2024;26;6;262;Nicolás Soto Aguilera;cliente262@mail.cl;Mujer;37.0;Rancagua;O'Higgins;Web;Refrigerador;Electrohogar;800000;2;0.1
+578;01/08/2024;4;3;67;Francisca Valenzuela Pavez;cliente67@mail.cl;Hombre;37.0;Concepción;Biobío;Web;Notebook;Tecnología;750000;2;0.1
+579;02/08/2024;7;8;245;Ariel Andrade;cliente245@mail.cl;Mujer;23.0;Valparaíso;Valparaíso;Web;Refrigerador;Electrohogar;800000;3;0.1
+580;03/08/2024;30;0;158;Braulio Diego Mondaca Muñoz;cliente158@mail.cl;Hombre;43.0;Valparaíso;;Tienda;TV;Electrohogar;650000;1;0.0
+581;04/08/2024;47;1;178;Emiliano Hernández Castillo;cliente178@mail.cl;Mujer;55.0;Viña del Mar;;Tienda;Notebook;Tecnología;750000;2;0.1
+582;05/08/2024;15;0;7;Daniela Francisca Palacios Allendes;cliente7@mail.cl;Hombre;56.0;Santiago;RM;Web;Perfume;Belleza;35000;3;
+583;06/08/2024;3;1;77;María Amanda Vargas Alarcón;cliente77@mail.cl;Hombre;39.0;Valparaíso;;App;Perfume;;35000;1;
+584;07/08/2024;33;13;38;Christian Francisco Rojas Oyarzo;cliente38@mail.cl;Hombre;18.0;Rancagua;O'Higgins;Tienda;Pantalón;Vestuario;25000;3;0.1
+585;08/08/2024;58;1;230;Blanca Anahí González Retamal;cliente230@mail.cl;Hombre;46.0;Puerto Montt;Los Lagos;App;Perfume;;35000;3;0.0
+586;09/08/2024;10;7;37;Alejandro Rodrigo Toro Espinoza;cliente37@mail.cl;Hombre;40.0;Valparaíso;Valparaíso;App;TV;Electrohogar;650000;3;0.05
+587;10/08/2024;52;0;253;Luis Franco Barros Hermosilla;cliente253@mail.cl;Hombre;;Talcahuano;;App;TV;Electrohogar;650000;3;
+588;11/08/2024;54;9;50;Jorge Joaquín Sánchez Leiva;cliente50@mail.cl;Hombre;18.0;Talcahuano;Biobío;Tienda;Lavadora;Electrohogar;700000;1;0.05
+589;12/08/2024;66;2;114;Anahí Araya;cliente114@mail.cl;Mujer;67.0;Talcahuano;;Web;Polera;Vestuario;12000;3;0.1
+590;13/08/2024;67;0;42;Matías Kevin Pérez Escalona;cliente42@mail.cl;Hombre;40.0;Talcahuano;Biobío;Tienda;Refrigerador;Electrohogar;800000;3;0.05
+591;14/08/2024;29;1;123;Paulino Vargas Farías;cliente123@mail.cl;Hombre;54.0;Viña del Mar;;Web;Zapatillas;;55000;2;
+592;15/08/2024;16;3;91;María Ávalos Vergara;cliente91@mail.cl;Hombre;39.0;Temuco;;App;Polera;Vestuario;12000;3;0.1
+593;16/08/2024;54;9;138;John Alvarado Albornoz;cliente138@mail.cl;Mujer;34.0;Talcahuano;Biobío;Tienda;Refrigerador;Electrohogar;800000;3;0.05
+594;17/08/2024;48;6;272;Alison Araya-Millán;cliente272@mail.cl;Hombre;20.0;Valparaíso;;Tienda;Pantalón;Vestuario;25000;3;0.1
+595;18/08/2024;39;6;238;Manuel Rodríguez Pérez;cliente238@mail.cl;Hombre;40.0;Antofagasta;Antofagasta;Tienda;Polera;Vestuario;12000;1;0.1
+596;19/08/2024;69;1;254;María González Alfaro;cliente254@mail.cl;Hombre;50.0;Puerto Montt;Los Lagos;App;Perfume;Belleza;35000;3;
+597;20/08/2024;43;0;138;John Alvarado Albornoz;cliente138@mail.cl;Mujer;34.0;Santiago;Metropolitana;Tienda;Refrigerador;Electrohogar;800000;1;
+598;21/08/2024;19;5;207;Eduardo René Valenzuela Venegas;cliente207@mail.cl;Mujer;44.0;Temuco;;Web;Polera;;12000;2;0.05
+599;22/08/2024;16;3;262;Nicolás Soto Aguilera;cliente262@mail.cl;Mujer;37.0;Temuco;La Araucanía;App;Zapatillas;;55000;1;0.1
+600;23/08/2024;8;1;122;Carlos Aranda-Ortiz;cliente122@mail.cl;Mujer;27.0;Puerto Montt;Los Lagos;Web;Pantalón;;25000;2;0.0
+601;24/08/2024;59;1;148;Víctor Alejandro Ramírez Soto;cliente148@mail.cl;Hombre;22.0;Antofagasta;Antofagasta;App;Lavadora;Electrohogar;700000;1;
+602;25/08/2024;60;1;80;Pedro Ramón Serrano Ibáñez;cliente80@mail.cl;Mujer;18.0;Valparaíso;Valparaíso;Tienda;Pantalón;Vestuario;25000;3;0.1
+603;26/08/2024;57;3;64;Arnoldo Anselmo Cubillos Veloso;cliente64@mail.cl;Hombre;23.0;Concepción;Biobío;Tienda;Maquillaje;;15000;3;0.1
+604;27/08/2024;53;1;81;Joaquín Jaime Segura Parra;cliente81@mail.cl;Mujer;35.0;Puerto Montt;;App;Refrigerador;Electrohogar;800000;1;
+605;28/08/2024;13;0;115;Juan Michel Maldonado Molina;cliente115@mail.cl;Mujer;35.0;Talcahuano;Biobío;Web;Pantalón;Vestuario;25000;3;0.1
+606;29/08/2024;14;0;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Santiago;Región Metropolitana;Tienda;Lavadora;Electrohogar;700000;1;0.1
+607;30/08/2024;51;7;93;Irma Espinoza Araya;cliente93@mail.cl;Mujer;29.0;Rancagua;;App;TV;Electrohogar;650000;1;0.05
+608;31/08/2024;35;1;180;Gisela Carol Ávila Suárez;cliente180@mail.cl;Hombre;70.0;Antofagasta;;App;Refrigerador;;800000;2;0.1
+609;01/09/2024;10;7;2;Rosa Gaete Castro;cliente2@mail.cl;Hombre;36.0;Valparaíso;;Web;Polera;Vestuario;12000;1;0.1
+610;02/09/2024;57;3;232;Miguel Araya Segura;cliente232@mail.cl;Hombre;40.0;Concepción;Biobío;Web;TV;;650000;1;0.1
+611;03/09/2024;37;1;129;Alejandra Castro Torres;cliente129@mail.cl;Mujer;39.0;Viña del Mar;;Tienda;Lavadora;Electrohogar;700000;3;0.1
+612;04/09/2024;54;9;164;Samuel Arias;cliente164@mail.cl;Mujer;28.0;Talcahuano;Biobío;Web;TV;Electrohogar;650000;1;0.1
+613;05/09/2024;34;1;143;Margarita Gladys Riquelme Mamani;cliente143@mail.cl;Mujer;18.0;Concepción;;App;Refrigerador;;800000;1;0.05
+614;06/09/2024;9;9;135;Sergio Guerrero Salazar;cliente135@mail.cl;Mujer;26.0;Valparaíso;Valparaíso;Web;Smartphone;Tecnología;450000;2;0.05
+615;07/09/2024;60;1;136;Maritza Thiare Mora Miranda;cliente136@mail.cl;Mujer;56.0;Valparaíso;Valparaíso;Tienda;Pantalón;;25000;2;0.05
+616;08/09/2024;63;5;186;Laura Mary Sánchez Quintanilla;cliente186@mail.cl;Mujer;46.0;Rancagua;O'Higgins;App;Lavadora;Electrohogar;700000;3;0.0
+617;09/09/2024;51;7;25;Lissette Susan Mella Sánchez;cliente25@mail.cl;Mujer;31.0;Rancagua;O'Higgins;Web;Perfume;Belleza;35000;3;0.05
+618;10/09/2024;63;5;231;Tomás Johan Vargas Leiva;cliente231@mail.cl;Hombre;29.0;Rancagua;O'Higgins;Web;Maquillaje;;15000;1;
+619;11/09/2024;53;1;166;Sergio Carlos Pavez Díaz;cliente166@mail.cl;Mujer;42.0;Puerto Montt;Los Lagos;Web;Zapatillas;;55000;3;0.1
+620;12/09/2024;63;5;20;Manuel Muñoz González;cliente20@mail.cl;Hombre;21.0;Rancagua;O'Higgins;App;Refrigerador;Electrohogar;800000;1;0.1
+621;13/09/2024;47;1;172;Manuel Candia Garrido;cliente172@mail.cl;Hombre;28.0;Viña del Mar;;App;Pantalón;;25000;1;0.05
+622;14/09/2024;4;3;115;Juan Michel Maldonado Molina;cliente115@mail.cl;Mujer;35.0;Concepción;Biobío;Tienda;Refrigerador;Electrohogar;800000;1;0.05
+623;15/09/2024;21;5;110;Flavia Estela Cruz Castro;cliente110@mail.cl;Mujer;37.0;Puerto Montt;Los Lagos;Tienda;Smartphone;;450000;3;
+624;16/09/2024;43;0;25;Lissette Susan Mella Sánchez;cliente25@mail.cl;Mujer;31.0;Santiago;;Tienda;Perfume;Belleza;35000;2;0.0
+625;17/09/2024;49;1;122;Carlos Aranda-Ortiz;cliente122@mail.cl;Mujer;27.0;Antofagasta;;Tienda;Perfume;;35000;2;0.0
+626;18/09/2024;45;2;152;Cristian Daniel Muñoz Morales;cliente152@mail.cl;Mujer;42.0;Talcahuano;Biobío;Web;Lavadora;Electrohogar;700000;2;
+627;19/09/2024;65;0;71;Juan Rivera;cliente71@mail.cl;Mujer;42.0;Rancagua;O'Higgins;App;TV;Electrohogar;650000;1;
+628;20/09/2024;14;0;134;Flor Samantha Méndez Cuevas;cliente134@mail.cl;Hombre;43.0;Santiago;Región Metropolitana;Web;Perfume;Belleza;35000;3;0.0
+629;21/09/2024;53;1;125;Martín Jorge Vergara Sáez;cliente125@mail.cl;Mujer;45.0;Puerto Montt;;App;Perfume;Belleza;35000;2;0.1
+630;22/09/2024;41;4;207;Eduardo René Valenzuela Venegas;cliente207@mail.cl;Mujer;44.0;Antofagasta;;Web;Lavadora;Electrohogar;700000;2;
+631;23/09/2024;4;3;226;Carol Adelina Maldonado Saavedra;cliente226@mail.cl;Hombre;51.0;Concepción;Biobío;Tienda;Smartphone;;450000;1;0.05
+632;24/09/2024;58;1;216;Víctor Raúl Ibarra Paredes;cliente216@mail.cl;Hombre;47.0;Puerto Montt;Los Lagos;Web;Polera;Vestuario;12000;3;0.1
+633;25/09/2024;36;4;71;Juan Rivera;cliente71@mail.cl;Mujer;42.0;Rancagua;;Web;Polera;Vestuario;12000;3;0.1
+634;26/09/2024;21;5;116;Daniel Alejandro Rivera Ibarra;cliente116@mail.cl;Mujer;41.0;Puerto Montt;Los Lagos;Web;Maquillaje;Belleza;15000;1;0.0
+635;27/09/2024;9;9;18;Vanessa Emilia Osorio Saavedra;cliente18@mail.cl;Mujer;41.0;Valparaíso;Valparaíso;Tienda;Maquillaje;;15000;3;0.0
+636;28/09/2024;5;1;181;Alexandra Fuentes Lara;cliente181@mail.cl;Hombre;45.0;Talcahuano;;App;Zapatillas;Calzado;55000;3;0.1
+637;29/09/2024;54;9;175;Carolina Villagrán Miranda;cliente175@mail.cl;Hombre;41.0;Talcahuano;Biobío;App;Pantalón;Vestuario;25000;3;0.05
+638;30/09/2024;47;1;37;Alejandro Rodrigo Toro Espinoza;cliente37@mail.cl;Hombre;40.0;Viña del Mar;;Web;Polera;Vestuario;12000;2;0.05
+639;01/10/2024;31;4;214;Carlos Valdés Muñoz;cliente214@mail.cl;Hombre;45.0;Rancagua;;Tienda;Perfume;Belleza;35000;1;
+640;02/10/2024;54;9;166;Sergio Carlos Pavez Díaz;cliente166@mail.cl;Mujer;42.0;Talcahuano;;Web;Refrigerador;Electrohogar;800000;2;0.0
+641;03/10/2024;14;0;190;Elia Alicia Araya Mora;cliente190@mail.cl;Hombre;19.0;Santiago;Región Metropolitana;Tienda;Pantalón;;25000;1;0.05
+642;04/10/2024;59;1;214;Carlos Valdés Muñoz;cliente214@mail.cl;Hombre;45.0;Antofagasta;;Web;Perfume;;35000;1;0.1
+643;05/10/2024;10;7;227;Franklin Torres Pastén;cliente227@mail.cl;Mujer;38.0;Valparaíso;Valparaíso;Tienda;TV;Electrohogar;650000;2;0.05
+644;06/10/2024;68;2;18;Vanessa Emilia Osorio Saavedra;cliente18@mail.cl;Mujer;41.0;Santiago;Región Metropolitana;App;Lavadora;Electrohogar;700000;1;0.0
+645;07/10/2024;13;0;96;Javier Aravena;cliente96@mail.cl;Hombre;20.0;Talcahuano;;Web;Notebook;;750000;3;
+646;08/10/2024;50;0;276;Valeska Godoy Riquelme;cliente276@mail.cl;Hombre;43.0;Temuco;La Araucanía;App;Zapatillas;;55000;3;0.1
+647;09/10/2024;70;6;69;Raquel Silva Méndez;cliente69@mail.cl;Mujer;42.0;Talcahuano;Biobío;Web;TV;;650000;2;
+648;10/10/2024;30;0;133;Sara Saavedra;cliente133@mail.cl;Hombre;25.0;Valparaíso;;Web;Refrigerador;Electrohogar;800000;1;0.1
+649;11/10/2024;24;3;249;María Sofía Morales Arellano;cliente249@mail.cl;Mujer;59.0;La Serena;Coquimbo;Web;Polera;;12000;3;0.0
+650;12/10/2024;58;1;29;Jorge Giovanny Valencia Ramírez;cliente29@mail.cl;Hombre;30.0;Puerto Montt;Los Lagos;App;Perfume;Belleza;35000;3;0.0
+651;13/10/2024;46;5;251;Luis Cisternas Apablaza;cliente251@mail.cl;Hombre;22.0;La Serena;Coquimbo;Tienda;Lavadora;Electrohogar;700000;1;0.0
+652;14/10/2024;48;6;141;Pedro Pablo Castro Ojeda;cliente141@mail.cl;Mujer;40.0;Valparaíso;;App;Refrigerador;Electrohogar;800000;3;
+653;15/10/2024;23;0;62;Raimundo Mario Rubilar Flores;cliente62@mail.cl;Mujer;35.0;Concepción;;Web;Polera;;12000;3;0.1
+654;16/10/2024;21;5;110;Flavia Estela Cruz Castro;cliente110@mail.cl;Mujer;37.0;Puerto Montt;Los Lagos;Web;Polera;Vestuario;12000;2;0.1
+655;17/10/2024;68;2;170;Benjamín Abarca;cliente170@mail.cl;Hombre;28.0;Santiago;RM;Web;Refrigerador;Electrohogar;800000;3;0.05
+656;18/10/2024;42;4;96;Javier Aravena;cliente96@mail.cl;Hombre;20.0;Talcahuano;;Tienda;Refrigerador;;800000;3;0.05
+657;19/10/2024;50;0;155;Gonzalo Felipe Martínez Acevedo;cliente155@mail.cl;Mujer;41.0;Temuco;La Araucanía;Web;TV;;650000;2;0.05
+658;20/10/2024;2;2;53;Eduardo Manuel Morales Riffo;cliente53@mail.cl;Mujer;29.0;Rancagua;;Tienda;Perfume;;35000;3;0.05
+659;21/10/2024;36;4;83;Vilma Leyla Escobar Fuentes;cliente83@mail.cl;Hombre;55.0;Rancagua;O'Higgins;Tienda;Refrigerador;;800000;2;
+660;22/10/2024;49;1;193;Florinda Josefa Cortés Morales;cliente193@mail.cl;Hombre;40.0;Antofagasta;;App;Maquillaje;Belleza;15000;1;0.1
+661;23/10/2024;67;0;108;Gonzalo Jorge Muñoz Reyes;cliente108@mail.cl;Hombre;40.0;Talcahuano;Biobío;Web;Zapatillas;Calzado;55000;2;
+662;24/10/2024;16;3;236;María Silvia Parra Espinosa;cliente236@mail.cl;Mujer;45.0;Temuco;La Araucanía;Web;Notebook;Tecnología;750000;1;0.1
+663;25/10/2024;43;0;23;Brayan Amaro Araya Valenzuela;cliente23@mail.cl;Mujer;38.0;Santiago;;Tienda;Smartphone;Tecnología;450000;2;
+664;26/10/2024;7;8;65;Manuel Rodríguez;cliente65@mail.cl;Hombre;47.0;Valparaíso;Valparaíso;App;TV;;650000;1;
+665;27/10/2024;52;0;183;Patricia Antonia García Muñoz;cliente183@mail.cl;Mujer;25.0;Talcahuano;;Tienda;Polera;Vestuario;12000;2;0.05
+666;28/10/2024;32;5;201;Miguel Avendaño Soto;cliente201@mail.cl;Mujer;42.0;Puerto Montt;;Tienda;Polera;;12000;3;0.0
+667;29/10/2024;51;7;240;María Evelyn Rodríguez Mardones;cliente240@mail.cl;Hombre;48.0;Rancagua;O'Higgins;Tienda;Pantalón;;25000;1;
+668;30/10/2024;53;1;135;Sergio Guerrero Salazar;cliente135@mail.cl;Mujer;26.0;Puerto Montt;Los Lagos;Web;TV;Electrohogar;650000;3;
+669;31/10/2024;65;0;260;Carlos Wladimir Lara Muñoz;cliente260@mail.cl;Mujer;47.0;Rancagua;;Tienda;Maquillaje;;15000;3;0.05
+670;01/11/2024;23;0;15;Carmen Fuenzalida López;cliente15@mail.cl;Hombre;18.0;Concepción;Biobío;Tienda;Polera;;12000;3;0.05
+671;02/11/2024;13;0;136;Maritza Thiare Mora Miranda;cliente136@mail.cl;Mujer;56.0;Talcahuano;;Tienda;Maquillaje;Belleza;15000;3;
+672;03/11/2024;60;1;179;Bárbara Valeria Vergara Solar;cliente179@mail.cl;Hombre;34.0;Valparaíso;Valparaíso;Tienda;Lavadora;Electrohogar;700000;3;0.1
+673;04/11/2024;24;3;97;Tatiana Catalina Gutiérrez Quiroz;cliente97@mail.cl;Mujer;41.0;La Serena;;Tienda;Perfume;Belleza;35000;2;
+674;05/11/2024;47;1;86;Rudecindo Cares;cliente86@mail.cl;Hombre;31.0;Viña del Mar;;Web;Polera;Vestuario;12000;1;0.05
+675;06/11/2024;37;1;172;Manuel Candia Garrido;cliente172@mail.cl;Hombre;28.0;Viña del Mar;Valparaíso;Tienda;Lavadora;;700000;3;0.1
+676;07/11/2024;34;1;4;César Carlos Espinoza Uribe;cliente4@mail.cl;Hombre;56.0;Concepción;Biobío;App;TV;;650000;2;
+677;08/11/2024;16;3;158;Braulio Diego Mondaca Muñoz;cliente158@mail.cl;Hombre;43.0;Temuco;;Tienda;Polera;;12000;3;
+678;09/11/2024;1;8;184;Jacqueline Amanda Martínez Osorio;cliente184@mail.cl;Hombre;43.0;Santiago;;Tienda;Polera;Vestuario;12000;3;0.0
+679;10/11/2024;7;8;184;Jacqueline Amanda Martínez Osorio;cliente184@mail.cl;Hombre;43.0;Valparaíso;Valparaíso;Tienda;Refrigerador;;800000;2;0.05
+680;11/11/2024;4;3;5;Marina Carolina Palacios Araneda;cliente5@mail.cl;Hombre;35.0;Concepción;Biobío;Web;Lavadora;;700000;3;
+681;12/11/2024;23;0;258;Edith Uberlinda Jiménez Valenzuela;cliente258@mail.cl;Mujer;29.0;Concepción;Biobío;Tienda;Refrigerador;Electrohogar;800000;3;
+682;13/11/2024;51;7;278;Gloria Durán;cliente278@mail.cl;Hombre;30.0;Rancagua;O'Higgins;Web;Pantalón;Vestuario;25000;2;0.1
+683;14/11/2024;53;1;65;Manuel Rodríguez;cliente65@mail.cl;Hombre;47.0;Puerto Montt;Los Lagos;Web;Lavadora;Electrohogar;700000;3;0.0
+684;15/11/2024;17;0;277;Verónica Cartes Rebolledo;cliente277@mail.cl;Mujer;40.0;Santiago;Metropolitana;Tienda;Smartphone;Tecnología;450000;1;0.1
+685;16/11/2024;60;1;233;Luis Chávez Tello;cliente233@mail.cl;Mujer;38.0;Valparaíso;Valparaíso;App;Lavadora;Electrohogar;700000;1;0.0
+686;17/11/2024;30;0;8;Angelo Juan Vivanco Escobar;cliente8@mail.cl;Mujer;47.0;Valparaíso;Valparaíso;Web;Maquillaje;;15000;1;
+687;18/11/2024;25;3;255;Ximena Susana Medina Duarte;cliente255@mail.cl;Hombre;19.0;Puerto Montt;Los Lagos;Tienda;Pantalón;;25000;2;0.0
+688;19/11/2024;56;2;150;Patricia Raquel Reyes Parra;cliente150@mail.cl;Hombre;41.0;Talcahuano;Biobío;Web;Polera;Vestuario;12000;2;
+689;20/11/2024;36;4;79;Gloria Pereira González;cliente79@mail.cl;Mujer;39.0;Rancagua;;App;Lavadora;;700000;3;
+690;21/11/2024;32;5;64;Arnoldo Anselmo Cubillos Veloso;cliente64@mail.cl;Hombre;23.0;Puerto Montt;Los Lagos;Tienda;Pantalón;Vestuario;25000;2;0.05
+691;22/11/2024;15;0;20;Manuel Muñoz González;cliente20@mail.cl;Hombre;21.0;Santiago;Región Metropolitana;App;Notebook;Tecnología;750000;3;0.1
+692;23/11/2024;62;4;37;Alejandro Rodrigo Toro Espinoza;cliente37@mail.cl;Hombre;40.0;Puerto Montt;Los Lagos;Tienda;Smartphone;Tecnología;450000;3;0.0
+693;24/11/2024;4;3;121;Constanza Osorio;cliente121@mail.cl;Hombre;47.0;Concepción;Biobío;App;Pantalón;Vestuario;25000;1;0.0
+694;25/11/2024;24;3;260;Carlos Wladimir Lara Muñoz;cliente260@mail.cl;Mujer;47.0;La Serena;Coquimbo;Tienda;Pantalón;Vestuario;25000;3;0.0
+695;26/11/2024;26;6;74;Gloria Urra Ramos;cliente74@mail.cl;Hombre;56.0;Rancagua;;App;Polera;Vestuario;12000;1;0.05
+696;27/11/2024;47;1;122;Carlos Aranda-Ortiz;cliente122@mail.cl;Mujer;27.0;Viña del Mar;Valparaíso;Tienda;TV;Electrohogar;650000;1;0.1
+697;28/11/2024;60;1;49;Belén Ruth Mansilla Caro;cliente49@mail.cl;Hombre;42.0;Valparaíso;;Tienda;Pantalón;Vestuario;25000;3;
+698;29/11/2024;8;1;72;Luis Gabriel Barrera Castillo;cliente72@mail.cl;Hombre;56.0;Puerto Montt;Los Lagos;App;Smartphone;Tecnología;450000;3;0.0
+699;30/11/2024;9;9;25;Lissette Susan Mella Sánchez;cliente25@mail.cl;Mujer;31.0;Valparaíso;Valparaíso;Tienda;Polera;Vestuario;12000;1;0.1
+700;01/12/2024;17;0;146;María Josefina Flores Manríquez;cliente146@mail.cl;Mujer;47.0;Santiago;Región Metropolitana;App;Pantalón;Vestuario;25000;3;0.05
+701;02/12/2024;55;9;230;Blanca Anahí González Retamal;cliente230@mail.cl;Hombre;46.0;Antofagasta;;Tienda;Maquillaje;Belleza;15000;1;0.0
+702;03/12/2024;30;0;199;Fabián Cristian Hormazábal Villablanca;cliente199@mail.cl;Hombre;38.0;Valparaíso;Valparaíso;Web;Zapatillas;;55000;2;
+703;04/12/2024;58;1;264;Alejandra Navarro;cliente264@mail.cl;Mujer;25.0;Puerto Montt;;Web;Lavadora;;700000;3;0.0
+704;05/12/2024;19;5;35;Melania Jessica Urrutia Palacios;cliente35@mail.cl;Mujer;47.0;Temuco;La Araucanía;Web;Perfume;Belleza;35000;3;0.1
+705;06/12/2024;63;5;52;Susana María Soto Véliz;cliente52@mail.cl;Hombre;33.0;Rancagua;O'Higgins;Tienda;Notebook;;750000;3;0.05
+706;07/12/2024;53;1;252;Mauricio Astorga;cliente252@mail.cl;Mujer;49.0;Puerto Montt;Los Lagos;Web;TV;Electrohogar;650000;2;0.05
+707;08/12/2024;8;1;45;Miguel Roberto Villagrán Iturra;cliente45@mail.cl;Hombre;20.0;Puerto Montt;Los Lagos;Web;Smartphone;Tecnología;450000;3;0.1
+708;09/12/2024;63;5;127;Roberto Moreno Jorquera;cliente127@mail.cl;Mujer;26.0;Rancagua;O'Higgins;Tienda;Notebook;Tecnología;750000;2;0.1
+709;10/12/2024;37;1;258;Edith Uberlinda Jiménez Valenzuela;cliente258@mail.cl;Mujer;29.0;Viña del Mar;Valparaíso;Web;TV;Electrohogar;650000;1;0.1
+710;11/12/2024;31;4;177;Benjamín Claudio Riffo Cid;cliente177@mail.cl;Mujer;38.0;Rancagua;O'Higgins;Tienda;TV;Electrohogar;650000;1;
+711;12/12/2024;36;4;95;Leonor Corvalán;cliente95@mail.cl;Mujer;33.0;Rancagua;;Web;Perfume;;35000;1;0.05
+712;13/12/2024;39;6;6;Yaritza Quiroga Martínez;cliente6@mail.cl;Mujer;35.0;Antofagasta;Antofagasta;Web;Notebook;;750000;3;0.0
+713;14/12/2024;50;0;204;Camila Natalia Pérez Arroyo;cliente204@mail.cl;Hombre;50.0;Temuco;;Web;Zapatillas;;55000;3;0.1
+714;15/12/2024;49;1;96;Javier Aravena;cliente96@mail.cl;Hombre;20.0;Antofagasta;Antofagasta;Web;Perfume;;35000;2;0.1
+715;16/12/2024;45;2;11;Francisca Carla Muñoz Huerta;cliente11@mail.cl;Hombre;32.0;Talcahuano;Biobío;Web;Pantalón;;25000;3;0.05
+716;17/12/2024;49;1;36;Josefa Plaza;cliente36@mail.cl;Mujer;23.0;Antofagasta;Antofagasta;Web;TV;;650000;1;0.1
+717;18/12/2024;13;0;211;Patricio Gonzalo Toledo Arce;cliente211@mail.cl;Hombre;44.0;Talcahuano;;Tienda;Pantalón;Vestuario;25000;3;0.1
+718;19/12/2024;1;8;96;Javier Aravena;cliente96@mail.cl;Hombre;20.0;Santiago;;Web;Polera;;12000;3;
+719;20/12/2024;17;0;141;Pedro Pablo Castro Ojeda;cliente141@mail.cl;Mujer;40.0;Santiago;Región Metropolitana;Web;Lavadora;Electrohogar;700000;2;0.1
+720;21/12/2024;19;5;40;Elizabeth Meléndez Pacheco;cliente40@mail.cl;Hombre;40.0;Temuco;La Araucanía;Tienda;TV;Electrohogar;650000;3;0.1
+721;22/12/2024;50;0;200;Stephanie Hilda Muñoz Elgueta;cliente200@mail.cl;Hombre;24.0;Temuco;;Tienda;TV;Electrohogar;650000;3;0.1
+722;23/12/2024;52;0;112;Karin Elena Jaramillo Carrasco;cliente112@mail.cl;Hombre;37.0;Talcahuano;;Tienda;Smartphone;Tecnología;450000;1;
+723;24/12/2024;9;9;71;Juan Rivera;cliente71@mail.cl;Mujer;42.0;Valparaíso;Valparaíso;Tienda;TV;;650000;2;
+724;25/12/2024;7;8;105;Claudio Diego Cisterna Rojas;cliente105@mail.cl;Hombre;36.0;Valparaíso;Valparaíso;App;Polera;;12000;3;
+725;26/12/2024;30;0;119;Luis Víctor Garrido Cortés;cliente119@mail.cl;Hombre;51.0;Valparaíso;Valparaíso;Tienda;Notebook;;750000;1;
+726;27/12/2024;20;0;268;Jaime Toloza Díaz;cliente268@mail.cl;Hombre;20.0;Temuco;;Tienda;Lavadora;;700000;2;0.05
+727;28/12/2024;30;0;93;Irma Espinoza Araya;cliente93@mail.cl;Mujer;29.0;Valparaíso;;Tienda;Refrigerador;;800000;3;0.1
+728;29/12/2024;13;0;75;Máximo Pablo Leal Romero;cliente75@mail.cl;Hombre;18.0;Talcahuano;;Tienda;Notebook;Tecnología;750000;2;0.1
+729;30/12/2024;3;1;67;Francisca Valenzuela Pavez;cliente67@mail.cl;Hombre;37.0;Valparaíso;Valparaíso;Web;Notebook;;750000;1;0.05
+730;31/12/2024;37;1;185;Yasna Colomba Olivares Prieto;cliente185@mail.cl;Hombre;35.0;Viña del Mar;Valparaíso;Tienda;Lavadora;Electrohogar;700000;3;0.1
+731;01/01/2025;61;3;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Concepción;Biobío;Tienda;Pantalón;Vestuario;25000;1;0.05
+732;02/01/2025;36;4;36;Josefa Plaza;cliente36@mail.cl;Mujer;23.0;Rancagua;O'Higgins;App;Polera;;12000;2;
+733;03/01/2025;35;1;201;Miguel Avendaño Soto;cliente201@mail.cl;Mujer;42.0;Antofagasta;Antofagasta;Web;Polera;Vestuario;12000;3;0.1
+734;04/01/2025;22;1;257;Vanessa Silva Campos;cliente257@mail.cl;Hombre;53.0;Viña del Mar;;Web;TV;Electrohogar;650000;3;0.0
+735;05/01/2025;56;2;74;Gloria Urra Ramos;cliente74@mail.cl;Hombre;56.0;Talcahuano;;Web;Smartphone;;450000;1;0.1
+736;06/01/2025;8;1;196;Darwin Ramón Saavedra Pino;cliente196@mail.cl;Hombre;42.0;Puerto Montt;Los Lagos;Web;TV;;650000;3;0.1
+737;07/01/2025;36;4;227;Franklin Torres Pastén;cliente227@mail.cl;Mujer;38.0;Rancagua;;Web;Zapatillas;Calzado;55000;2;0.1
+738;08/01/2025;7;8;26;Felipe Daniel González Salinas;cliente26@mail.cl;Mujer;39.0;Valparaíso;Valparaíso;Tienda;Maquillaje;;15000;3;0.05
+739;09/01/2025;36;4;263;Carolina González Ruiz;cliente263@mail.cl;Mujer;18.0;Rancagua;O'Higgins;Tienda;Lavadora;Electrohogar;700000;1;0.1
+740;10/01/2025;19;5;19;Teresa María Alvarado Guerra;cliente19@mail.cl;Hombre;27.0;Temuco;;Tienda;Notebook;Tecnología;750000;3;
+741;11/01/2025;34;1;170;Benjamín Abarca;cliente170@mail.cl;Hombre;28.0;Concepción;;App;Perfume;;35000;3;0.05
+742;12/01/2025;52;0;139;Mario Fonseca;cliente139@mail.cl;Hombre;47.0;Talcahuano;Biobío;Web;Polera;Vestuario;12000;2;
+743;13/01/2025;42;4;171;Alejandra Vega;cliente171@mail.cl;Hombre;27.0;Talcahuano;;Web;Perfume;;35000;2;0.1
+744;14/01/2025;41;4;243;Miguel Esteban Soto Silva;cliente243@mail.cl;Mujer;44.0;Antofagasta;Antofagasta;App;Zapatillas;Calzado;55000;2;0.1
+745;15/01/2025;27;4;131;Juan Rodríguez Acevedo;cliente131@mail.cl;Hombre;19.0;Viña del Mar;Valparaíso;Tienda;TV;Electrohogar;650000;3;
+746;16/01/2025;36;4;54;Franco Espinosa;cliente54@mail.cl;Mujer;45.0;Rancagua;;Tienda;Smartphone;Tecnología;450000;1;0.05
+747;17/01/2025;68;2;158;Braulio Diego Mondaca Muñoz;cliente158@mail.cl;Hombre;43.0;Santiago;Región Metropolitana;App;Zapatillas;;55000;1;
+748;18/01/2025;52;0;238;Manuel Rodríguez Pérez;cliente238@mail.cl;Hombre;40.0;Talcahuano;;App;Perfume;Belleza;35000;2;0.0
+749;19/01/2025;12;0;47;Javier Diego Navarrete Peña;cliente47@mail.cl;Hombre;32.0;Viña del Mar;Valparaíso;Tienda;Maquillaje;Belleza;15000;1;0.0
+750;20/01/2025;66;2;192;Olga Agustina Rojas Rodríguez;cliente192@mail.cl;Mujer;;Talcahuano;Biobío;Web;Zapatillas;;55000;2;0.1
+751;21/01/2025;19;5;24;Luisa Pía Figueroa Moreno;cliente24@mail.cl;Mujer;20.0;Temuco;;Tienda;Pantalón;;25000;3;0.05
+752;22/01/2025;60;1;142;Hilda Javiera Cofré Lucero;cliente142@mail.cl;Hombre;53.0;Valparaíso;Valparaíso;Web;Polera;;12000;1;0.1
+753;23/01/2025;65;0;157;Nelson Francisco Baeza Fuenzalida;cliente157@mail.cl;Mujer;60.0;Rancagua;O'Higgins;Tienda;Notebook;Tecnología;750000;3;0.1
+754;24/01/2025;47;1;184;Jacqueline Amanda Martínez Osorio;cliente184@mail.cl;Hombre;43.0;Viña del Mar;Valparaíso;App;Refrigerador;Electrohogar;800000;3;0.05
+755;25/01/2025;31;4;78;Anahí Ana Cornejo Mendoza;cliente78@mail.cl;Hombre;34.0;Rancagua;O'Higgins;Web;Lavadora;Electrohogar;700000;3;
+756;26/01/2025;48;6;270;Maite Díaz;cliente270@mail.cl;Hombre;39.0;Valparaíso;Valparaíso;Web;Refrigerador;Electrohogar;800000;2;
+757;27/01/2025;10;7;158;Braulio Diego Mondaca Muñoz;cliente158@mail.cl;Hombre;43.0;Valparaíso;;Tienda;Refrigerador;;800000;2;0.1
+758;28/01/2025;7;8;233;Luis Chávez Tello;cliente233@mail.cl;Mujer;38.0;Valparaíso;;Web;Smartphone;;450000;1;0.05
+759;29/01/2025;39;6;156;María Mayte González Villegas;cliente156@mail.cl;Mujer;29.0;Antofagasta;;Tienda;Notebook;Tecnología;750000;3;
+760;30/01/2025;10;7;121;Constanza Osorio;cliente121@mail.cl;Hombre;47.0;Valparaíso;;Tienda;TV;Electrohogar;650000;2;0.05
+761;31/01/2025;16;3;155;Gonzalo Felipe Martínez Acevedo;cliente155@mail.cl;Mujer;41.0;Temuco;La Araucanía;Tienda;Maquillaje;;15000;3;
+762;01/02/2025;55;9;183;Patricia Antonia García Muñoz;cliente183@mail.cl;Mujer;25.0;Antofagasta;;Tienda;Smartphone;Tecnología;450000;3;
+763;02/02/2025;55;9;93;Irma Espinoza Araya;cliente93@mail.cl;Mujer;29.0;Antofagasta;;Tienda;Smartphone;;450000;3;0.05
+764;03/02/2025;37;1;264;Alejandra Navarro;cliente264@mail.cl;Mujer;25.0;Viña del Mar;Valparaíso;Web;Refrigerador;Electrohogar;800000;3;0.1
+765;04/02/2025;19;5;219;Víctor Matamala;cliente219@mail.cl;Mujer;32.0;Temuco;La Araucanía;App;Zapatillas;Calzado;55000;2;
+766;05/02/2025;51;7;164;Samuel Arias;cliente164@mail.cl;Mujer;28.0;Rancagua;O'Higgins;Web;Pantalón;;25000;2;0.0
+767;06/02/2025;56;2;160;Mónica Araya Álvarez;cliente160@mail.cl;Mujer;45.0;Talcahuano;Biobío;Tienda;TV;;650000;3;
+768;07/02/2025;13;0;92;Belén Gamboa Carvajal;cliente92@mail.cl;Mujer;49.0;Talcahuano;;Web;Pantalón;;25000;3;0.0
+769;08/02/2025;50;0;221;Juan Héctor Castro Silva;cliente221@mail.cl;Mujer;65.0;Temuco;La Araucanía;Web;Polera;;12000;1;
+770;09/02/2025;47;1;138;John Alvarado Albornoz;cliente138@mail.cl;Mujer;34.0;Viña del Mar;;Tienda;Maquillaje;;15000;2;0.05
+771;10/02/2025;59;1;84;Andrea Ahumada Chávez;cliente84@mail.cl;Mujer;31.0;Antofagasta;Antofagasta;App;Notebook;Tecnología;750000;2;0.1
+772;11/02/2025;65;0;246;Josefa Segura Verdugo;cliente246@mail.cl;Hombre;33.0;Rancagua;O'Higgins;Web;TV;;650000;1;0.05
+773;12/02/2025;14;0;79;Gloria Pereira González;cliente79@mail.cl;Mujer;39.0;Santiago;;Tienda;Maquillaje;Belleza;15000;1;0.1
+774;13/02/2025;45;2;238;Manuel Rodríguez Pérez;cliente238@mail.cl;Hombre;40.0;Talcahuano;Biobío;App;Smartphone;;450000;3;0.05
+775;14/02/2025;22;1;189;Gloria Lidia García Toledo;cliente189@mail.cl;Mujer;27.0;Viña del Mar;Valparaíso;Web;Smartphone;Tecnología;450000;3;0.0
+776;15/02/2025;47;1;225;Berta Huerta García;cliente225@mail.cl;Hombre;32.0;Viña del Mar;Valparaíso;Web;Pantalón;Vestuario;25000;3;0.05
+777;16/02/2025;8;1;171;Alejandra Vega;cliente171@mail.cl;Hombre;27.0;Puerto Montt;;Web;TV;Electrohogar;650000;2;0.05
+778;17/02/2025;53;1;98;Lucas Álvaro Acevedo Agurto;cliente98@mail.cl;Hombre;41.0;Puerto Montt;Los Lagos;Tienda;Maquillaje;Belleza;15000;1;0.1
+779;18/02/2025;29;1;221;Juan Héctor Castro Silva;cliente221@mail.cl;Mujer;65.0;Viña del Mar;Valparaíso;Tienda;TV;;650000;1;0.05
+780;19/02/2025;10;7;266;Claudio Fernando Morales Bravo;cliente266@mail.cl;Mujer;23.0;Valparaíso;;Tienda;Perfume;Belleza;35000;1;0.05
+781;20/02/2025;52;0;129;Alejandra Castro Torres;cliente129@mail.cl;Mujer;39.0;Talcahuano;Biobío;Tienda;Zapatillas;;55000;1;0.0
+782;21/02/2025;5;1;201;Miguel Avendaño Soto;cliente201@mail.cl;Mujer;42.0;Talcahuano;Biobío;App;Maquillaje;Belleza;15000;3;0.05
+783;22/02/2025;68;2;18;Vanessa Emilia Osorio Saavedra;cliente18@mail.cl;Mujer;41.0;Santiago;;Tienda;Notebook;Tecnología;750000;3;0.1
+784;23/02/2025;53;1;216;Víctor Raúl Ibarra Paredes;cliente216@mail.cl;Hombre;47.0;Puerto Montt;;App;Maquillaje;Belleza;15000;3;0.0
+785;24/02/2025;46;5;88;Alexi Ignacio Azócar Chávez;cliente88@mail.cl;Hombre;41.0;La Serena;Coquimbo;Tienda;Polera;;12000;3;0.1
+786;25/02/2025;26;6;137;José Juan Vargas Vega;cliente137@mail.cl;Hombre;28.0;Rancagua;O'Higgins;Tienda;TV;;650000;2;0.1
+787;26/02/2025;51;7;261;Carlos Fuentes Vargas;cliente261@mail.cl;Hombre;26.0;Rancagua;;Tienda;Polera;;12000;3;
+788;27/02/2025;67;0;36;Josefa Plaza;cliente36@mail.cl;Mujer;23.0;Talcahuano;;Web;Refrigerador;Electrohogar;800000;1;0.05
+789;28/02/2025;3;1;52;Susana María Soto Véliz;cliente52@mail.cl;Hombre;33.0;Valparaíso;;Tienda;Refrigerador;Electrohogar;800000;2;0.05
+790;01/03/2025;64;4;182;Pedro Jorge Cartes Pérez;cliente182@mail.cl;Hombre;27.0;Temuco;La Araucanía;App;Perfume;Belleza;35000;2;0.1
+791;02/03/2025;40;1;22;Laura Aguilera Orellana;cliente22@mail.cl;Hombre;35.0;Talcahuano;;Tienda;TV;Electrohogar;650000;2;0.05
+792;03/03/2025;58;1;277;Verónica Cartes Rebolledo;cliente277@mail.cl;Mujer;40.0;Puerto Montt;Los Lagos;Tienda;Maquillaje;;15000;3;0.05
+793;04/03/2025;33;13;266;Claudio Fernando Morales Bravo;cliente266@mail.cl;Mujer;23.0;Rancagua;O'Higgins;Web;Notebook;Tecnología;750000;3;
+794;05/03/2025;66;2;259;José Ángel Fuentes Gutiérrez;cliente259@mail.cl;Mujer;43.0;Talcahuano;Biobío;Tienda;Pantalón;Vestuario;25000;3;0.05
+795;06/03/2025;60;1;267;Angélica Reyes;cliente267@mail.cl;Mujer;57.0;Valparaíso;;Web;Lavadora;Electrohogar;700000;2;0.0
+796;07/03/2025;9;9;45;Miguel Roberto Villagrán Iturra;cliente45@mail.cl;Hombre;20.0;Valparaíso;Valparaíso;Tienda;Perfume;;35000;1;0.05
+797;08/03/2025;41;4;91;María Ávalos Vergara;cliente91@mail.cl;Hombre;39.0;Antofagasta;;Web;Maquillaje;Belleza;15000;1;0.0
+798;09/03/2025;29;1;84;Andrea Ahumada Chávez;cliente84@mail.cl;Mujer;31.0;Viña del Mar;Valparaíso;Web;Lavadora;;700000;2;0.1
+799;10/03/2025;6;2;78;Anahí Ana Cornejo Mendoza;cliente78@mail.cl;Hombre;34.0;Concepción;;Tienda;Maquillaje;Belleza;15000;1;0.0
+800;11/03/2025;41;4;61;Ingrid María Velásquez Herrera;cliente61@mail.cl;Mujer;32.0;Antofagasta;Antofagasta;Web;Pantalón;Vestuario;25000;1;
+801;12/03/2025;5;1;213;Germán Bustamante Valenzuela;cliente213@mail.cl;Mujer;49.0;Talcahuano;;Tienda;Maquillaje;Belleza;15000;2;0.1
+802;13/03/2025;55;9;171;Alejandra Vega;cliente171@mail.cl;Hombre;27.0;Antofagasta;Antofagasta;Web;Maquillaje;;15000;1;0.0
+803;14/03/2025;18;1;30;Tatiana Claudia Jara Herrera;cliente30@mail.cl;Hombre;34.0;Talcahuano;;Tienda;Zapatillas;;55000;3;0.0
+804;15/03/2025;42;4;94;Jorge Enrique Vidal Castillo;cliente94@mail.cl;Hombre;34.0;Talcahuano;Biobío;Web;Perfume;Belleza;35000;1;0.05
+805;16/03/2025;7;8;7;Daniela Francisca Palacios Allendes;cliente7@mail.cl;Hombre;56.0;Valparaíso;Valparaíso;Web;Refrigerador;Electrohogar;800000;1;
+806;17/03/2025;54;9;33;Jocelyn Gabriela López Guzmán;cliente33@mail.cl;Hombre;37.0;Talcahuano;Biobío;Web;Perfume;Belleza;35000;3;
+807;18/03/2025;69;1;52;Susana María Soto Véliz;cliente52@mail.cl;Hombre;33.0;Puerto Montt;Los Lagos;App;Smartphone;;450000;1;
+808;19/03/2025;22;1;202;Héctor Ramírez;cliente202@mail.cl;Mujer;44.0;Viña del Mar;;App;Refrigerador;;800000;3;
+809;20/03/2025;49;1;150;Patricia Raquel Reyes Parra;cliente150@mail.cl;Hombre;41.0;Antofagasta;Antofagasta;App;Notebook;Tecnología;750000;2;0.1
+810;21/03/2025;49;1;153;Esteban Cárdenas Silva;cliente153@mail.cl;Hombre;29.0;Antofagasta;Antofagasta;Tienda;Smartphone;Tecnología;450000;3;0.1
+811;22/03/2025;4;3;205;Mauricio Paul Gajardo Córdova;cliente205@mail.cl;Hombre;21.0;Concepción;;App;Lavadora;Electrohogar;700000;2;0.1
+812;23/03/2025;21;5;193;Florinda Josefa Cortés Morales;cliente193@mail.cl;Hombre;40.0;Puerto Montt;Los Lagos;Tienda;Notebook;Tecnología;750000;2;0.0
+813;24/03/2025;44;7;186;Laura Mary Sánchez Quintanilla;cliente186@mail.cl;Mujer;46.0;Antofagasta;Antofagasta;App;Maquillaje;Belleza;15000;3;0.05
+814;25/03/2025;38;8;161;Luis Carvajal;cliente161@mail.cl;Hombre;26.0;Concepción;;Web;Zapatillas;Calzado;55000;1;0.1
+815;26/03/2025;10;7;106;Mariela Urzúa Moreno;cliente106@mail.cl;Hombre;42.0;Valparaíso;Valparaíso;Tienda;Maquillaje;Belleza;15000;2;0.05
+816;27/03/2025;60;1;225;Berta Huerta García;cliente225@mail.cl;Hombre;32.0;Valparaíso;;App;Perfume;;35000;1;0.1
+817;28/03/2025;55;9;104;María Anahí Mella Carrasco;cliente104@mail.cl;Mujer;28.0;Antofagasta;Antofagasta;Tienda;Notebook;;750000;2;0.1
+818;29/03/2025;33;13;66;Samuel Aguilera;cliente66@mail.cl;Hombre;54.0;Rancagua;O'Higgins;Tienda;Perfume;Belleza;35000;1;0.0
+819;30/03/2025;52;0;123;Paulino Vargas Farías;cliente123@mail.cl;Hombre;54.0;Talcahuano;Biobío;Web;Notebook;;750000;3;0.0
+820;31/03/2025;44;7;127;Roberto Moreno Jorquera;cliente127@mail.cl;Mujer;26.0;Antofagasta;Antofagasta;Web;Lavadora;;700000;3;
+821;01/04/2025;65;0;150;Patricia Raquel Reyes Parra;cliente150@mail.cl;Hombre;41.0;Rancagua;O'Higgins;Web;Perfume;Belleza;35000;2;0.1
+822;02/04/2025;70;6;37;Alejandro Rodrigo Toro Espinoza;cliente37@mail.cl;Hombre;40.0;Talcahuano;Biobío;Tienda;Smartphone;Tecnología;450000;1;0.0
+823;03/04/2025;7;8;140;Manuel Alonso Núñez Santibáñez;cliente140@mail.cl;Hombre;23.0;Valparaíso;;Tienda;Smartphone;Tecnología;450000;2;0.05
+824;04/04/2025;6;2;234;Sebastián Hormazábal Sepúlveda;cliente234@mail.cl;Mujer;30.0;Concepción;Biobío;Web;Notebook;;750000;1;
+825;05/04/2025;49;1;265;Pablo Arroyo López;cliente265@mail.cl;Mujer;34.0;Antofagasta;Antofagasta;Web;TV;Electrohogar;650000;1;0.05
+826;06/04/2025;14;0;27;Ricardo Iván Zapata Riquelme;cliente27@mail.cl;Mujer;24.0;Santiago;;Tienda;Smartphone;;450000;2;0.0
+827;07/04/2025;2;2;210;Mariana Patricia Allende Moya;cliente210@mail.cl;Hombre;75.0;Rancagua;;Tienda;Refrigerador;;800000;3;
+828;08/04/2025;38;8;17;Bastián Kevin Oñate Toledo;cliente17@mail.cl;Mujer;25.0;Concepción;Biobío;Tienda;Polera;Vestuario;12000;1;
+829;09/04/2025;55;9;30;Tatiana Claudia Jara Herrera;cliente30@mail.cl;Hombre;34.0;Antofagasta;Antofagasta;Web;Smartphone;;450000;3;0.05
+830;10/04/2025;4;3;78;Anahí Ana Cornejo Mendoza;cliente78@mail.cl;Hombre;34.0;Concepción;;App;Pantalón;Vestuario;25000;2;0.0
+831;11/04/2025;20;0;32;Carol Antonia Sandoval Chávez;cliente32@mail.cl;Mujer;60.0;Temuco;La Araucanía;Web;Perfume;Belleza;35000;2;0.05
+832;12/04/2025;14;0;63;Geraldine Irma Álvarez Díaz;cliente63@mail.cl;Mujer;24.0;Santiago;;Web;Notebook;;750000;2;
+833;13/04/2025;5;1;178;Emiliano Hernández Castillo;cliente178@mail.cl;Mujer;55.0;Talcahuano;;Web;Lavadora;;700000;1;0.05
+834;14/04/2025;42;4;91;María Ávalos Vergara;cliente91@mail.cl;Hombre;39.0;Talcahuano;;Web;Notebook;Tecnología;750000;1;0.0
+835;15/04/2025;54;9;108;Gonzalo Jorge Muñoz Reyes;cliente108@mail.cl;Hombre;40.0;Talcahuano;;Tienda;Maquillaje;Belleza;15000;1;0.1
+836;16/04/2025;41;4;144;Rolando Patricio Muñoz Barría;cliente144@mail.cl;Mujer;40.0;Antofagasta;;Web;Maquillaje;Belleza;15000;2;
+837;17/04/2025;13;0;101;Andrea Josefina Galaz Ríos;cliente101@mail.cl;Mujer;21.0;Talcahuano;;Tienda;TV;;650000;3;0.05
+838;18/04/2025;46;5;99;María Lorena Bórquez Rodríguez;cliente99@mail.cl;Hombre;38.0;La Serena;Coquimbo;Web;Pantalón;Vestuario;25000;3;
+839;19/04/2025;40;1;108;Gonzalo Jorge Muñoz Reyes;cliente108@mail.cl;Hombre;40.0;Talcahuano;Biobío;Tienda;Lavadora;;700000;3;0.0
+840;20/04/2025;24;3;101;Andrea Josefina Galaz Ríos;cliente101@mail.cl;Mujer;21.0;La Serena;Coquimbo;App;Smartphone;Tecnología;450000;1;0.1
+841;21/04/2025;64;4;36;Josefa Plaza;cliente36@mail.cl;Mujer;23.0;Temuco;;Tienda;Polera;;12000;3;0.1
+842;22/04/2025;14;0;257;Vanessa Silva Campos;cliente257@mail.cl;Hombre;53.0;Santiago;Región Metropolitana;Web;Maquillaje;;15000;3;0.1
+843;23/04/2025;65;0;81;Joaquín Jaime Segura Parra;cliente81@mail.cl;Mujer;35.0;Rancagua;O'Higgins;Web;Notebook;;750000;3;
+844;24/04/2025;48;6;27;Ricardo Iván Zapata Riquelme;cliente27@mail.cl;Mujer;24.0;Valparaíso;Valparaíso;Tienda;Pantalón;Vestuario;25000;3;0.0
+845;25/04/2025;49;1;76;Benjamín Fernando Olea Retamal;cliente76@mail.cl;Hombre;47.0;Antofagasta;Antofagasta;Tienda;Notebook;Tecnología;750000;1;0.05
+846;26/04/2025;61;3;221;Juan Héctor Castro Silva;cliente221@mail.cl;Mujer;65.0;Concepción;Biobío;Tienda;Pantalón;Vestuario;25000;3;0.0
+847;27/04/2025;12;0;82;Noelia Lizama;cliente82@mail.cl;Hombre;;Viña del Mar;;Tienda;Maquillaje;Belleza;15000;2;
+848;28/04/2025;15;0;139;Mario Fonseca;cliente139@mail.cl;Hombre;47.0;Santiago;;Web;Smartphone;Tecnología;450000;2;0.1
+849;29/04/2025;42;4;271;Ana Varela López;cliente271@mail.cl;Mujer;55.0;Talcahuano;Biobío;Web;Pantalón;Vestuario;25000;2;0.0
+850;30/04/2025;59;1;164;Samuel Arias;cliente164@mail.cl;Mujer;28.0;Antofagasta;Antofagasta;Web;Zapatillas;Calzado;55000;1;0.1
+851;01/05/2025;56;2;34;Omar Maximiliano Molina Fuentes;cliente34@mail.cl;Mujer;25.0;Talcahuano;;Tienda;Pantalón;Vestuario;25000;3;0.05
+852;02/05/2025;9;9;86;Rudecindo Cares;cliente86@mail.cl;Hombre;31.0;Valparaíso;Valparaíso;Web;Perfume;Belleza;35000;3;0.05
+853;03/05/2025;14;0;254;María González Alfaro;cliente254@mail.cl;Hombre;50.0;Santiago;RM;Tienda;Smartphone;;450000;3;0.1
+854;04/05/2025;31;4;279;Osvaldo Víctor Rivera Palma;cliente279@mail.cl;Mujer;38.0;Rancagua;O'Higgins;Tienda;TV;;650000;1;0.05
+855;05/05/2025;33;13;108;Gonzalo Jorge Muñoz Reyes;cliente108@mail.cl;Hombre;40.0;Rancagua;;Web;Polera;Vestuario;12000;3;0.05
+856;06/05/2025;39;6;62;Raimundo Mario Rubilar Flores;cliente62@mail.cl;Mujer;35.0;Antofagasta;Antofagasta;Tienda;Smartphone;Tecnología;450000;1;0.05
+857;07/05/2025;16;3;22;Laura Aguilera Orellana;cliente22@mail.cl;Hombre;35.0;Temuco;;Tienda;Notebook;Tecnología;750000;3;0.0
+858;08/05/2025;17;0;10;Héctor Benjamín Sánchez Muñoz;cliente10@mail.cl;Mujer;44.0;Santiago;RM;Tienda;Polera;Vestuario;12000;2;
+859;09/05/2025;51;7;30;Tatiana Claudia Jara Herrera;cliente30@mail.cl;Hombre;34.0;Rancagua;O'Higgins;Tienda;Zapatillas;Calzado;55000;3;0.1
+860;10/05/2025;51;7;37;Alejandro Rodrigo Toro Espinoza;cliente37@mail.cl;Hombre;40.0;Rancagua;O'Higgins;Web;Polera;;12000;1;0.0
+861;11/05/2025;31;4;215;Vicente Juan Cáceres Castillo;cliente215@mail.cl;Hombre;34.0;Rancagua;O'Higgins;Tienda;Lavadora;Electrohogar;700000;3;0.05
+862;12/05/2025;41;4;185;Yasna Colomba Olivares Prieto;cliente185@mail.cl;Hombre;35.0;Antofagasta;;Web;Lavadora;Electrohogar;700000;2;0.0
+863;13/05/2025;2;2;270;Maite Díaz;cliente270@mail.cl;Hombre;39.0;Rancagua;;Web;TV;Electrohogar;650000;2;0.1
+864;14/05/2025;29;1;4;César Carlos Espinoza Uribe;cliente4@mail.cl;Hombre;56.0;Viña del Mar;Valparaíso;Tienda;Polera;Vestuario;12000;1;0.05
+865;15/05/2025;56;2;40;Elizabeth Meléndez Pacheco;cliente40@mail.cl;Hombre;40.0;Talcahuano;;Tienda;Pantalón;Vestuario;25000;1;0.1
+866;16/05/2025;12;0;12;Agustina Rosa Rojas Pastén;cliente12@mail.cl;Mujer;32.0;Viña del Mar;;Web;Smartphone;Tecnología;450000;1;0.05
+867;17/05/2025;15;0;155;Gonzalo Felipe Martínez Acevedo;cliente155@mail.cl;Mujer;41.0;Santiago;Metropolitana;Tienda;Perfume;Belleza;35000;2;
+868;18/05/2025;12;0;264;Alejandra Navarro;cliente264@mail.cl;Mujer;25.0;Viña del Mar;Valparaíso;App;Pantalón;Vestuario;25000;3;
+869;19/05/2025;16;3;56;Manuel Tomás Espinoza Díaz;cliente56@mail.cl;Mujer;49.0;Temuco;;Web;Notebook;Tecnología;750000;3;0.0
+870;20/05/2025;36;4;70;Bárbara Torres;cliente70@mail.cl;Mujer;30.0;Rancagua;;Web;Refrigerador;Electrohogar;800000;1;0.05
+871;21/05/2025;67;0;206;Rodrigo Cornejo Aranda;cliente206@mail.cl;Mujer;26.0;Talcahuano;Biobío;Web;Refrigerador;Electrohogar;800000;1;
+872;22/05/2025;44;7;204;Camila Natalia Pérez Arroyo;cliente204@mail.cl;Hombre;50.0;Antofagasta;Antofagasta;Web;Refrigerador;Electrohogar;800000;1;0.1
+873;23/05/2025;9;9;109;Lucas Miguel San Martín Catalán;cliente109@mail.cl;Hombre;41.0;Valparaíso;;Web;TV;;650000;2;
+874;24/05/2025;41;4;155;Gonzalo Felipe Martínez Acevedo;cliente155@mail.cl;Mujer;41.0;Antofagasta;Antofagasta;Tienda;Polera;Vestuario;12000;1;0.05
+875;25/05/2025;17;0;279;Osvaldo Víctor Rivera Palma;cliente279@mail.cl;Mujer;38.0;Santiago;Región Metropolitana;App;TV;Electrohogar;650000;1;0.05
+876;26/05/2025;64;4;280;Gaspar Cristian Vega Venegas;cliente280@mail.cl;Mujer;33.0;Temuco;La Araucanía;Web;Lavadora;Electrohogar;700000;1;
+877;27/05/2025;2;2;128;María Soto Castillo;cliente128@mail.cl;Mujer;31.0;Rancagua;;Tienda;Smartphone;;450000;2;0.05
+878;28/05/2025;17;0;164;Samuel Arias;cliente164@mail.cl;Mujer;28.0;Santiago;Metropolitana;Web;TV;Electrohogar;650000;1;0.0
+879;29/05/2025;49;1;198;David Márquez;cliente198@mail.cl;Mujer;39.0;Antofagasta;;Tienda;Perfume;Belleza;35000;2;0.0
+880;30/05/2025;5;1;130;María Palacios;cliente130@mail.cl;Hombre;31.0;Talcahuano;Biobío;Tienda;Refrigerador;Electrohogar;800000;3;0.05
+881;31/05/2025;70;6;101;Andrea Josefina Galaz Ríos;cliente101@mail.cl;Mujer;21.0;Talcahuano;Biobío;App;Smartphone;;450000;1;0.1
+882;01/06/2025;13;0;230;Blanca Anahí González Retamal;cliente230@mail.cl;Hombre;46.0;Talcahuano;Biobío;Tienda;Lavadora;Electrohogar;700000;1;0.05
+883;02/06/2025;13;0;154;Luz Pía Guerra Castillo;cliente154@mail.cl;Hombre;40.0;Talcahuano;Biobío;Web;Polera;;12000;2;0.1
+884;03/06/2025;19;5;16;Andrés Díaz Ortega;cliente16@mail.cl;Mujer;31.0;Temuco;;Tienda;TV;;650000;1;0.05
+885;04/06/2025;57;3;70;Bárbara Torres;cliente70@mail.cl;Mujer;30.0;Concepción;Biobío;Tienda;Maquillaje;;15000;2;
+886;05/06/2025;48;6;190;Elia Alicia Araya Mora;cliente190@mail.cl;Hombre;19.0;Valparaíso;Valparaíso;App;TV;;650000;2;0.05
+887;06/06/2025;69;1;85;Bárbara Tello;cliente85@mail.cl;Hombre;28.0;Puerto Montt;Los Lagos;Tienda;Pantalón;Vestuario;25000;2;
+888;07/06/2025;70;6;98;Lucas Álvaro Acevedo Agurto;cliente98@mail.cl;Hombre;41.0;Talcahuano;Biobío;Tienda;Perfume;;35000;3;0.1
+889;08/06/2025;9;9;199;Fabián Cristian Hormazábal Villablanca;cliente199@mail.cl;Hombre;38.0;Valparaíso;Valparaíso;Web;Lavadora;Electrohogar;700000;1;0.0
+890;09/06/2025;53;1;169;Antonella Julia Urrutia Oyarzo;cliente169@mail.cl;Mujer;35.0;Puerto Montt;;Tienda;Polera;Vestuario;12000;1;0.05
+891;10/06/2025;7;8;116;Daniel Alejandro Rivera Ibarra;cliente116@mail.cl;Mujer;41.0;Valparaíso;Valparaíso;Tienda;Maquillaje;Belleza;15000;2;0.1
+892;11/06/2025;21;5;275;Carolina Patricia Espinoza Berríos;cliente275@mail.cl;Hombre;26.0;Puerto Montt;;Tienda;Perfume;Belleza;35000;1;0.05
+893;12/06/2025;27;4;39;Pablo Franco Saldías Ruiz;cliente39@mail.cl;Hombre;22.0;Viña del Mar;Valparaíso;Web;Zapatillas;Calzado;55000;3;0.05
+894;13/06/2025;30;0;207;Eduardo René Valenzuela Venegas;cliente207@mail.cl;Mujer;44.0;Valparaíso;Valparaíso;Tienda;TV;;650000;1;0.0
+895;14/06/2025;29;1;83;Vilma Leyla Escobar Fuentes;cliente83@mail.cl;Hombre;55.0;Viña del Mar;;App;Zapatillas;Calzado;55000;1;
+896;15/06/2025;54;9;164;Samuel Arias;cliente164@mail.cl;Mujer;28.0;Talcahuano;;Web;Refrigerador;Electrohogar;800000;1;0.1
+897;16/06/2025;33;13;155;Gonzalo Felipe Martínez Acevedo;cliente155@mail.cl;Mujer;41.0;Rancagua;O'Higgins;Tienda;Notebook;Tecnología;750000;3;0.05
+898;17/06/2025;69;1;153;Esteban Cárdenas Silva;cliente153@mail.cl;Hombre;29.0;Puerto Montt;;Web;Lavadora;Electrohogar;700000;3;0.0
+899;18/06/2025;52;0;152;Cristian Daniel Muñoz Morales;cliente152@mail.cl;Mujer;42.0;Talcahuano;Biobío;Web;TV;Electrohogar;650000;3;0.1
+900;19/06/2025;67;0;241;Gloria Leyton;cliente241@mail.cl;Mujer;28.0;Talcahuano;Biobío;Tienda;Smartphone;;450000;3;0.1
+901;20/06/2025;27;4;191;Claudio Rodrigo Mancilla Sáez;cliente191@mail.cl;Mujer;32.0;Viña del Mar;Valparaíso;Web;Polera;Vestuario;12000;3;
+902;21/06/2025;53;1;184;Jacqueline Amanda Martínez Osorio;cliente184@mail.cl;Hombre;43.0;Puerto Montt;Los Lagos;Tienda;TV;Electrohogar;650000;1;0.1
+903;22/06/2025;50;0;264;Alejandra Navarro;cliente264@mail.cl;Mujer;25.0;Temuco;;Tienda;Pantalón;;25000;3;0.0
+904;23/06/2025;64;4;279;Osvaldo Víctor Rivera Palma;cliente279@mail.cl;Mujer;38.0;Temuco;La Araucanía;Tienda;Pantalón;Vestuario;25000;2;0.0
+905;24/06/2025;68;2;58;Rossana Flores;cliente58@mail.cl;Hombre;34.0;Santiago;;Tienda;Notebook;Tecnología;750000;3;0.1
+906;25/06/2025;25;3;165;Clara Rosa Aros Guerrero;cliente165@mail.cl;Mujer;49.0;Puerto Montt;Los Lagos;App;Zapatillas;;55000;3;0.1
+907;26/06/2025;48;6;145;Gaspar Oscar Concha Torres;cliente145@mail.cl;Hombre;41.0;Valparaíso;;Tienda;Maquillaje;;15000;2;0.0
+908;27/06/2025;6;2;60;Bárbara Molina Aranda;cliente60@mail.cl;Hombre;49.0;Concepción;;Web;Polera;Vestuario;12000;3;
+909;28/06/2025;53;1;272;Alison Araya-Millán;cliente272@mail.cl;Hombre;20.0;Puerto Montt;Los Lagos;Tienda;TV;Electrohogar;650000;2;0.05
+910;29/06/2025;43;0;22;Laura Aguilera Orellana;cliente22@mail.cl;Hombre;35.0;Santiago;Región Metropolitana;Tienda;TV;;650000;2;0.0
+911;30/06/2025;40;1;40;Elizabeth Meléndez Pacheco;cliente40@mail.cl;Hombre;40.0;Talcahuano;;App;Refrigerador;Electrohogar;800000;2;0.0
+912;01/07/2025;55;9;26;Felipe Daniel González Salinas;cliente26@mail.cl;Mujer;39.0;Antofagasta;Antofagasta;Tienda;Pantalón;;25000;2;0.0
+913;02/07/2025;60;1;2;Rosa Gaete Castro;cliente2@mail.cl;Hombre;36.0;Valparaíso;;Tienda;Polera;;12000;2;0.05
+914;03/07/2025;11;0;159;Patricio Luis Guzmán Herrera;cliente159@mail.cl;Mujer;;Antofagasta;Antofagasta;Tienda;Lavadora;;700000;1;0.1
+915;04/07/2025;2;2;74;Gloria Urra Ramos;cliente74@mail.cl;Hombre;56.0;Rancagua;O'Higgins;Tienda;Notebook;;750000;1;
+916;05/07/2025;48;6;104;María Anahí Mella Carrasco;cliente104@mail.cl;Mujer;28.0;Valparaíso;;Web;Pantalón;Vestuario;25000;2;0.05
+917;06/07/2025;6;2;235;Pablo Salazar;cliente235@mail.cl;Mujer;63.0;Concepción;;Tienda;Refrigerador;;800000;1;0.05
+918;07/07/2025;9;9;133;Sara Saavedra;cliente133@mail.cl;Hombre;25.0;Valparaíso;Valparaíso;Tienda;Perfume;;35000;2;0.05
+919;08/07/2025;48;6;26;Felipe Daniel González Salinas;cliente26@mail.cl;Mujer;39.0;Valparaíso;;App;Pantalón;Vestuario;25000;3;0.1
+920;09/07/2025;5;1;130;María Palacios;cliente130@mail.cl;Hombre;31.0;Talcahuano;;App;Notebook;Tecnología;750000;3;0.05
+921;10/07/2025;66;2;96;Javier Aravena;cliente96@mail.cl;Hombre;20.0;Talcahuano;Biobío;Tienda;Pantalón;Vestuario;25000;3;0.0
+922;11/07/2025;50;0;85;Bárbara Tello;cliente85@mail.cl;Hombre;28.0;Temuco;;Web;Maquillaje;;15000;3;0.0
+923;12/07/2025;7;8;69;Raquel Silva Méndez;cliente69@mail.cl;Mujer;42.0;Valparaíso;Valparaíso;Tienda;Notebook;;750000;3;0.1
+924;13/07/2025;33;13;137;José Juan Vargas Vega;cliente137@mail.cl;Hombre;28.0;Rancagua;O'Higgins;App;Maquillaje;;15000;1;0.1
+925;14/07/2025;40;1;15;Carmen Fuenzalida López;cliente15@mail.cl;Hombre;18.0;Talcahuano;;App;Pantalón;;25000;2;
+926;15/07/2025;68;2;124;Teresa Claudia Tobar Moya;cliente124@mail.cl;Mujer;21.0;Santiago;;Tienda;Perfume;;35000;3;0.0
+927;16/07/2025;20;0;24;Luisa Pía Figueroa Moreno;cliente24@mail.cl;Mujer;20.0;Temuco;La Araucanía;Web;Pantalón;Vestuario;25000;2;0.05
+928;17/07/2025;27;4;38;Christian Francisco Rojas Oyarzo;cliente38@mail.cl;Hombre;18.0;Viña del Mar;Valparaíso;Tienda;Zapatillas;;55000;2;0.1
+929;18/07/2025;32;5;212;Jairo Ian Villanueva Orellana;cliente212@mail.cl;Hombre;51.0;Puerto Montt;Los Lagos;Tienda;Refrigerador;;800000;2;0.0
+930;19/07/2025;52;0;30;Tatiana Claudia Jara Herrera;cliente30@mail.cl;Hombre;34.0;Talcahuano;;Web;Perfume;;35000;2;0.05
+931;20/07/2025;63;5;133;Sara Saavedra;cliente133@mail.cl;Hombre;25.0;Rancagua;O'Higgins;Tienda;Lavadora;Electrohogar;700000;3;
+932;21/07/2025;14;0;38;Christian Francisco Rojas Oyarzo;cliente38@mail.cl;Hombre;18.0;Santiago;Metropolitana;Tienda;Lavadora;Electrohogar;700000;3;0.0
+933;22/07/2025;8;1;155;Gonzalo Felipe Martínez Acevedo;cliente155@mail.cl;Mujer;41.0;Puerto Montt;Los Lagos;Web;TV;;650000;3;
+934;23/07/2025;68;2;115;Juan Michel Maldonado Molina;cliente115@mail.cl;Mujer;35.0;Santiago;Región Metropolitana;Tienda;Perfume;Belleza;35000;2;
+935;24/07/2025;27;4;89;Juan Vergara Sandoval;cliente89@mail.cl;Hombre;31.0;Viña del Mar;Valparaíso;Tienda;Pantalón;;25000;3;0.1
+936;25/07/2025;55;9;249;María Sofía Morales Arellano;cliente249@mail.cl;Mujer;59.0;Antofagasta;;Tienda;Notebook;Tecnología;750000;3;0.1
+937;26/07/2025;50;0;104;María Anahí Mella Carrasco;cliente104@mail.cl;Mujer;28.0;Temuco;La Araucanía;App;Notebook;;750000;2;0.0
+938;27/07/2025;41;4;57;Mario Daniel Hernández Álvarez;cliente57@mail.cl;Mujer;27.0;Antofagasta;Antofagasta;Tienda;Notebook;Tecnología;750000;2;0.1
+939;28/07/2025;12;0;142;Hilda Javiera Cofré Lucero;cliente142@mail.cl;Hombre;53.0;Viña del Mar;Valparaíso;App;Lavadora;Electrohogar;700000;2;0.0
+940;29/07/2025;69;1;205;Mauricio Paul Gajardo Córdova;cliente205@mail.cl;Hombre;21.0;Puerto Montt;Los Lagos;Tienda;Notebook;;750000;2;
+941;30/07/2025;41;4;79;Gloria Pereira González;cliente79@mail.cl;Mujer;39.0;Antofagasta;Antofagasta;App;Smartphone;;450000;1;0.05
+942;31/07/2025;58;1;254;María González Alfaro;cliente254@mail.cl;Hombre;50.0;Puerto Montt;;App;TV;;650000;3;
+943;01/08/2025;50;0;171;Alejandra Vega;cliente171@mail.cl;Hombre;27.0;Temuco;La Araucanía;Web;Smartphone;;450000;3;0.05
+944;02/08/2025;49;1;174;Alfonso José Sáez Barrientos;cliente174@mail.cl;Mujer;42.0;Antofagasta;Antofagasta;Tienda;Polera;;12000;3;
+945;03/08/2025;52;0;180;Gisela Carol Ávila Suárez;cliente180@mail.cl;Hombre;70.0;Talcahuano;Biobío;Tienda;Perfume;Belleza;35000;3;0.0
+946;04/08/2025;1;8;160;Mónica Araya Álvarez;cliente160@mail.cl;Mujer;45.0;Santiago;;Tienda;TV;;650000;3;
+947;05/08/2025;41;4;130;María Palacios;cliente130@mail.cl;Hombre;31.0;Antofagasta;Antofagasta;Tienda;Notebook;Tecnología;750000;1;0.05
+948;06/08/2025;58;1;149;Olivia Pino Pizarro;cliente149@mail.cl;Mujer;44.0;Puerto Montt;Los Lagos;Web;Polera;Vestuario;12000;3;0.0
+949;07/08/2025;11;0;121;Constanza Osorio;cliente121@mail.cl;Hombre;47.0;Antofagasta;Antofagasta;Tienda;Polera;Vestuario;12000;2;
+950;08/08/2025;13;0;217;Tamara Maritza Inostroza Márquez;cliente217@mail.cl;Hombre;28.0;Talcahuano;Biobío;Web;Lavadora;;700000;3;0.1
+951;09/08/2025;3;1;35;Melania Jessica Urrutia Palacios;cliente35@mail.cl;Mujer;47.0;Valparaíso;Valparaíso;App;Zapatillas;Calzado;55000;2;
+952;10/08/2025;8;1;227;Franklin Torres Pastén;cliente227@mail.cl;Mujer;38.0;Puerto Montt;Los Lagos;App;Notebook;Tecnología;750000;3;
+953;11/08/2025;20;0;86;Rudecindo Cares;cliente86@mail.cl;Hombre;31.0;Temuco;La Araucanía;Tienda;Polera;;12000;3;0.0
+954;12/08/2025;59;1;270;Maite Díaz;cliente270@mail.cl;Hombre;39.0;Antofagasta;Antofagasta;Tienda;Maquillaje;Belleza;15000;2;0.0
+955;13/08/2025;59;1;58;Rossana Flores;cliente58@mail.cl;Hombre;34.0;Antofagasta;Antofagasta;Tienda;Zapatillas;;55000;3;
+956;14/08/2025;28;5;128;María Soto Castillo;cliente128@mail.cl;Mujer;31.0;Viña del Mar;Valparaíso;Web;Notebook;Tecnología;750000;2;0.05
+957;15/08/2025;26;6;23;Brayan Amaro Araya Valenzuela;cliente23@mail.cl;Mujer;38.0;Rancagua;O'Higgins;App;Polera;;12000;2;0.1
+958;16/08/2025;52;0;185;Yasna Colomba Olivares Prieto;cliente185@mail.cl;Hombre;35.0;Talcahuano;;Web;Smartphone;Tecnología;450000;3;0.05
+959;17/08/2025;33;13;76;Benjamín Fernando Olea Retamal;cliente76@mail.cl;Hombre;47.0;Rancagua;;App;Polera;Vestuario;12000;1;
+960;18/08/2025;58;1;267;Angélica Reyes;cliente267@mail.cl;Mujer;57.0;Puerto Montt;Los Lagos;Web;Smartphone;;450000;1;
+961;19/08/2025;60;1;94;Jorge Enrique Vidal Castillo;cliente94@mail.cl;Hombre;34.0;Valparaíso;Valparaíso;Web;TV;Electrohogar;650000;2;0.05
+962;20/08/2025;46;5;229;Elsa Llanos;cliente229@mail.cl;Hombre;29.0;La Serena;Coquimbo;Web;TV;Electrohogar;650000;2;
+963;21/08/2025;52;0;277;Verónica Cartes Rebolledo;cliente277@mail.cl;Mujer;40.0;Talcahuano;;Web;Notebook;Tecnología;750000;1;
+964;22/08/2025;32;5;92;Belén Gamboa Carvajal;cliente92@mail.cl;Mujer;49.0;Puerto Montt;Los Lagos;App;Pantalón;;25000;3;0.1
+965;23/08/2025;61;3;150;Patricia Raquel Reyes Parra;cliente150@mail.cl;Hombre;41.0;Concepción;Biobío;App;Maquillaje;Belleza;15000;3;0.1
+966;24/08/2025;27;4;265;Pablo Arroyo López;cliente265@mail.cl;Mujer;34.0;Viña del Mar;Valparaíso;Tienda;Perfume;Belleza;35000;1;0.05
+967;25/08/2025;59;1;50;Jorge Joaquín Sánchez Leiva;cliente50@mail.cl;Hombre;18.0;Antofagasta;Antofagasta;Web;Refrigerador;Electrohogar;800000;2;
+968;26/08/2025;43;0;279;Osvaldo Víctor Rivera Palma;cliente279@mail.cl;Mujer;38.0;Santiago;;Tienda;Refrigerador;Electrohogar;800000;3;0.0
+969;27/08/2025;42;4;146;María Josefina Flores Manríquez;cliente146@mail.cl;Mujer;47.0;Talcahuano;Biobío;Tienda;Refrigerador;;800000;1;0.1
+970;28/08/2025;57;3;101;Andrea Josefina Galaz Ríos;cliente101@mail.cl;Mujer;21.0;Concepción;Biobío;Tienda;Refrigerador;Electrohogar;800000;3;
+971;29/08/2025;12;0;268;Jaime Toloza Díaz;cliente268@mail.cl;Hombre;20.0;Viña del Mar;Valparaíso;Tienda;Lavadora;Electrohogar;700000;2;0.1
+972;30/08/2025;13;0;50;Jorge Joaquín Sánchez Leiva;cliente50@mail.cl;Hombre;18.0;Talcahuano;;Tienda;Polera;Vestuario;12000;3;0.1
+973;31/08/2025;15;0;152;Cristian Daniel Muñoz Morales;cliente152@mail.cl;Mujer;42.0;Santiago;Región Metropolitana;Web;Lavadora;;700000;1;0.1
+974;01/09/2025;70;6;16;Andrés Díaz Ortega;cliente16@mail.cl;Mujer;31.0;Talcahuano;;Tienda;Lavadora;Electrohogar;700000;1;0.0
+975;02/09/2025;42;4;125;Martín Jorge Vergara Sáez;cliente125@mail.cl;Mujer;45.0;Talcahuano;;App;Zapatillas;Calzado;55000;2;0.1
+976;03/09/2025;4;3;67;Francisca Valenzuela Pavez;cliente67@mail.cl;Hombre;37.0;Concepción;Biobío;App;Maquillaje;Belleza;15000;3;0.05
+977;04/09/2025;41;4;186;Laura Mary Sánchez Quintanilla;cliente186@mail.cl;Mujer;46.0;Antofagasta;;App;TV;;650000;3;0.05
+978;05/09/2025;66;2;94;Jorge Enrique Vidal Castillo;cliente94@mail.cl;Hombre;34.0;Talcahuano;;Tienda;TV;Electrohogar;650000;1;0.1
+979;06/09/2025;15;0;169;Antonella Julia Urrutia Oyarzo;cliente169@mail.cl;Mujer;35.0;Santiago;Región Metropolitana;Web;Perfume;Belleza;35000;2;
+980;07/09/2025;28;5;28;Julia Solange Maturana Cáceres;cliente28@mail.cl;Hombre;42.0;Viña del Mar;;Web;Smartphone;Tecnología;450000;3;0.05
+981;08/09/2025;20;0;251;Luis Cisternas Apablaza;cliente251@mail.cl;Hombre;22.0;Temuco;La Araucanía;Tienda;Pantalón;Vestuario;25000;1;0.1
+982;09/09/2025;12;0;193;Florinda Josefa Cortés Morales;cliente193@mail.cl;Hombre;40.0;Viña del Mar;;Tienda;Perfume;Belleza;35000;2;0.1
+983;10/09/2025;9;9;104;María Anahí Mella Carrasco;cliente104@mail.cl;Mujer;28.0;Valparaíso;Valparaíso;Web;TV;Electrohogar;650000;3;0.05
+984;11/09/2025;7;8;229;Elsa Llanos;cliente229@mail.cl;Hombre;29.0;Valparaíso;Valparaíso;Tienda;Smartphone;;450000;2;0.05
+985;12/09/2025;51;7;232;Miguel Araya Segura;cliente232@mail.cl;Hombre;40.0;Rancagua;O'Higgins;Web;Refrigerador;;800000;2;
+986;13/09/2025;57;3;205;Mauricio Paul Gajardo Córdova;cliente205@mail.cl;Hombre;21.0;Concepción;Biobío;Tienda;Notebook;Tecnología;750000;1;0.0
+987;14/09/2025;69;1;48;Juan Morales Sánchez;cliente48@mail.cl;Mujer;50.0;Puerto Montt;Los Lagos;Tienda;Refrigerador;Electrohogar;800000;2;0.1
+988;15/09/2025;44;7;116;Daniel Alejandro Rivera Ibarra;cliente116@mail.cl;Mujer;41.0;Antofagasta;;Web;Notebook;Tecnología;750000;2;
+989;16/09/2025;53;1;162;Francisco Ramírez Faúndez;cliente162@mail.cl;Mujer;47.0;Puerto Montt;Los Lagos;Tienda;TV;Electrohogar;650000;3;0.05
+990;17/09/2025;37;1;18;Vanessa Emilia Osorio Saavedra;cliente18@mail.cl;Mujer;41.0;Viña del Mar;;Web;Refrigerador;Electrohogar;800000;1;0.1
+991;18/09/2025;19;5;112;Karin Elena Jaramillo Carrasco;cliente112@mail.cl;Hombre;37.0;Temuco;;Web;Refrigerador;;800000;1;0.0
+992;19/09/2025;28;5;28;Julia Solange Maturana Cáceres;cliente28@mail.cl;Hombre;42.0;Viña del Mar;;Web;Smartphone;;450000;2;0.1
+993;20/09/2025;30;0;154;Luz Pía Guerra Castillo;cliente154@mail.cl;Hombre;40.0;Valparaíso;Valparaíso;App;Pantalón;;25000;1;0.0
+994;21/09/2025;14;0;177;Benjamín Claudio Riffo Cid;cliente177@mail.cl;Mujer;38.0;Santiago;Región Metropolitana;Web;Lavadora;Electrohogar;700000;3;0.0
+995;22/09/2025;31;4;69;Raquel Silva Méndez;cliente69@mail.cl;Mujer;42.0;Rancagua;;Tienda;Perfume;Belleza;35000;2;0.05
+996;23/09/2025;8;1;253;Luis Franco Barros Hermosilla;cliente253@mail.cl;Hombre;;Puerto Montt;Los Lagos;Web;Perfume;;35000;2;0.0
+997;24/09/2025;25;3;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Puerto Montt;Los Lagos;App;TV;;650000;2;0.1
+998;25/09/2025;50;0;36;Josefa Plaza;cliente36@mail.cl;Mujer;23.0;Temuco;;Web;Zapatillas;;55000;1;
+999;26/09/2025;33;13;79;Gloria Pereira González;cliente79@mail.cl;Mujer;39.0;Rancagua;;Tienda;Smartphone;;450000;2;0.05
+1000;27/09/2025;51;7;58;Rossana Flores;cliente58@mail.cl;Hombre;34.0;Rancagua;;Tienda;TV;Electrohogar;650000;1;
+508;23/05/2024;33;13;210;Mariana Patricia Allende Moya;cliente210@mail.cl;Hombre;75.0;Rancagua;;Tienda;Refrigerador;Electrohogar;800000;3;0.0
+819;30/03/2025;52;0;123;Paulino Vargas Farías;cliente123@mail.cl;Hombre;54.0;Talcahuano;Biobío;Web;Notebook;;750000;3;0.0
+453;29/03/2024;67;0;6;Yaritza Quiroga Martínez;cliente6@mail.cl;Mujer;35.0;Talcahuano;Biobío;Web;Smartphone;Tecnología;450000;3;0.1
+369;05/01/2024;22;1;238;Manuel Rodríguez Pérez;cliente238@mail.cl;Hombre;40.0;Viña del Mar;;Tienda;Maquillaje;;15000;1;
+243;01/09/2023;67;0;102;Vania Evelyn Leyton García;cliente102@mail.cl;Hombre;32.0;Talcahuano;;App;Smartphone;;450000;3;0.05
+930;19/07/2025;52;0;30;Tatiana Claudia Jara Herrera;cliente30@mail.cl;Hombre;34.0;Talcahuano;;Web;Perfume;;35000;2;0.05
+263;21/09/2023;67;0;118;Juana Morales Novoa;cliente118@mail.cl;Mujer;23.0;Talcahuano;Biobío;Web;TV;Electrohogar;650000;2;
+811;22/03/2025;4;3;205;Mauricio Paul Gajardo Córdova;cliente205@mail.cl;Hombre;21.0;Concepción;;App;Lavadora;Electrohogar;700000;2;0.1
+319;16/11/2023;10;7;244;Amparo Javiera Rodríguez Contreras;cliente244@mail.cl;Hombre;48.0;Valparaíso;;Tienda;Polera;;12000;1;
+50;20/02/2023;10;7;30;Tatiana Claudia Jara Herrera;cliente30@mail.cl;Hombre;34.0;Valparaíso;;Web;Maquillaje;;15000;3;
+447;23/03/2024;27;4;115;Juan Michel Maldonado Molina;cliente115@mail.cl;Mujer;35.0;Viña del Mar;Valparaíso;Web;Polera;;12000;1;0.05
+143;24/05/2023;4;3;142;Hilda Javiera Cofré Lucero;cliente142@mail.cl;Hombre;53.0;Concepción;Biobío;Tienda;Pantalón;;25000;3;0.1
+969;27/08/2025;42;4;146;María Josefina Flores Manríquez;cliente146@mail.cl;Mujer;47.0;Talcahuano;Biobío;Tienda;Refrigerador;;800000;1;0.1
+346;13/12/2023;20;0;132;Jorge Rafael Riquelme Vargas;cliente132@mail.cl;Mujer;38.0;Temuco;La Araucanía;Tienda;Perfume;Belleza;35000;1;0.05
+972;30/08/2025;13;0;50;Jorge Joaquín Sánchez Leiva;cliente50@mail.cl;Hombre;18.0;Talcahuano;;Tienda;Polera;Vestuario;12000;3;0.1
+134;15/05/2023;12;0;188;Felipe Cofré Molina;cliente188@mail.cl;Mujer;37.0;Viña del Mar;;Tienda;Notebook;Tecnología;750000;3;0.05
+105;16/04/2023;47;1;53;Eduardo Manuel Morales Riffo;cliente53@mail.cl;Mujer;29.0;Viña del Mar;Valparaíso;Web;TV;;650000;1;0.0
+7;08/01/2023;17;0;160;Mónica Araya Álvarez;cliente160@mail.cl;Mujer;45.0;Santiago;;Web;Refrigerador;;800000;2;0.1
+601;24/08/2024;59;1;148;Víctor Alejandro Ramírez Soto;cliente148@mail.cl;Hombre;22.0;Antofagasta;Antofagasta;App;Lavadora;Electrohogar;700000;1;
+497;12/05/2024;44;7;175;Carolina Villagrán Miranda;cliente175@mail.cl;Hombre;41.0;Antofagasta;;Tienda;Notebook;Tecnología;750000;3;0.0
