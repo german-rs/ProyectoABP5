@@ -45,13 +45,13 @@
 - [X] Regresión visualizada con Seaborn
 
 ### Lección 5 — Análisis Visual (Seaborn)
-- [ ] pairplot generado
-- [ ] violinplot generado
-- [ ] jointplot generado
-- [ ] heatmap generado
-- [ ] FacetGrid segmentado por categorías
-- [ ] Estilos, colores y tamaños ajustados
-- [ ] Insights visuales documentados
+- [X] pairplot generado
+- [X] violinplot generado
+- [X] jointplot generado
+- [X] heatmap generado
+- [X] FacetGrid segmentado por categorías
+- [X] Estilos, colores y tamaños ajustados
+- [X] Insights visuales documentados
 
 ### Lección 6 — Matplotlib
 - [ ] Figuras y subplots creados
