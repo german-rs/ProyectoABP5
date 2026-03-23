@@ -6,10 +6,10 @@
 **Lección 2 — CONCEPTOS BÁSICOS DE ESTADÍSTICA DESCRIPTIVA**
 
 ## Tarea actual
-- [ ] Calcular media, mediana, moda, varianza y desviación estándar
-- [ ] Determinar cuartiles y percentiles
-- [ ] Generar histogramas y boxplots
-- [ ] Identificar valores atípicos y documentar su impacto
+- [X] Calcular media, mediana, moda, varianza y desviación estándar
+- [X] Determinar cuartiles y percentiles
+- [X] Generar histogramas y boxplots
+- [X] Identificar valores atípicos y documentar su impacto
 
 ## Decisiones tomadas recientemente
 - Se usó el dataset real `E-ShopNow (Proyecto ABP M2).csv` ubicado en `data/raw/` (no se generó dataset sintético)

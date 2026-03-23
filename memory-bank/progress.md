@@ -22,12 +22,12 @@
 - [X] Primeros hallazgos escritos en Markdown
 
 ### Lección 2 — Estadística Descriptiva
-- [ ] Media, mediana, moda calculadas
-- [ ] Varianza y desviación estándar calculadas
-- [ ] Cuartiles y percentiles determinados
-- [ ] Histogramas generados y exportados
-- [ ] Boxplots generados y exportados
-- [ ] Outliers identificados y documentados
+- [X] Media, mediana, moda calculadas
+- [X] Varianza y desviación estándar calculadas
+- [X] Cuartiles y percentiles determinados
+- [X] Histogramas generados y exportados
+- [X] Boxplots generados y exportados
+- [X] Outliers identificados y documentados
 
 ### Lección 3 — Correlación
 - [ ] Scatterplots entre variables clave
