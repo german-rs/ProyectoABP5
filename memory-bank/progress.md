@@ -64,11 +64,11 @@
 A continuación se muestran los resultados finales del análisis visual:
 
 **1. Ventas por Canal y Categoría**
-![Ventas por Canal](outputs/graphs/06_barras_ventas_canal_categoria.png)
+![Ventas por Canal](https://github.com/german-rs/ProyectoABP5/blob/main/outputs/graphs/06_barras_ventas_canal_categoria.png)
 
 **2. Evolución Temporal de Ventas**
 *(Este gráfico incluye las correcciones de manejo de fechas y validación de secuencias vacías)*
-![Evolución Temporal](outputs/graphs/06_evolucion_temporal_ventas.png)
+![Evolución Temporal](https://github.com/german-rs/ProyectoABP5/blob/main/outputs/graphs/06_evolucion_temporal_ventas.png)
 
 **3. Dashboard Final ComercioYA**
-![Dashboard Final](outputs/reports/06_dashboard_eda_final.png)
+![Dashboard Final](https://github.com/german-rs/ProyectoABP5/blob/main/outputs/reports/06_dashboard_eda_final.png)
