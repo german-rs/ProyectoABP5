@@ -53,20 +53,22 @@
 - [X] Estilos, colores y tamaños ajustados
 - [X] Insights visuales documentados
 
-### Lección 6 — Matplotlib
-- [ ] Figuras y subplots creados
-- [ ] Títulos, etiquetas, leyendas y ticks personalizados
-- [ ] Anotaciones y límites aplicados
-- [ ] Presentación final con gráficos generada
-- [ ] Informe EDA con visualizaciones embebidas entregado
+### Lección 6 — Visualización con Matplotlib (Dashboard Final)
+- [x] Gráficos de barras de ventas por canal y categoría
+- [x] Gráfico de línea con evolución temporal de ventas
+- [x] Anotaciones de máximos y mínimos (idxmax/idxmin)
+- [x] Exportación de gráficos individuales en PNG
+- [x] Dashboard integrador (figura con múltiples subplots)
 
----
+#### Visualizaciones Generadas
+A continuación se muestran los resultados finales del análisis visual:
 
-## Deuda técnica / bugs conocidos
-_(Registrar problemas encontrados)_
-- Ejemplo: "El dataset tiene 3% de nulos en `monto_compra`, pendiente de imputación"
+**1. Ventas por Canal y Categoría**
+![Ventas por Canal](outputs/graphs/06_barras_ventas_canal_categoria.png)
 
-## Gráficos generados
-| Archivo | Lección | Estado |
-|---------|---------|--------|
-| _(vacío)_ | — | — |
+**2. Evolución Temporal de Ventas**
+*(Este gráfico incluye las correcciones de manejo de fechas y validación de secuencias vacías)*
+![Evolución Temporal](outputs/graphs/06_linea_evolucion_mensual.png)
+
+**3. Dashboard Final ComercioYA**
+![Dashboard Final](outputs/graphs/06_dashboard_final.png)
