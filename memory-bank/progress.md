@@ -68,7 +68,7 @@ A continuación se muestran los resultados finales del análisis visual:
 
 **2. Evolución Temporal de Ventas**
 *(Este gráfico incluye las correcciones de manejo de fechas y validación de secuencias vacías)*
-![Evolución Temporal](outputs/graphs/06_linea_evolucion_mensual.png)
+![Evolución Temporal](outputs/graphs/06_evolucion_temporal_ventas.png)
 
 **3. Dashboard Final ComercioYA**
-![Dashboard Final](outputs/graphs/06_dashboard_final.png)
+![Dashboard Final](outputs/reports/06_dashboard_eda_final.png)
