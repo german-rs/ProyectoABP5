@@ -7,8 +7,8 @@ Proyecto de análisis exploratorio de datos sobre comportamiento de clientes de 
 
 ## 📊 Informe Ejecutivo
 
-**Proyecto:** Evaluación de Comportamiento de Clientes de ComercioYA 
-**Autor:** Germán Riveros 
+**Proyecto:** Evaluación de Comportamiento de Clientes de ComercioYA
+**Autor:** Germán Riveros
 **Fecha:** 23 de marzo de 2026  
 
 ### 1. Resumen Ejecutivo
