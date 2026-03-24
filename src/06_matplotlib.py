@@ -96,15 +96,13 @@ datos = datos.assign(
 datos["region_cliente"] = datos["region_cliente"].replace(
     {"RM": "Región Metropolitana", "Metropolitana": "Región Metropolitana"}
 )
-# datos["fecha_venta"] = pd.to_datetime(datos["fecha_venta"], dayfirst=True)
-#datos["fecha_venta"] = pd.to_datetime(datos["fecha_venta"], format="%d/%m/%Y", errors='coerce')
+
 datos["fecha_venta"] = pd.to_datetime(
     datos["fecha_venta"],
     dayfirst=True,
     format='mixed',
     errors='coerce'
 )
-#datos["mes_venta"]   = datos["fecha_venta"].dt.to_period("M").astype(str)
 datos["mes_venta"] = datos["fecha_venta"].dt.to_period("M").astype(str)
 
 datos_cat = datos.dropna(subset=["categoria_producto"])
